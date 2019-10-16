@@ -1,0 +1,326 @@
+<boards>
+  <board>
+    <id>CYW920819EVB-02</id>
+    <category>WICED Bluetooth BSPs</category>
+    <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYW920819EVB-02</board_uri>
+    <versions>
+      <version>
+        <num>2.0.0 release</num>
+        <commit>release-v2.0.0</commit>
+      </version>
+      <version>
+        <num>Latest 2.X release</num>
+        <commit>latest-v2.X</commit>
+      </version>
+    </versions>
+    <chips>
+      <mcu>CYW20819A1KFBG</mcu>
+      <radio>CYW20819</radio>
+    </chips>
+    <name>CYW920819EVB-02</name>
+    <summary>The Cypress CYW920819EVB-02 Evaluation Kit enables you to evaluate and develop single-chip Bluetooth applications using the CYW20819, an ultra-low-power dual-mode Bluetooth 5.0 wireless MCU device. The CYW20819 is a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting BR/EDR/BLE. Manufactured using advanced CMOS low-power process, the CYW20819 employs high integration to reduce external components, thereby minimizing the device's footprint and cost. This kit helps evaluate device functionality and develop applications quickly for faster time-to-market.</summary>
+    <prov_capabilities>ble br_edr mesh hid audio ota hal btsdk CYW920819EVB_02 lsm9ds1 ncu15wf104 CYW208XX</prov_capabilities>
+    <description><![CDATA[
+        <div class="category">Kit Features:</div><ul>
+        <li>62-FBGA CYW20819 dual-mode (BLE/BR/EDR) Bluetooth 5.0-compliant wireless MCU</li>
+        <li>Arduino compatible headers for hardware expansion</li>
+        <li>On-board sensors - a lsm9ds1 9-axis motion sensor (3D digital linear acceleration sensor, 3D digital angular rate sensor, and 3D digital magnetic sensor) and a ncu15wf104 thermistor</li>
+        <li>User switches and LEDs</li>
+        <li>USB connector for power, programming and USB-UART bridge</li>
+        </ul><p/>
+
+        <div class="category">Kit Contents:</div><ul>
+        <li>CYW920819EVB-02 Evaluation board</li>
+        <li>USB Standard-A to Micro-B cable</li>
+        <li>Quick Start Guide</li>
+        </ul>
+        </body>
+        </html>
+    ]]></description>
+    <documentation_url>http://www.cypress.com/CYW920819EVB-02</documentation_url>
+  </board>
+  <board>
+    <id>CYBT-213043-MESH</id>
+    <category>WICED Bluetooth BSPs</category>
+    <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYBT-213043-MESH</board_uri>
+    <versions>
+      <version>
+        <num>2.0.0 release</num>
+        <commit>release-v2.0.0</commit>
+      </version>
+      <version>
+        <num>Latest 2.X release</num>
+        <commit>latest-v2.X</commit>
+      </version>
+    </versions>
+    <chips>
+      <mcu>CYBT-213043-02</mcu>
+      <radio>CYW20819</radio>
+    </chips>
+    <name>CYBT-213043-MESH</name>
+    <summary>The EZ-BT Mesh Evaluation Kit (CYBT-213043-MESH) enables you to evaluate SIG Mesh functionality and features using the EZ-BT WICED Module CYBT-213043-02. The CYBT-213043-02 EZ-BT WICED Module is an integrated, fully certified, 12.0 mm x 16.61 mm x 1.70 mm, programmable dual-mode Bluetooth(R) module designed to reduce your time-to-market. The CYBT-213043-02 module utilizes the Cypress CYW20819 silicon device.</summary>
+    <prov_capabilities>ble br_edr mesh hid ota hal btsdk CYBT_213043_MESH</prov_capabilities>
+    <description><![CDATA[
+        <div class="category">Kit Features:</div><ul>
+        <li>CYW20819-based dual-mode (BLE/BR/EDR) Bluetooth 5.0-compliant fully certified module (CYBT-213043-02)</li>
+        <li>On-Board Sensor for Mesh Application Development (Thermistor, ALS, PIR Motion Sensor)</li>
+        <li>On-Board RGB LED with additional 1MB External Serial Flash</li>
+        <li>Bluetooth Low Energy (BLE), Bluetooth Basic Rate (BR) and Enhanced Data Rate (EDR)</li>
+        <li>FCC, ISED, MIC, and CE Certified Module on board (CYBT-213043-02)</li>
+        <li>Bluetooth 5.0 with SIG MESH Qualified Module (CYBT-213043-02)</li>
+        <li>USB connector for power, programming and USB-UART bridge</li>
+        </ul>
+
+        <div class="category">Kit Contents:</div><ul>
+        <li>4x Mesh Evaluation Boards</li>
+        <li>4x USB-A to USB Micro-B Cables</li>
+        <li>1x Quick Start Guide</li>
+        </ul>
+      ]]></description>
+    <documentation_url>http://www.cypress.com/CYBT-213043-MESH</documentation_url>
+  </board>
+  <board>
+    <id>CYBT-213043-EVAL</id>
+    <category>WICED Bluetooth BSPs</category>
+    <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYBT-213043-EVAL</board_uri>
+    <versions>
+      <version>
+        <num>2.0.0 release</num>
+        <commit>release-v2.0.0</commit>
+      </version>
+      <version>
+        <num>Latest 2.X release</num>
+        <commit>latest-v2.X</commit>
+      </version>
+    </versions>
+    <chips>
+      <mcu>CYBT-213043-02</mcu>
+      <radio>CYW20819</radio>
+    </chips>
+    <name>CYBT-213043-EVAL</name>
+    <summary>The Cypress CYBT-213043-EVAL Evaluation Kit enables you to evaluate and develop single-chip Bluetooth applications using the EZ-BT WICED Module CYBT-213043-02. The CYBT-213043-02 EZ-BT WICED Module is an integrated, fully certified, 12.0 mm x 16.61 mm x 1.70 mm, programmable dual-mode Bluetooth module designed to reduce your time-to-market. The CYBT-213043-02 module utilizes the Cypress CYW20819 silicon device.  Manufactured using advanced CMOS low-power process, the CYW20819 employs high integration to reduce external components, thereby minimizing the device's footprint and cost. This kit helps evaluate device functionality and develop applications quickly for faster time-to-market.</summary>
+    <prov_capabilities>ble br_edr mesh hid ota hal btsdk CYBT_213043_EVAL</prov_capabilities>
+    <description><![CDATA[
+        <div class="category">Kit Features:</div><ul>
+        <li>CYW20819-based dual-mode (BLE/BR/EDR) Bluetooth 5.0-compliant fully certified module (CYBT-213043-02)</li>
+        <li>Arduino compatible headers for hardware expansion</li>
+        <li>User switches and LEDs</li>
+        <li>FCC, ISED, MIC, and CE Certified Module on board (CYBT-213043-02)</li>
+        <li>USB connector for power, programming and USB-UART bridge</li>
+        </ul><p/>
+
+        <div class="category">Kit Contents:</div><ul>
+        <li>CYBT-213043-EVAL Evaluation board</li>
+        <li>USB Standard-A to Micro-B cable</li>
+        <li>Quick Start Guide</li>
+        </ul>
+        </body>
+        </html>
+    ]]></description>
+    <documentation_url>http://www.cypress.com/CYBT-213043-EVAL</documentation_url>
+  </board>
+  <board>
+    <id>CYW920820EVB-02</id>
+    <category>WICED Bluetooth BSPs</category>
+    <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYW920820EVB-02</board_uri>
+    <versions>
+      <version>
+        <num>2.0.0 release</num>
+        <commit>release-v2.0.0</commit>
+      </version>
+      <version>
+        <num>Latest 2.X release</num>
+        <commit>latest-v2.X</commit>
+      </version>
+    </versions>
+    <chips>
+      <mcu>CYW20820A1KFBG</mcu>
+      <radio>CYW20820</radio>
+    </chips>
+    <name>CYW920820EVB-02</name>
+    <summary>The Cypress CYW920820EVB-02 Evaluation Kit enables you to evaluate and develop single-chip Bluetooth applications using the CYW20820, an ultra-low-power dual-mode Bluetooth 5.0 wireless MCU device. The CYW20820 is a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting BR/EDR/BLE. The CYW20820 delivers up to 10.5 dBm Tx power in BLE and BR modes and up to 4 dBm in EDR mode that extends range in applications like home and industrial automation, wearables, toys, and HID. The CYW20820 employs high integration to reduce external components, thereby minimizing the device's footprint and cost. This kit helps evaluate device functionality and develop applications quickly for faster time-to-market.</summary>
+    <prov_capabilities>ble br_edr mesh hid audio ota hal btsdk CYW920820EVB_02 lsm9ds1 ncu15wf104 CYW208XX</prov_capabilities>
+    <description><![CDATA[
+        <div class="category">Kit Features:</div><ul>
+        <li>62-FBGA CYW20820 dual-mode (BLE/BR/EDR) Bluetooth 5.0-compliant wireless MCU with internal Power Amplifier (iPA)</li>
+        <li>Arduino compatible headers for hardware expansion</li>
+        <li>On-board sensors - a lsm9ds1 9-axis motion sensor (3D digital linear acceleration sensor, 3D digital angular rate sensor, and 3D digital magnetic sensor) and a ncu15wf104 thermistor</li>
+        <li>User switches and LEDs</li>
+        <li>USB connector for power, programming and USB-UART bridge</li>
+        </ul><p/>
+
+        <div class="category">Kit Contents:</div><ul>
+        <li>CYW920820EVB-02 Evaluation board</li>
+        <li>USB Standard-A to Micro-B cable</li>
+        <li>Quick Start Guide</li>
+        </ul>
+        </body>
+        </html>
+    ]]></description>
+    <documentation_url>http://www.cypress.com/CYW920820EVB-02</documentation_url>
+  </board>
+  <board>
+    <id>CYW989820EVB-01</id>
+    <category>WICED Bluetooth BSPs</category>
+    <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYW989820EVB-01</board_uri>
+    <versions>
+      <version>
+        <num>2.0.0 release</num>
+        <commit>release-v2.0.0</commit>
+      </version>
+      <version>
+        <num>Latest 2.X release</num>
+        <commit>latest-v2.X</commit>
+      </version>
+    </versions>
+    <chips>
+      <mcu>CYW89820BWMLG</mcu>
+      <radio>CYW20820</radio>
+    </chips>
+    <name>CYW989820EVB-01</name>
+    <summary>The Cypress CYW989820EVB-01 Evaluation Kit enables you to evaluate and develop single-chip Bluetooth applications using the CYW89820, an Automotive qualified dual-mode Bluetooth 5.0 wireless SoC device. The CYW89820 is a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting BR/EDR/BLE. The CYW89820 delivers up to 10.5 dBm Tx power in BLE and BR modes and up to 4 dBm in EDR mode that extends range in applications like Automotive Keyless Entry, Remote Parking, Sensor Control, Wake-up trigger for Telematics units etc. The CYW89820 employs high integration to reduce external components, thereby minimizing the device's footprint and cost. This kit helps evaluate device functionality and develop applications quickly for faster time-to-market.</summary>
+    <prov_capabilities>ble br_edr mesh hid ota peps hal btsdk CYW989820EVB_01 CYW208XX</prov_capabilities>
+    <description><![CDATA[
+        <div class="category">Kit Features:</div><ul>
+        <li>48-WQFN CYW89820 dual-mode (BLE/BR/EDR) Bluetooth 5.0-compliant wireless MCU with internal Power Amplifier (iPA)</li>
+        <li>Arduino compatible headers for hardware expansion</li>
+        <li>On-board sensors - a 9-axis motion sensor (3D digital linear acceleration sensor, 3D digital angular rate sensor, and 3D digital magnetic sensor) and a thermistor</li>
+        <li>User switches and LEDs</li>
+        <li>USB connector for power, programming and USB-UART bridge</li>
+        </ul><p/>
+
+        <div class="category">Kit Contents:</div><ul>
+        <li>CYW989820EVB-01 Evaluation board</li>
+        <li>USB Standard-A to Micro-B cable</li>
+        <li>Quick Start Guide</li>
+        </ul>
+        </body>
+        </html>
+    ]]></description>
+    <documentation_url>https://www.cypress.com/products/automotive-wireless</documentation_url>
+  </board>
+  <board>
+    <id>CYW920719B2Q40EVB-01</id>
+    <category>WICED Bluetooth BSPs</category>
+    <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYW920719B2Q40EVB-01</board_uri>
+    <versions>
+      <version>
+        <num>2.0.0 release</num>
+        <commit>release-v2.0.0</commit>
+      </version>
+      <version>
+        <num>Latest 2.X release</num>
+        <commit>latest-v2.X</commit>
+      </version>
+    </versions>
+    <chips>
+      <mcu>CYW20719B2KUMLG</mcu>
+      <radio>CYW20719B2</radio>
+    </chips>
+    <name>CYW920719B2Q40EVB-01</name>
+    <summary>The Cypress CYW920719B2Q40EVB-01 Evaluation Kit enables you to evaluate and develop single-chip Bluetooth applications using the CYW20719, an ultra-low-power dual-mode Bluetooth 5.0 wireless MCU device. The CYW20719 is a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting BR/EDR/BLE. The CYW20719 employs high integration to reduce external components, thereby minimizing the devices's footprint and cost. This kit helps evaluate device functionality and develop applications quickly for faster time-to-market.</summary>
+    <prov_capabilities>ble br_edr mesh hid audio ota hal btsdk CYW920719B2Q40EVB_01 lsm9ds1 ncu15wf104</prov_capabilities>
+    <description><![CDATA[
+        <div class="category">Kit Features:</div><ul>
+        <li>40-QFN CYW20719 dual-mode (BLE/BR/EDR) Bluetooth 5.0-compliant wireless MCU</li>
+        <li>Arduino compatible headers for hardware expansion</li>
+        <li>On-board sensors - a lsm9ds1 9-axis motion sensor (3D digital linear acceleration sensor, 3D digital angular rate sensor, and 3D digital magnetic sensor) and a ncu15wf104 thermistor</li>
+        <li>User switches and LEDs</li>
+        <li>USB connector for power, programming and USB-UART bridge</li>
+        </ul><p/>
+
+        <div class="category">Kit Contents:</div><ul>
+        <li>CYW920719B2Q40EVB-01 Evaluation board</li>
+        <li>USB Standard-A to Micro-B cable</li>
+        <li>Quick Start Guide</li>
+        </ul>
+        </body>
+        </html>
+    ]]></description>
+    <documentation_url>https://community.cypress.com/docs/DOC-17736</documentation_url>
+  </board>
+  <board>
+    <id>CYW920721B2EVK-01</id>
+    <category>WICED Bluetooth BSPs</category>
+    <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYW920721B2EVK-01</board_uri>
+    <versions>
+      <version>
+        <num>2.0.0 release</num>
+        <commit>release-v2.0.0</commit>
+      </version>
+      <version>
+        <num>Latest 2.X release</num>
+        <commit>latest-v2.X</commit>
+      </version>
+    </versions>
+    <chips>
+      <mcu>CYW20721B2KUMLG</mcu>
+      <radio>CYW20721B2</radio>
+    </chips>
+    <name>CYW920721B2EVK-01</name>
+    <summary>The Cypress CYW920721B2EVK-01 Evaluation Kit enables you to evaluate and develop single-chip Bluetooth applications using the CYW20721, an ultra-low-power dual-mode Bluetooth 5.0 wireless MCU device for audio. The CYW20721 is a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting BR/EDR/BLE. The CYW20721 employs high integration to reduce external components, thereby minimizing the devices's footprint and cost. This kit helps evaluate device functionality and develop applications quickly for faster time-to-market.</summary>
+    <prov_capabilities>ble br_edr mesh hid audio ota hal btsdk CYW920721B2EVK_01</prov_capabilities>
+    <description><![CDATA[
+        <div class="category">Kit Features:</div><ul>
+        <li>40-QFN CYW20721 dual-mode (BLE/BR/EDR) Bluetooth 5.0-compliant wireless MCU with external Power Amplifier (ePA)</li>
+        <li>Audio Arduino shield with on-board microphones, audio codec chip, headphone and speaker output</li>
+        <li>On-board sensors - a 9-axis motion sensor (3D digital linear acceleration sensor, 3D digital angular rate sensor, and 3D digital magnetic sensor) and a thermistor</li>
+        <li>User switches and LEDs</li>
+        <li>USB connector for power, programming and USB-UART bridge</li>
+        </ul><p/>
+
+        <div class="category">Kit Contents:</div><ul>
+        <li>CYW920721B2EVB-01 Evaluation board</li>
+        <li>CYW9BT Audio Arduino shield (pre-assembled on top of the CYW920721B2EVB-01 evaluation board</li>
+        <li>USB Standard-A to Micro-B cable</li>
+        <li>Power Adapter</li>
+        <li>Quick Start Guide</li>
+        </ul>
+        </body>
+        </html>
+    ]]></description>
+    <documentation_url>https://community.cypress.com/docs/DOC-17429</documentation_url>
+  </board>
+  <board>
+    <id>CYW920721B2EVK-03</id>
+    <category>WICED Bluetooth BSPs</category>
+    <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYW920721B2EVK-03</board_uri>
+    <versions>
+      <version>
+        <num>2.0.0 release</num>
+        <commit>release-v2.0.0</commit>
+      </version>
+      <version>
+        <num>Latest 2.X release</num>
+        <commit>latest-v2.X</commit>
+      </version>
+    </versions>
+    <chips>
+      <mcu>CYW20721B2KUMLG</mcu>
+      <radio>CYW20721B2</radio>
+    </chips>
+    <name>CYW920721B2EVK-03</name>
+    <summary>The Cypress CYW920721B2EVK-03 Evaluation Kit enables you to evaluate and develop single-chip Bluetooth applications using the CYW20721, an ultra-low-power dual-mode Bluetooth 5.0 wireless MCU device for audio. The CYW20721 is a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting BR/EDR/BLE. The CYW20721 employs high integration to reduce external components, thereby minimizing the devices's footprint and cost. This kit helps evaluate device functionality and develop applications quickly for faster time-to-market.</summary>
+    <prov_capabilities>ble br_edr mesh hid audio ota hal btsdk CYW920721B2EVK_03</prov_capabilities>
+    <description><![CDATA[
+        <div class="category">Kit Features:</div><ul>
+        <li>40-QFN CYW20721 dual-mode (BLE/BR/EDR) Bluetooth 5.0-compliant wireless MCU with external Power Amplifier (ePA)</li>
+        <li>Audio Arduino shield with on-board microphones, audio codec chip, headphone and speaker output</li>
+        <li>On-board sensors - a 9-axis motion sensor (3D digital linear acceleration sensor, 3D digital angular rate sensor, and 3D digital magnetic sensor) and a thermistor</li>
+        <li>User switches and LEDs</li>
+        <li>USB connector for power, programming and USB-UART bridge</li>
+        </ul><p/>
+
+        <div class="category">Kit Contents:</div><ul>
+        <li>CYW920721B2EVB-03 Evaluation board</li>
+        <li>CYW9BT Audio2 Arduino shield (pre-assembled on top of the CYW920721B2EVB-03 evaluation board</li>
+        <li>USB Standard-A to Micro-B cable</li>
+        <li>Power Adapter</li>
+        <li>Quick Start Guide</li>
+        </ul>
+        </body>
+        </html>
+    ]]></description>
+    <documentation_url>https://community.cypress.com/docs/DOC-17429</documentation_url>
+  </board>
+</boards>
