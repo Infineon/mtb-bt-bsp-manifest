@@ -5,6 +5,10 @@
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYW920819EVB-02</board_uri>
     <versions>
       <version>
+        <num>2.4.0 release</num>
+        <commit>release-v2.4.0</commit>
+      </version>
+      <version>
         <num>2.3.0 release</num>
         <commit>release-v2.3.0</commit>
       </version>
@@ -52,6 +56,10 @@
     <category>WICED Bluetooth BSPs</category>
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYBT-213043-MESH</board_uri>
     <versions>
+      <version>
+        <num>2.4.0 release</num>
+        <commit>release-v2.4.0</commit>
+      </version>
       <version>
         <num>2.3.0 release</num>
         <commit>release-v2.3.0</commit>
@@ -101,6 +109,10 @@
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYBT-213043-EVAL</board_uri>
     <versions>
       <version>
+        <num>2.4.0 release</num>
+        <commit>release-v2.4.0</commit>
+      </version>
+      <version>
         <num>2.3.0 release</num>
         <commit>release-v2.3.0</commit>
       </version>
@@ -149,6 +161,10 @@
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYW920820EVB-02</board_uri>
     <versions>
       <version>
+        <num>2.4.0 release</num>
+        <commit>release-v2.4.0</commit>
+      </version>
+      <version>
         <num>2.3.0 release</num>
         <commit>release-v2.3.0</commit>
       </version>
@@ -189,13 +205,17 @@
         </body>
         </html>
     ]]></description>
-    <documentation_url>http://www.cypress.com/CYW920820EVB-02</documentation_url>
+    <documentation_url>https://www.cypress.com/products/ble-bluetooth</documentation_url>
   </board>
   <board>
     <id>CYW920819REF-KB-01</id>
     <category>WICED Bluetooth BSPs</category>
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYW920819REF-KB-01</board_uri>
     <versions>
+      <version>
+        <num>2.4.0 release</num>
+        <commit>release-v2.4.0</commit>
+      </version>
       <version>
         <num>2.3.0 release</num>
         <commit>release-v2.3.0</commit>
@@ -233,6 +253,10 @@
     <category>WICED Bluetooth BSPs</category>
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYW989820EVB-01</board_uri>
     <versions>
+      <version>
+        <num>2.4.0 release</num>
+        <commit>release-v2.4.0</commit>
+      </version>
       <version>
         <num>2.3.0 release</num>
         <commit>release-v2.3.0</commit>
@@ -282,6 +306,10 @@
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYW920719B2Q40EVB-01</board_uri>
     <versions>
       <version>
+        <num>2.4.0 release</num>
+        <commit>release-v2.4.0</commit>
+      </version>
+      <version>
         <num>2.3.0 release</num>
         <commit>release-v2.3.0</commit>
       </version>
@@ -322,63 +350,17 @@
         </body>
         </html>
     ]]></description>
-    <documentation_url>https://community.cypress.com/docs/DOC-17736</documentation_url>
-  </board>
-  <board>
-    <id>CYW920721B2EVK-01</id>
-    <category>WICED Bluetooth BSPs</category>
-    <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYW920721B2EVK-01</board_uri>
-    <versions>
-      <version>
-        <num>2.3.0 release</num>
-        <commit>release-v2.3.0</commit>
-      </version>
-      <version>
-        <num>2.1.0 release</num>
-        <commit>release-v2.1.0</commit>
-      </version>
-      <version>
-        <num>2.0.0 release</num>
-        <commit>release-v2.0.0</commit>
-      </version>
-      <version>
-        <num>Latest 2.X release</num>
-        <commit>latest-v2.X</commit>
-      </version>
-    </versions>
-    <chips>
-      <mcu>CYW20721B2KUMLG</mcu>
-      <radio>CYW20721B2</radio>
-    </chips>
-    <name>CYW920721B2EVK-01</name>
-    <summary>The Cypress CYW920721B2EVK-01 Evaluation Kit enables you to evaluate and develop single-chip Bluetooth applications using the CYW20721, an ultra-low-power dual-mode Bluetooth 5.0 wireless MCU device for audio. The CYW20721 is a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting BR/EDR/BLE. The CYW20721 employs high integration to reduce external components, thereby minimizing the devices's footprint and cost. This kit helps evaluate device functionality and develop applications quickly for faster time-to-market.</summary>
-    <prov_capabilities>ble br_edr mesh hid audio ota hal btsdk fw2 CYW920721B2EVK_01</prov_capabilities>
-    <description><![CDATA[
-        <div class="category">Kit Features:</div><ul>
-        <li>40-QFN CYW20721 dual-mode (BLE/BR/EDR) Bluetooth 5.0-compliant wireless MCU with external Power Amplifier (ePA)</li>
-        <li>Audio Arduino shield with on-board microphones, audio codec chip, headphone and speaker output</li>
-        <li>On-board sensors - a 9-axis motion sensor (3D digital linear acceleration sensor, 3D digital angular rate sensor, and 3D digital magnetic sensor) and a thermistor</li>
-        <li>User switches and LEDs</li>
-        <li>USB connector for power, programming and USB-UART bridge</li>
-        </ul><p/>
-
-        <div class="category">Kit Contents:</div><ul>
-        <li>CYW920721B2EVB-01 Evaluation board</li>
-        <li>CYW9BT Audio Arduino shield (pre-assembled on top of the CYW920721B2EVB-01 evaluation board</li>
-        <li>USB Standard-A to Micro-B cable</li>
-        <li>Power Adapter</li>
-        <li>Quick Start Guide</li>
-        </ul>
-        </body>
-        </html>
-    ]]></description>
-    <documentation_url>https://community.cypress.com/docs/DOC-17429</documentation_url>
+    <documentation_url>https://www.cypress.com/documentation/development-kitsboards/cyw920719b2q40evb-01-evaluation-kit</documentation_url>
   </board>
   <board>
     <id>CYW920721B2EVK-02</id>
     <category>WICED Bluetooth BSPs</category>
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYW920721B2EVK-02</board_uri>
     <versions>
+      <version>
+        <num>2.4.0 release</num>
+        <commit>release-v2.4.0</commit>
+      </version>
       <version>
         <num>2.3.0 release</num>
         <commit>release-v2.3.0</commit>
@@ -418,13 +400,17 @@
         </body>
         </html>
     ]]></description>
-    <documentation_url>https://community.cypress.com/docs/DOC-17429</documentation_url>
+    <documentation_url>https://www.cypress.com/documentation/development-kitsboards/cyw920721b2evk-02-evaluation-kit</documentation_url>
   </board>
   <board>
     <id>CYW920721B2EVK-03</id>
     <category>WICED Bluetooth BSPs</category>
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYW920721B2EVK-03</board_uri>
     <versions>
+      <version>
+        <num>2.4.0 release</num>
+        <commit>release-v2.4.0</commit>
+      </version>
       <version>
         <num>2.3.0 release</num>
         <commit>release-v2.3.0</commit>
@@ -476,6 +462,10 @@
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYW920706WCDEVAL</board_uri>
     <versions>
       <version>
+        <num>2.4.0 release</num>
+        <commit>release-v2.4.0</commit>
+      </version>
+      <version>
         <num>2.3.0 release</num>
         <commit>release-v2.3.0</commit>
       </version>
@@ -503,13 +493,17 @@
         </body>
         </html>
     ]]></description>
-    <documentation_url>https://www.cypress.com/file/378386/</documentation_url>
+    <documentation_url>https://www.cypress.com/documentation/development-kitsboards/cyw920706wcdeval-evaluation-kit</documentation_url>
   </board>
   <board>
     <id>CYBT-353027-EVAL</id>
     <category>WICED Bluetooth BSPs</category>
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYBT-353027-EVAL</board_uri>
     <versions>
+      <version>
+        <num>2.4.0 release</num>
+        <commit>release-v2.4.0</commit>
+      </version>
       <version>
         <num>2.3.0 release</num>
         <commit>release-v2.3.0</commit>
@@ -546,6 +540,10 @@
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYBT-343026-EVAL</board_uri>
     <versions>
       <version>
+        <num>2.4.0 release</num>
+        <commit>release-v2.4.0</commit>
+      </version>
+      <version>
         <num>2.3.0 release</num>
         <commit>release-v2.3.0</commit>
       </version>
@@ -577,6 +575,10 @@
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYW920735Q60EVB-01</board_uri>
     <versions>
       <version>
+        <num>2.4.0 release</num>
+        <commit>release-v2.4.0</commit>
+      </version>
+      <version>
         <num>2.3.0 release</num>
         <commit>release-v2.3.0</commit>
       </version>
@@ -601,5 +603,74 @@
         </html>
     ]]></description>
     <documentation_url>https://www.cypress.com/file/428486</documentation_url>
+  </board>
+  <board>
+    <id>CYW9M2BASE-43012BT</id>
+    <category>WICED Bluetooth BSPs</category>
+    <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYW9M2BASE-43012BT</board_uri>
+    <versions>
+      <version>
+        <num>2.4.0 release</num>
+        <commit>release-v2.4.0</commit>
+      </version>
+      <version>
+        <num>Latest 2.X release</num>
+        <commit>latest-v2.X</commit>
+      </version>
+    </versions>
+    <chips>
+      <mcu>CYW43012C0</mcu>
+      <radio>CYW43012</radio>
+    </chips>
+    <name>CYW9M2BASE-43012BT</name>
+    <summary>The Cypress CYW9M2BASE-43012BT is a prototyping kit that enables the design and debug of Bluetooth applications using the CYW43012 (WiFi + Bluetooth Combo), an ultra-low-power dual-mode Bluetooth 5.0 wireless MCU device. The CYW43012 is a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting BR/EDR/BLE. The kit includes an Audio Arduino shield with on-board microphones, audio codec chip, and headphone output.</summary>
+    <prov_capabilities>ble br_edr audio btsdk CYW9M2BASE_43012BT</prov_capabilities>
+    <description><![CDATA[
+        <div class="category">Kit Features:</div><ul>
+        <li>CYW43012 is a monolithic, single chip, WiFi + Bluetooth (BT) Combo dual-mode System-on-a-Chip (SoC) that includes a baseband processor, an ARM&#174; Cortex&#8482;-M4 processor and an integrated transceiver.</li>
+        <li>The Cypress CYW9M2BASE-43012BT board is a prototyping kit that enables the desgin and debug of Bluetooth applications using the CYW43012.</li>
+        </ul><p/>
+        </body>
+        </html>
+    ]]></description>
+    <documentation_url>https://www.cypress.com/products/ble-bluetooth</documentation_url>
+  </board>
+  <board>
+    <id>CYBT-423054-EVAL</id>
+    <category>WICED Bluetooth BSPs</category>
+    <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYBT-423054-EVAL</board_uri>
+    <versions>
+      <version>
+        <num>2.4.0 release</num>
+        <commit>release-v2.4.0</commit>
+      </version>
+      <version>
+        <num>Latest 2.X release</num>
+        <commit>latest-v2.X</commit>
+      </version>
+    </versions>
+    <chips>
+      <mcu>CYBT-423054-02</mcu>
+      <radio>CYW20719</radio>
+    </chips>
+    <name>CYBT-423054-EVAL</name>
+    <summary>The Cypress CYBT-423054-EVAL board enables you to evaluate and develop Bluetooth applications using the CYBT-423054-02 module. The CYBT-423054-02 is a dual-mode Bluetooth BR/EDR and Low Energy (BLE) wireless module solution. The CYBT-423054-02 includes onboard crystal oscillators, passive components, and the Cypress CYW20719B2 silicon device.</summary>
+    <prov_capabilities>ble br_edr btsdk CYBT_423054_EVAL</prov_capabilities>
+    <description><![CDATA[
+        <div class="category">Kit Features:</div><ul>
+        <li>CYBT-423504-02 is a fully certified, 11.0 mm x 11.0 mm x 1.70 mm, programmable module designed to reduce your time to market</li>
+        <li>Evaluation board can be used as a standalone evaluation kit or can be combined with Arduino compatible shields</li>
+        <li>User defined switch and LED</li>
+        <li>USB connector for power and programming</li>
+        </ul><p/>
+
+        <div class="category">Kit Contents:</div><ul>
+        <li>EZ-BT Module Evaluation board (CYBT-423504-EVAL) with on board module (CYBT-423504-02)</li>
+        <li>USB Standard-A to Micro-B cable</li>
+        </ul>
+        </body>
+        </html>
+    ]]></description>
+    <documentation_url>https://community.cypress.com/docs/DOC-17736</documentation_url>
   </board>
 </boards>
