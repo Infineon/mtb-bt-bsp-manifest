@@ -5,6 +5,10 @@
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYW920819EVB-02</board_uri>
     <versions>
       <version>
+        <num>2.7.1 release</num>
+        <commit>release-v2.7.1</commit>
+      </version>
+      <version>
         <num>2.7.0 release</num>
         <commit>release-v2.7.0</commit>
       </version>
@@ -64,6 +68,10 @@
     <category>WICED Bluetooth BSPs</category>
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYBT-213043-MESH</board_uri>
     <versions>
+      <version>
+        <num>2.7.1 release</num>
+        <commit>release-v2.7.1</commit>
+      </version>
       <version>
         <num>2.7.0 release</num>
         <commit>release-v2.7.0</commit>
@@ -125,6 +133,10 @@
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYBT-213043-EVAL</board_uri>
     <versions>
       <version>
+        <num>2.7.1 release</num>
+        <commit>release-v2.7.1</commit>
+      </version>
+      <version>
         <num>2.7.0 release</num>
         <commit>release-v2.7.0</commit>
       </version>
@@ -184,6 +196,10 @@
     <category>WICED Bluetooth BSPs</category>
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYW920820EVB-02</board_uri>
     <versions>
+      <version>
+        <num>2.7.1 release</num>
+        <commit>release-v2.7.1</commit>
+      </version>
       <version>
         <num>2.7.0 release</num>
         <commit>release-v2.7.0</commit>
@@ -245,6 +261,10 @@
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYW920819REF-KB-01</board_uri>
     <versions>
       <version>
+        <num>2.7.1 release</num>
+        <commit>release-v2.7.1</commit>
+      </version>
+      <version>
         <num>2.7.0 release</num>
         <commit>release-v2.7.0</commit>
       </version>
@@ -293,6 +313,10 @@
     <category>WICED Bluetooth BSPs</category>
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYW989820EVB-01</board_uri>
     <versions>
+      <version>
+        <num>2.7.1 release</num>
+        <commit>release-v2.7.1</commit>
+      </version>
       <version>
         <num>2.7.0 release</num>
         <commit>release-v2.7.0</commit>
@@ -354,6 +378,10 @@
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYW920719B2Q40EVB-01</board_uri>
     <versions>
       <version>
+        <num>2.7.1 release</num>
+        <commit>release-v2.7.1</commit>
+      </version>
+      <version>
         <num>2.7.0 release</num>
         <commit>release-v2.7.0</commit>
       </version>
@@ -414,6 +442,10 @@
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYW920721B2EVK-02</board_uri>
     <versions>
       <version>
+        <num>2.7.1 release</num>
+        <commit>release-v2.7.1</commit>
+      </version>
+      <version>
         <num>2.7.0 release</num>
         <commit>release-v2.7.0</commit>
       </version>
@@ -472,6 +504,10 @@
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYW920721B2EVK-03</board_uri>
     <versions>
       <version>
+        <num>2.7.1 release</num>
+        <commit>release-v2.7.1</commit>
+      </version>
+      <version>
         <num>2.7.0 release</num>
         <commit>release-v2.7.0</commit>
       </version>
@@ -529,10 +565,14 @@
     <documentation_url>https://community.cypress.com/docs/DOC-17429</documentation_url>
   </board>
   <board>
-    <id>TARGET_CYBT-413061-EVAL</id>
+    <id>CYBT-413061-EVAL</id>
     <category>WICED Bluetooth BSPs</category>
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYBT-413061-EVAL</board_uri>
     <versions>
+      <version>
+        <num>2.7.1 release</num>
+        <commit>release-v2.7.1</commit>
+      </version>
       <version>
         <num>2.7.0 release</num>
         <commit>release-v2.7.0</commit>
@@ -563,10 +603,14 @@
     <documentation_url>https://community.cypress.com/docs/DOC-17429</documentation_url>
   </board>
   <board>
-    <id>TARGET_CYBT-423060-EVAL</id>
+    <id>CYBT-423060-EVAL</id>
     <category>WICED Bluetooth BSPs</category>
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYBT-423060-EVAL</board_uri>
     <versions>
+      <version>
+        <num>2.7.1 release</num>
+        <commit>release-v2.7.1</commit>
+      </version>
       <version>
         <num>2.7.0 release</num>
         <commit>release-v2.7.0</commit>
@@ -597,10 +641,14 @@
     <documentation_url>https://community.cypress.com/docs/DOC-17429</documentation_url>
   </board>
   <board>
-    <id>TARGET_CYBT-483062-EVAL</id>
+    <id>CYBT-483062-EVAL</id>
     <category>WICED Bluetooth BSPs</category>
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYBT-483062-EVAL</board_uri>
     <versions>
+      <version>
+        <num>2.7.1 release</num>
+        <commit>release-v2.7.1</commit>
+      </version>
       <version>
         <num>2.7.0 release</num>
         <commit>release-v2.7.0</commit>
@@ -635,6 +683,10 @@
     <category>WICED Bluetooth BSPs</category>
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYW920706WCDEVAL</board_uri>
     <versions>
+      <version>
+        <num>2.7.1 release</num>
+        <commit>release-v2.7.1</commit>
+      </version>
       <version>
         <num>2.7.0 release</num>
         <commit>release-v2.7.0</commit>
@@ -683,6 +735,10 @@
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYBT-353027-EVAL</board_uri>
     <versions>
       <version>
+        <num>2.7.1 release</num>
+        <commit>release-v2.7.1</commit>
+      </version>
+      <version>
         <num>2.7.0 release</num>
         <commit>release-v2.7.0</commit>
       </version>
@@ -730,6 +786,10 @@
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYBT-343026-EVAL</board_uri>
     <versions>
       <version>
+        <num>2.7.1 release</num>
+        <commit>release-v2.7.1</commit>
+      </version>
+      <version>
         <num>2.7.0 release</num>
         <commit>release-v2.7.0</commit>
       </version>
@@ -772,6 +832,10 @@
     <category>WICED Bluetooth BSPs</category>
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYW920735Q60EVB-01</board_uri>
     <versions>
+      <version>
+        <num>2.7.1 release</num>
+        <commit>release-v2.7.1</commit>
+      </version>
       <version>
         <num>2.7.0 release</num>
         <commit>release-v2.7.0</commit>
@@ -816,6 +880,10 @@
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYW9M2BASE-43012BT</board_uri>
     <versions>
       <version>
+        <num>2.7.1 release</num>
+        <commit>release-v2.7.1</commit>
+      </version>
+      <version>
         <num>2.7.0 release</num>
         <commit>release-v2.7.0</commit>
       </version>
@@ -854,6 +922,10 @@
     <category>WICED Bluetooth BSPs</category>
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYBT-423054-EVAL</board_uri>
     <versions>
+      <version>
+        <num>2.7.1 release</num>
+        <commit>release-v2.7.1</commit>
+      </version>
       <version>
         <num>2.7.0 release</num>
         <commit>release-v2.7.0</commit>
@@ -901,6 +973,10 @@
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYBT-483056-EVAL</board_uri>
     <versions>
       <version>
+        <num>2.7.1 release</num>
+        <commit>release-v2.7.1</commit>
+      </version>
+      <version>
         <num>2.7.0 release</num>
         <commit>release-v2.7.0</commit>
       </version>
@@ -943,6 +1019,10 @@
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYBT-413055-EVAL</board_uri>
     <versions>
       <version>
+        <num>2.7.1 release</num>
+        <commit>release-v2.7.1</commit>
+      </version>
+      <version>
         <num>2.7.0 release</num>
         <commit>release-v2.7.0</commit>
       </version>
@@ -984,6 +1064,10 @@
     <category>WICED Bluetooth BSPs</category>
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYW920835REF-RCU-01</board_uri>
     <versions>
+      <version>
+        <num>2.7.1 release</num>
+        <commit>release-v2.7.1</commit>
+      </version>
       <version>
         <num>2.7.0 release</num>
         <commit>release-v2.7.0</commit>
