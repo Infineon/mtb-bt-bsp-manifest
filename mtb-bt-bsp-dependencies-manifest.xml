@@ -3,6 +3,15 @@
     <id>CYW920706WCDEVAL</id>
     <versions>
       <version>
+        <commit>release-v2.9.0</commit>
+        <dependees>
+          <dependee>
+            <id>20706A2-fv2</id>
+            <commit>release-v2.9.0</commit>
+          </dependee>
+        </dependees>
+      </version>
+      <version>
         <commit>release-v2.8.0</commit>
         <dependees>
           <dependee>
@@ -16,6 +25,15 @@
   <depender>
     <id>CYBT-353027-EVAL</id>
     <versions>
+      <version>
+        <commit>release-v2.9.0</commit>
+        <dependees>
+          <dependee>
+            <id>20706A2-fv2</id>
+            <commit>release-v2.9.0</commit>
+          </dependee>
+        </dependees>
+      </version>
       <version>
         <commit>release-v2.8.0</commit>
         <dependees>
@@ -31,6 +49,15 @@
     <id>CYBT-343026-EVAL</id>
     <versions>
       <version>
+        <commit>release-v2.9.0</commit>
+        <dependees>
+          <dependee>
+            <id>20706A2-fv2</id>
+            <commit>release-v2.9.0</commit>
+          </dependee>
+        </dependees>
+      </version>
+      <version>
         <commit>release-v2.8.0</commit>
         <dependees>
           <dependee>
@@ -44,6 +71,15 @@
   <depender>
     <id>CYW920819EVB-02</id>
     <versions>
+      <version>
+        <commit>release-v2.9.0</commit>
+        <dependees>
+          <dependee>
+            <id>20819A1-fv2</id>
+            <commit>release-v2.9.0</commit>
+          </dependee>
+        </dependees>
+      </version>
       <version>
         <commit>release-v2.8.0</commit>
         <dependees>
@@ -59,6 +95,15 @@
     <id>CYBT-213043-MESH</id>
     <versions>
       <version>
+        <commit>release-v2.9.0</commit>
+        <dependees>
+          <dependee>
+            <id>20819A1-fv2</id>
+            <commit>release-v2.9.0</commit>
+          </dependee>
+        </dependees>
+      </version>
+      <version>
         <commit>release-v2.8.0</commit>
         <dependees>
           <dependee>
@@ -73,6 +118,15 @@
     <id>CYBT-213043-EVAL</id>
     <versions>
       <version>
+        <commit>release-v2.9.0</commit>
+        <dependees>
+          <dependee>
+            <id>20819A1-fv2</id>
+            <commit>release-v2.9.0</commit>
+          </dependee>
+        </dependees>
+      </version>
+      <version>
         <commit>release-v2.8.0</commit>
         <dependees>
           <dependee>
@@ -84,8 +138,87 @@
     </versions>
   </depender>
   <depender>
+    <id>CYBT-223058-EVAL</id>
+    <versions>
+      <version>
+        <commit>release-v2.9.0</commit>
+        <dependees>
+          <dependee>
+            <id>20819A1-fv2</id>
+            <commit>release-v2.9.0</commit>
+          </dependee>
+        </dependees>
+      </version>
+    </versions>
+  </depender>
+  <depender>
+    <id>CYBT-273063-EVAL</id>
+    <versions>
+      <version>
+        <commit>release-v2.9.0</commit>
+        <dependees>
+          <dependee>
+            <id>20819A1-fv2</id>
+            <commit>release-v2.9.0</commit>
+          </dependee>
+        </dependees>
+      </version>
+    </versions>
+  </depender>
+  <depender>
+    <id>CYBT-263065-EVAL</id>
+    <versions>
+      <version>
+        <commit>release-v2.9.0</commit>
+        <dependees>
+          <dependee>
+            <id>20819A1-fv2</id>
+            <commit>release-v2.9.0</commit>
+          </dependee>
+        </dependees>
+      </version>
+    </versions>
+  </depender>
+  <depender>
+    <id>CYBT-243053-EVAL</id>
+    <versions>
+      <version>
+        <commit>release-v2.9.0</commit>
+        <dependees>
+          <dependee>
+            <id>20820A1-fv2</id>
+            <commit>release-v2.9.0</commit>
+          </dependee>
+        </dependees>
+      </version>
+    </versions>
+  </depender>
+  <depender>
+    <id>CYBT-253059-EVAL</id>
+    <versions>
+      <version>
+        <commit>release-v2.9.0</commit>
+        <dependees>
+          <dependee>
+            <id>20820A1-fv2</id>
+            <commit>release-v2.9.0</commit>
+          </dependee>
+        </dependees>
+      </version>
+    </versions>
+  </depender>
+  <depender>
     <id>CYW920819REF-KB-01</id>
     <versions>
+      <version>
+        <commit>release-v2.9.0</commit>
+        <dependees>
+          <dependee>
+            <id>20819A1-fv2</id>
+            <commit>release-v2.9.0</commit>
+          </dependee>
+        </dependees>
+      </version>
       <version>
         <commit>release-v2.8.0</commit>
         <dependees>
@@ -101,6 +234,15 @@
     <id>CYW920820EVB-02</id>
     <versions>
       <version>
+        <commit>release-v2.9.0</commit>
+        <dependees>
+          <dependee>
+            <id>20820A1-fv2</id>
+            <commit>release-v2.9.0</commit>
+          </dependee>
+        </dependees>
+      </version>
+      <version>
         <commit>release-v2.8.0</commit>
         <dependees>
           <dependee>
@@ -114,6 +256,15 @@
   <depender>
     <id>CYW989820EVB-01</id>
     <versions>
+      <version>
+        <commit>release-v2.9.0</commit>
+        <dependees>
+          <dependee>
+            <id>20820A1-fv2</id>
+            <commit>release-v2.9.0</commit>
+          </dependee>
+        </dependees>
+      </version>
       <version>
         <commit>release-v2.8.0</commit>
         <dependees>
@@ -129,6 +280,15 @@
     <id>CYW9M2BASE-43012BT</id>
     <versions>
       <version>
+        <commit>release-v2.9.0</commit>
+        <dependees>
+          <dependee>
+            <id>43012C0-fv2</id>
+            <commit>release-v2.9.0</commit>
+          </dependee>
+        </dependees>
+      </version>
+      <version>
         <commit>release-v2.8.0</commit>
         <dependees>
           <dependee>
@@ -140,8 +300,31 @@
     </versions>
   </depender>
   <depender>
+    <id>CYW943012BTEVK-01</id>
+    <versions>
+      <version>
+        <commit>release-v2.9.0</commit>
+        <dependees>
+          <dependee>
+            <id>43012C0-fv2</id>
+            <commit>release-v2.9.0</commit>
+          </dependee>
+        </dependees>
+      </version>
+    </versions>
+  </depender>
+  <depender>
     <id>CYW920719B2Q40EVB-01</id>
     <versions>
+      <version>
+        <commit>release-v2.9.0</commit>
+        <dependees>
+          <dependee>
+            <id>20719B2-fv2</id>
+            <commit>release-v2.9.0</commit>
+          </dependee>
+        </dependees>
+      </version>
       <version>
         <commit>release-v2.8.0</commit>
         <dependees>
@@ -157,6 +340,15 @@
     <id>CYBT-423054-EVAL</id>
     <versions>
       <version>
+        <commit>release-v2.9.0</commit>
+        <dependees>
+          <dependee>
+            <id>20719B2-fv2</id>
+            <commit>release-v2.9.0</commit>
+          </dependee>
+        </dependees>
+      </version>
+      <version>
         <commit>release-v2.8.0</commit>
         <dependees>
           <dependee>
@@ -170,6 +362,15 @@
   <depender>
     <id>CYBT-413055-EVAL</id>
     <versions>
+      <version>
+        <commit>release-v2.9.0</commit>
+        <dependees>
+          <dependee>
+            <id>20719B2-fv2</id>
+            <commit>release-v2.9.0</commit>
+          </dependee>
+        </dependees>
+      </version>
       <version>
         <commit>release-v2.8.0</commit>
         <dependees>
@@ -185,6 +386,15 @@
     <id>CYBT-483056-EVAL</id>
     <versions>
       <version>
+        <commit>release-v2.9.0</commit>
+        <dependees>
+          <dependee>
+            <id>20719B2-fv2</id>
+            <commit>release-v2.9.0</commit>
+          </dependee>
+        </dependees>
+      </version>
+      <version>
         <commit>release-v2.8.0</commit>
         <dependees>
           <dependee>
@@ -199,6 +409,15 @@
     <id>CYW920721B2EVK-02</id>
     <versions>
       <version>
+        <commit>release-v2.9.0</commit>
+        <dependees>
+          <dependee>
+            <id>20721B2-fv2</id>
+            <commit>release-v2.9.0</commit>
+          </dependee>
+        </dependees>
+      </version>
+      <version>
         <commit>release-v2.8.0</commit>
         <dependees>
           <dependee>
@@ -210,8 +429,45 @@
     </versions>
   </depender>
   <depender>
+    <id>CYW920721M2EVK-01</id>
+    <versions>
+      <version>
+        <commit>release-v2.9.0</commit>
+        <dependees>
+          <dependee>
+            <id>20721B2-fv2</id>
+            <commit>release-v2.9.0</commit>
+          </dependee>
+        </dependees>
+      </version>
+    </versions>
+  </depender>
+  <depender>
+    <id>CYW920721M2EVK-02</id>
+    <versions>
+      <version>
+        <commit>release-v2.9.0</commit>
+        <dependees>
+          <dependee>
+            <id>20721B2-fv2</id>
+            <commit>release-v2.9.0</commit>
+          </dependee>
+        </dependees>
+      </version>
+    </versions>
+  </depender>
+  <depender>
     <id>CYW920721B2EVK-03</id>
     <versions>
+      <version>
+        <commit>release-v2.9.0</commit>
+        <dependees>
+          <dependee>
+            <id>20721B2-fv2</id>
+            <commit>release-v2.9.0</commit>
+          </dependee>
+        </dependees>
+      </version>
       <version>
         <commit>release-v2.8.0</commit>
         <dependees>
@@ -227,6 +483,15 @@
     <id>CYBT-413061-EVAL</id>
     <versions>
       <version>
+        <commit>release-v2.9.0</commit>
+        <dependees>
+          <dependee>
+            <id>20721B2-fv2</id>
+            <commit>release-v2.9.0</commit>
+          </dependee>
+        </dependees>
+      </version>
+      <version>
         <commit>release-v2.8.0</commit>
         <dependees>
           <dependee>
@@ -240,6 +505,15 @@
   <depender>
     <id>CYBT-423060-EVAL</id>
     <versions>
+      <version>
+        <commit>release-v2.9.0</commit>
+        <dependees>
+          <dependee>
+            <id>20721B2-fv2</id>
+            <commit>release-v2.9.0</commit>
+          </dependee>
+        </dependees>
+      </version>
       <version>
         <commit>release-v2.8.0</commit>
         <dependees>
@@ -255,6 +529,15 @@
     <id>CYBT-483062-EVAL</id>
     <versions>
       <version>
+        <commit>release-v2.9.0</commit>
+        <dependees>
+          <dependee>
+            <id>20721B2-fv2</id>
+            <commit>release-v2.9.0</commit>
+          </dependee>
+        </dependees>
+      </version>
+      <version>
         <commit>release-v2.8.0</commit>
         <dependees>
           <dependee>
@@ -269,6 +552,15 @@
     <id>CYW920735Q60EVB-01</id>
     <versions>
       <version>
+        <commit>release-v2.9.0</commit>
+        <dependees>
+          <dependee>
+            <id>20735B1-fv2</id>
+            <commit>release-v2.9.0</commit>
+          </dependee>
+        </dependees>
+      </version>
+      <version>
         <commit>release-v2.8.0</commit>
         <dependees>
           <dependee>
@@ -282,6 +574,15 @@
   <depender>
     <id>CYW920835REF-RCU-01</id>
     <versions>
+      <version>
+        <commit>release-v2.9.0</commit>
+        <dependees>
+          <dependee>
+            <id>20835B1-fv2</id>
+            <commit>release-v2.9.0</commit>
+          </dependee>
+        </dependees>
+      </version>
       <version>
         <commit>release-v2.8.0</commit>
         <dependees>
