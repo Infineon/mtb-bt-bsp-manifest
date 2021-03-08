@@ -5,6 +5,10 @@
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYW920706WCDEVAL</board_uri>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app mapc opps pbc spp spp_multi_port btsdk_hci_app btsdk_ota_app avsink audio_gateway handsfree headset watch ans anc bats batc beacon hellos helloc hrs hrc adc gpio puart pwm uart_spi dimmer dimmer_self_config light_dimmable mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app mapc opps pbc spp spp_multi_port btsdk_hci_app btsdk_ota_app avsink audio_gateway handsfree headset watch ans anc bats batc beacon hellos helloc hrs hrc adc gpio puart pwm uart_spi dimmer dimmer_self_config light_dimmable mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
         <num>2.9.0 release</num>
         <commit>release-v2.9.0</commit>
       </version>
@@ -35,6 +39,10 @@
     <category>WICED Bluetooth BSPs</category>
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYBT-353027-EVAL</board_uri>
     <versions>
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app opps pbc spp btsdk_hci_app btsdk_ota_app anc ans batc bats beacon hellos hrc hrs mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
+      </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app opps pbc spp btsdk_hci_app btsdk_ota_app anc ans batc bats beacon hellos hrc hrs mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
         <num>2.9.0 release</num>
         <commit>release-v2.9.0</commit>
@@ -67,6 +75,10 @@
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYBT-343026-EVAL</board_uri>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app opps pbc spp btsdk_hci_app btsdk_ota_app anc ans batc bats beacon hellos hrc hrs adc gpio puart pwm mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app opps pbc spp btsdk_hci_app btsdk_ota_app anc ans batc bats beacon hellos hrc hrs adc gpio puart pwm mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
         <num>2.9.0 release</num>
         <commit>release-v2.9.0</commit>
       </version>
@@ -97,6 +109,10 @@
     <category>WICED Bluetooth BSPs</category>
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYW920819EVB-02</board_uri>
     <versions>
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app mapc spp spp_multi_port btsdk_hci_app btsdk_ota_app watch anc ans batc bats beacon env_sens_temp findme helloc hellos hrc hrs lecoc adc gpio i2c_master lowpower puart pwm uart_raw dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart low_power_led on_off_switch mesh_sensor_temperature mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
+      </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app mapc spp spp_multi_port btsdk_hci_app btsdk_ota_app watch anc ans batc bats beacon env_sens_temp findme helloc hellos hrc hrs lecoc adc gpio i2c_master lowpower puart pwm uart_raw dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart low_power_led on_off_switch mesh_sensor_temperature mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
         <num>2.9.0 release</num>
         <commit>release-v2.9.0</commit>
@@ -138,6 +154,10 @@
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYBT-213043-MESH</board_uri>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app color_light dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart low_power_led on_off_switch sensor_motion mesh_sensor_temperature mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app color_light dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart low_power_led on_off_switch sensor_motion mesh_sensor_temperature mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
         <num>2.9.0 release</num>
         <commit>release-v2.9.0</commit>
       </version>
@@ -177,6 +197,10 @@
     <category>WICED Bluetooth BSPs</category>
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYBT-213043-EVAL</board_uri>
     <versions>
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app spp anc ans batc bats beacon findme helloc hellos hrc hrs lecoc adc gpio lowpower puart pwm dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart low_power_led on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
+      </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app spp anc ans batc bats beacon findme helloc hellos hrc hrs lecoc adc gpio lowpower puart pwm dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart low_power_led on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
         <num>2.9.0 release</num>
         <commit>release-v2.9.0</commit>
@@ -218,6 +242,10 @@
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYBT-223058-EVAL</board_uri>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app spp btsdk_ota_app anc ans batc bats beacon findme helloc hellos hrc hrs lecoc adc gpio lowpower puart pwm dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart low_power_led on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app spp btsdk_ota_app anc ans batc bats beacon findme helloc hellos hrc hrs lecoc adc gpio lowpower puart pwm dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart low_power_led on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
         <num>2.9.0 release</num>
         <commit>release-v2.9.0</commit>
       </version>
@@ -253,6 +281,10 @@
     <category>WICED Bluetooth BSPs</category>
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYBT-273063-EVAL</board_uri>
     <versions>
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app spp btsdk_ota_app anc ans batc bats beacon findme helloc hellos hrc hrs lecoc adc gpio lowpower puart pwm dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart low_power_led on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
+      </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app spp btsdk_ota_app anc ans batc bats beacon findme helloc hellos hrc hrs lecoc adc gpio lowpower puart pwm dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart low_power_led on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
         <num>2.9.0 release</num>
         <commit>release-v2.9.0</commit>
@@ -290,6 +322,10 @@
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYBT-263065-EVAL</board_uri>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app spp btsdk_ota_app anc ans batc bats beacon findme helloc hellos hrc hrs lecoc adc gpio lowpower puart pwm dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart low_power_led on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app spp btsdk_ota_app anc ans batc bats beacon findme helloc hellos hrc hrs lecoc adc gpio lowpower puart pwm dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart low_power_led on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
         <num>2.9.0 release</num>
         <commit>release-v2.9.0</commit>
       </version>
@@ -325,6 +361,10 @@
     <category>WICED Bluetooth BSPs</category>
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYBT-243053-EVAL</board_uri>
     <versions>
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app spp btsdk_ota_app anc ans batc bats beacon findme helloc hellos hrc hrs lecoc adc gpio lowpower puart pwm dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart low_power_led on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
+      </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app spp btsdk_ota_app anc ans batc bats beacon findme helloc hellos hrc hrs lecoc adc gpio lowpower puart pwm dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart low_power_led on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
         <num>2.9.0 release</num>
         <commit>release-v2.9.0</commit>
@@ -362,6 +402,10 @@
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYBT-253059-EVAL</board_uri>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app spp btsdk_ota_app anc ans batc bats beacon findme helloc hellos hrc hrs lecoc adc gpio lowpower puart pwm dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart low_power_led on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app spp btsdk_ota_app anc ans batc bats beacon findme helloc hellos hrc hrs lecoc adc gpio lowpower puart pwm dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart low_power_led on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
         <num>2.9.0 release</num>
         <commit>release-v2.9.0</commit>
       </version>
@@ -398,6 +442,10 @@
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYW920819REF-KB-01</board_uri>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app keyboard" prefix="wiced_btsdk/dev-kit/bsp">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app keyboard" prefix="wiced_btsdk/dev-kit/bsp">
         <num>2.9.0 release</num>
         <commit>release-v2.9.0</commit>
       </version>
@@ -430,6 +478,10 @@
     <category>WICED Bluetooth BSPs</category>
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYW920820EVB-02</board_uri>
     <versions>
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app mapc spp spp_multi_port btsdk_hci_app btsdk_ota_app watch ans anc bats batc beacon env_sens_temp findme helloc hellos hrc hrs lecoc adc gpio i2c_master lowpower puart pwm uart_raw dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart low_power_led on_off_switch mesh_sensor_temperature mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
+      </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app mapc spp spp_multi_port btsdk_hci_app btsdk_ota_app watch ans anc bats batc beacon env_sens_temp findme helloc hellos hrc hrs lecoc adc gpio i2c_master lowpower puart pwm uart_raw dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart low_power_led on_off_switch mesh_sensor_temperature mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
         <num>2.9.0 release</num>
         <commit>release-v2.9.0</commit>
@@ -471,6 +523,10 @@
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYW989820EVB-01</board_uri>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app spp btsdk_hci_app btsdk_ota_app anc ans batc bats beacon findme helloc hellos lecoc gpio i2c_master puart pwm" prefix="wiced_btsdk/dev-kit/bsp">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app spp btsdk_hci_app btsdk_ota_app anc ans batc bats beacon findme helloc hellos lecoc gpio i2c_master puart pwm" prefix="wiced_btsdk/dev-kit/bsp">
         <num>2.9.0 release</num>
         <commit>release-v2.9.0</commit>
       </version>
@@ -511,6 +567,10 @@
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYW9M2BASE-43012BT</board_uri>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app mapc spp avsink handsfree hs_speaker watch anc ans beacon" prefix="wiced_btsdk/dev-kit/bsp">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app mapc spp avsink handsfree hs_speaker watch anc ans beacon" prefix="wiced_btsdk/dev-kit/bsp">
         <num>2.9.0 release</num>
         <commit>release-v2.9.0</commit>
       </version>
@@ -541,6 +601,10 @@
     <category>WICED Bluetooth BSPs</category>
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYW943012BTEVK-01</board_uri>
     <versions>
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app mapc spp avsink handsfree hs_speaker watch anc ans beacon" prefix="wiced_btsdk/dev-kit/bsp">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
+      </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app mapc spp avsink handsfree hs_speaker watch anc ans beacon" prefix="wiced_btsdk/dev-kit/bsp">
         <num>2.9.0 release</num>
         <commit>release-v2.9.0</commit>
@@ -579,6 +643,10 @@
     <category>WICED Bluetooth BSPs</category>
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYW920719B2Q40EVB-01</board_uri>
     <versions>
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app mapc opps pbc spp spp_multi_port btsdk_hci_app btsdk_ota_app audio_gateway watch ans anc batc bats beacon env_sens_temp findme helloc hellos hrc hrs lecoc adc gpio i2c_master puart uart_raw dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
+      </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app mapc opps pbc spp spp_multi_port btsdk_hci_app btsdk_ota_app audio_gateway watch ans anc batc bats beacon env_sens_temp findme helloc hellos hrc hrs lecoc adc gpio i2c_master puart uart_raw dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
         <num>2.9.0 release</num>
         <commit>release-v2.9.0</commit>
@@ -620,6 +688,10 @@
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYBT-423054-EVAL</board_uri>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app anc ans batc bats beacon env_sens_temp helloc hellos lecoc hrc hrs" prefix="wiced_btsdk/dev-kit/bsp">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app anc ans batc bats beacon env_sens_temp helloc hellos lecoc hrc hrs" prefix="wiced_btsdk/dev-kit/bsp">
         <num>2.9.0 release</num>
         <commit>release-v2.9.0</commit>
       </version>
@@ -657,6 +729,10 @@
     <category>WICED Bluetooth BSPs</category>
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYBT-413055-EVAL</board_uri>
     <versions>
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app anc ans batc bats beacon env_sens_temp helloc hellos hrc hrs lecoc" prefix="wiced_btsdk/dev-kit/bsp">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
+      </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app anc ans batc bats beacon env_sens_temp helloc hellos hrc hrs lecoc" prefix="wiced_btsdk/dev-kit/bsp">
         <num>2.9.0 release</num>
         <commit>release-v2.9.0</commit>
@@ -696,6 +772,10 @@
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYBT-483056-EVAL</board_uri>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app anc ans batc bats beacon env_sens_temp helloc hellos hrc hrs lecoc" prefix="wiced_btsdk/dev-kit/bsp">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app anc ans batc bats beacon env_sens_temp helloc hellos hrc hrs lecoc" prefix="wiced_btsdk/dev-kit/bsp">
         <num>2.9.0 release</num>
         <commit>release-v2.9.0</commit>
       </version>
@@ -733,6 +813,10 @@
     <category>WICED Bluetooth BSPs</category>
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYW920721B2EVK-02</board_uri>
     <versions>
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app mapc opps pbc spp spp_multi_port btsdk_hci_app btsdk_ota_app avsink audio_gateway audio_record handsfree hs_speaker watch anc ans batc bats beacon findme helloc hellos hrc hrs lecoc adc gpio puart uart_raw dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
+      </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app mapc opps pbc spp spp_multi_port btsdk_hci_app btsdk_ota_app avsink audio_gateway audio_record handsfree hs_speaker watch anc ans batc bats beacon findme helloc hellos hrc hrs lecoc adc gpio puart uart_raw dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
         <num>2.9.0 release</num>
         <commit>release-v2.9.0</commit>
@@ -776,6 +860,10 @@
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYW920721M2EVK-01</board_uri>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app mapc opps pbc spp spp_multi_port btsdk_hci_app btsdk_ota_app avsink audio_gateway audio_record handsfree hs_speaker watch anc ans batc bats beacon lecoc adc uart_raw dimmer dimmer_self_config on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app mapc opps pbc spp spp_multi_port btsdk_hci_app btsdk_ota_app avsink audio_gateway audio_record handsfree hs_speaker watch anc ans batc bats beacon lecoc adc uart_raw dimmer dimmer_self_config on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
         <num>2.9.0 release</num>
         <commit>release-v2.9.0</commit>
       </version>
@@ -814,6 +902,10 @@
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYW920721M2EVK-02</board_uri>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app mapc opps pbc spp spp_multi_port btsdk_hci_app btsdk_ota_app avsink audio_gateway audio_record handsfree hs_speaker watch anc ans batc bats beacon findme helloc hellos hrc hrs lecoc adc gpio uart_raw dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app mapc opps pbc spp spp_multi_port btsdk_hci_app btsdk_ota_app avsink audio_gateway audio_record handsfree hs_speaker watch anc ans batc bats beacon findme helloc hellos hrc hrs lecoc adc gpio uart_raw dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
         <num>2.9.0 release</num>
         <commit>release-v2.9.0</commit>
       </version>
@@ -851,6 +943,10 @@
     <category>WICED Bluetooth BSPs</category>
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYW920721B2EVK-03</board_uri>
     <versions>
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app mapc opps pbc spp btsdk_hci_app btsdk_ota_app audio_gateway audio_record watch anc ans batc bats beacon findme helloc hellos hrs hrc lecoc gpio puart dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
+      </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app mapc opps pbc spp btsdk_hci_app btsdk_ota_app audio_gateway audio_record watch anc ans batc bats beacon findme helloc hellos hrs hrc lecoc gpio puart dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
         <num>2.9.0 release</num>
         <commit>release-v2.9.0</commit>
@@ -894,6 +990,10 @@
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYBT-413061-EVAL</board_uri>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app anc ans batc bats beacon helloc hellos hrc hrs lecoc" prefix="wiced_btsdk/dev-kit/bsp">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app anc ans batc bats beacon helloc hellos hrc hrs lecoc" prefix="wiced_btsdk/dev-kit/bsp">
         <num>2.9.0 release</num>
         <commit>release-v2.9.0</commit>
       </version>
@@ -931,6 +1031,10 @@
     <category>WICED Bluetooth BSPs</category>
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYBT-423060-EVAL</board_uri>
     <versions>
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app anc ans batc bats beacon helloc hellos hrc hrs lecoc" prefix="wiced_btsdk/dev-kit/bsp">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
+      </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app anc ans batc bats beacon helloc hellos hrc hrs lecoc" prefix="wiced_btsdk/dev-kit/bsp">
         <num>2.9.0 release</num>
         <commit>release-v2.9.0</commit>
@@ -970,6 +1074,10 @@
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYBT-483062-EVAL</board_uri>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app anc ans batc bats beacon helloc hellos hrc hrs lecoc" prefix="wiced_btsdk/dev-kit/bsp">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app anc ans batc bats beacon helloc hellos hrc hrs lecoc" prefix="wiced_btsdk/dev-kit/bsp">
         <num>2.9.0 release</num>
         <commit>release-v2.9.0</commit>
       </version>
@@ -1008,6 +1116,10 @@
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYW920735Q60EVB-01</board_uri>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app spp btsdk_hci_app btsdk_ota_app anc ans batc bats beacon helloc hellos hrs hrc adc gpio i2c_master puart pwm ble_mouse ble_remote keyboard dimmer light_dimmable on_off_switch mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app spp btsdk_hci_app btsdk_ota_app anc ans batc bats beacon helloc hellos hrs hrc adc gpio i2c_master puart pwm ble_mouse ble_remote keyboard dimmer light_dimmable on_off_switch mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
         <num>2.9.0 release</num>
         <commit>release-v2.9.0</commit>
       </version>
@@ -1038,6 +1150,10 @@
     <category>WICED Bluetooth BSPs</category>
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYW920835REF-RCU-01</board_uri>
     <versions>
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app ble_rcu" prefix="wiced_btsdk/dev-kit/bsp">
+        <num>Latest v2.X release</num>
+        <commit>latest-v2.X</commit>
+      </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app ble_rcu" prefix="wiced_btsdk/dev-kit/bsp">
         <num>2.9.0 release</num>
         <commit>release-v2.9.0</commit>
