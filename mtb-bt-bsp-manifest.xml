@@ -1,7 +1,7 @@
 <boards>
   <board>
     <id>CYW920819EVB-02</id>
-    <category>WICED Bluetooth BSPs</category>
+    <category>AIROC Bluetooth BSPs</category>
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYW920819EVB-02</board_uri>
     <versions>
       <version tools_max_version="2.1.0" flow_version="1.0" prov_capabilities_per_version="bsp_gen1">
@@ -42,7 +42,7 @@
       <radio>CYW20819A1</radio>
     </chips>
     <name>CYW920819EVB-02</name>
-    <summary>The Cypress CYW920819EVB-02 Evaluation Kit enables you to evaluate and develop single-chip Bluetooth applications using the CYW20819, an ultra-low-power dual-mode Bluetooth 5.2 wireless MCU device. The CYW20819 is a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting LE/BR/EDR. Manufactured using advanced CMOS low-power process, the CYW20819 employs high integration to reduce external components, thereby minimizing the device's footprint and cost. This kit helps evaluate device functionality and develop applications quickly for faster time-to-market.</summary>
+    <summary>The Infineon CYW920819EVB-02 Evaluation Kit enables you to evaluate and develop single-chip Bluetooth applications using the CYW20819, an ultra-low-power dual-mode Bluetooth 5.2 wireless MCU device. The CYW20819 is a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting LE/BR/EDR. Manufactured using advanced CMOS low-power process, the CYW20819 employs high integration to reduce external components, thereby minimizing the device's footprint and cost. This kit helps evaluate device functionality and develop applications quickly for faster time-to-market.</summary>
     <prov_capabilities>ble br_edr mesh hid audio ota hal btsdk CYW920819EVB_02 fw2 lsm9ds1 ncu15wf104 led2x button CYW208XX CYW208XX_62fbga</prov_capabilities>
     <description><![CDATA[
         <div class="category">Kit Features:</div><ul>
@@ -65,7 +65,7 @@
   </board>
   <board>
     <id>CYBT-213043-MESH</id>
-    <category>WICED Bluetooth BSPs</category>
+    <category>AIROC Bluetooth BSPs</category>
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYBT-213043-MESH</board_uri>
     <versions>
       <version tools_max_version="2.1.0" flow_version="1.0" prov_capabilities_per_version="bsp_gen1">
@@ -106,7 +106,7 @@
       <radio>CYW20819A1</radio>
     </chips>
     <name>CYBT-213043-MESH</name>
-    <summary>The EZ-BT Mesh Evaluation Kit (CYBT-213043-MESH) enables you to evaluate SIG Mesh functionality and features using the EZ-BT WICED Module CYBT-213043-02. The CYBT-213043-02 EZ-BT WICED Module is an integrated, fully certified, 12.0 mm x 16.61 mm x 1.70 mm, programmable dual-mode Bluetooth(R) module designed to reduce your time-to-market. The CYBT-213043-02 module utilizes the Cypress CYW20819 silicon device.</summary>
+    <summary>The EZ-BT Mesh Evaluation Kit (CYBT-213043-MESH) enables you to evaluate SIG Mesh functionality and features using the EZ-BT AIROC Module CYBT-213043-02. The CYBT-213043-02 EZ-BT AIROC Module is an integrated, fully certified, 12.0 mm x 16.61 mm x 1.70 mm, programmable dual-mode Bluetooth(R) module designed to reduce your time-to-market. The CYBT-213043-02 module utilizes the Infineon CYW20819 silicon device.</summary>
     <prov_capabilities>ble br_edr mesh hid ota hal btsdk fw2 CYBT_213043_MESH</prov_capabilities>
     <description><![CDATA[
         <div class="category">Kit Features:</div><ul>
@@ -129,7 +129,7 @@
   </board>
   <board>
     <id>CYBT-213043-EVAL</id>
-    <category>WICED Bluetooth BSPs</category>
+    <category>AIROC Bluetooth BSPs</category>
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYBT-213043-EVAL</board_uri>
     <versions>
       <version tools_max_version="2.1.0" flow_version="1.0" prov_capabilities_per_version="bsp_gen1">
@@ -170,7 +170,7 @@
       <radio>CYW20819A1</radio>
     </chips>
     <name>CYBT-213043-EVAL</name>
-    <summary>The Cypress CYBT-213043-EVAL Evaluation Kit enables you to evaluate and develop single-chip Bluetooth applications using the EZ-BT WICED Module CYBT-213043-02. The CYBT-213043-02 EZ-BT WICED Module is an integrated, fully certified, 12.0 mm x 16.61 mm x 1.70 mm, programmable dual-mode Bluetooth module designed to reduce your time-to-market. The CYBT-213043-02 module utilizes the Cypress CYW20819 silicon device. Manufactured using advanced CMOS low-power process, the CYW20819 employs high integration to reduce external components, thereby minimizing the device's footprint and cost. This kit helps evaluate device functionality and develop applications quickly for faster time-to-market.</summary>
+    <summary>The Infineon CYBT-213043-EVAL Evaluation Kit enables you to evaluate and develop single-chip Bluetooth applications using the EZ-BT AIROC Module CYBT-213043-02. The CYBT-213043-02 EZ-BT AIROC Module is an integrated, fully certified, 12.0 mm x 16.61 mm x 1.70 mm, programmable dual-mode Bluetooth module designed to reduce your time-to-market. The CYBT-213043-02 module utilizes the Infineon CYW20819 silicon device. Manufactured using advanced CMOS low-power process, the CYW20819 employs high integration to reduce external components, thereby minimizing the device's footprint and cost. This kit helps evaluate device functionality and develop applications quickly for faster time-to-market.</summary>
     <prov_capabilities>ble br_edr mesh hid ota hal btsdk fw2 CYBT_213043_EVAL</prov_capabilities>
     <description><![CDATA[
         <div class="category">Kit Features:</div><ul>
@@ -193,7 +193,7 @@
   </board>
   <board>
     <id>CYW920820EVB-02</id>
-    <category>WICED Bluetooth BSPs</category>
+    <category>AIROC Bluetooth BSPs</category>
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYW920820EVB-02</board_uri>
     <versions>
       <version tools_max_version="2.1.0" flow_version="1.0" prov_capabilities_per_version="bsp_gen1">
@@ -234,7 +234,7 @@
       <radio>CYW20820A1</radio>
     </chips>
     <name>CYW920820EVB-02</name>
-    <summary>The Cypress CYW920820EVB-02 Evaluation Kit enables you to evaluate and develop single-chip Bluetooth applications using the CYW20820, an ultra-low-power dual-mode Bluetooth 5.2 wireless MCU device. The CYW20820 is a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting LE/BR/EDR. The CYW20820 delivers up to 10.5 dBm Tx power in LE and BR modes and up to 4 dBm in EDR mode that extends range in applications like home and industrial automation, wearables, toys, and HID. The CYW20820 employs high integration to reduce external components, thereby minimizing the device's footprint and cost. This kit helps evaluate device functionality and develop applications quickly for faster time-to-market.</summary>
+    <summary>The Infineon CYW920820EVB-02 Evaluation Kit enables you to evaluate and develop single-chip Bluetooth applications using the CYW20820, an ultra-low-power dual-mode Bluetooth 5.2 wireless MCU device. The CYW20820 is a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting LE/BR/EDR. The CYW20820 delivers up to 10.5 dBm Tx power in LE and BR modes and up to 4 dBm in EDR mode that extends range in applications like home and industrial automation, wearables, toys, and HID. The CYW20820 employs high integration to reduce external components, thereby minimizing the device's footprint and cost. This kit helps evaluate device functionality and develop applications quickly for faster time-to-market.</summary>
     <prov_capabilities>ble br_edr mesh hid audio ota hal btsdk fw2 CYW920820EVB_02 lsm9ds1 ncu15wf104 led2x button CYW208XX CYW208XX_62fbga</prov_capabilities>
     <description><![CDATA[
         <div class="category">Kit Features:</div><ul>
@@ -257,7 +257,7 @@
   </board>
   <board>
     <id>CYW920819REF-KB-01</id>
-    <category>WICED Bluetooth BSPs</category>
+    <category>AIROC Bluetooth BSPs</category>
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYW920819REF-KB-01</board_uri>
     <versions>
       <version tools_max_version="2.1.0" flow_version="1.0" prov_capabilities_per_version="bsp_gen1">
@@ -294,7 +294,7 @@
       <radio>CYW20819A1</radio>
     </chips>
     <name>CYW920819REF-KB-01</name>
-    <summary>The Cypress CYW920819REF-KB-01 Reference Keyboard enables you to evaluate and develop single-chip Bluetooth HID keyboard device applications using the CYW9208XXWCD1 module, a 112-pin module utilizing the Cypress CYW20819 silicon, an ultra-low-power dual-mode Bluetooth 5.2 wireless MCU device. The CYW20819 is a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting LE/BR/EDR. </summary>
+    <summary>The Infineon CYW920819REF-KB-01 Reference Keyboard enables you to evaluate and develop single-chip Bluetooth HID keyboard device applications using the CYW9208XXWCD1 module, a 112-pin module utilizing the Infineon CYW20819 silicon, an ultra-low-power dual-mode Bluetooth 5.2 wireless MCU device. The CYW20819 is a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting LE/BR/EDR. </summary>
     <prov_capabilities>hid ota btsdk fw2 CYW920819REF_KB_01</prov_capabilities>
     <description><![CDATA[
         <div class="category">Kit Features:</div><ul>
@@ -310,7 +310,7 @@
   </board>
   <board>
     <id>CYW989820EVB-01</id>
-    <category>WICED Bluetooth BSPs</category>
+    <category>AIROC Bluetooth BSPs</category>
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYW989820EVB-01</board_uri>
     <versions>
       <version tools_max_version="2.1.0" flow_version="1.0" prov_capabilities_per_version="bsp_gen1">
@@ -351,7 +351,7 @@
       <radio>CYW20820A1</radio>
     </chips>
     <name>CYW989820EVB-01</name>
-    <summary>The Cypress CYW989820EVB-01 Evaluation Kit enables you to evaluate and develop single-chip Bluetooth applications using the CYW89820, an Automotive qualified dual-mode Bluetooth 5.2 wireless SoC device. The CYW89820 is a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting LE/BR/EDR. The CYW89820 delivers up to 10.5 dBm Tx power in LE and BR modes and up to 4 dBm in EDR mode that extends range in applications like Automotive Keyless Entry, Remote Parking, Sensor Control, Wake-up trigger for Telematics units etc. The CYW89820 employs high integration to reduce external components, thereby minimizing the device's footprint and cost. This kit helps evaluate device functionality and develop applications quickly for faster time-to-market.</summary>
+    <summary>The Infineon CYW989820EVB-01 Evaluation Kit enables you to evaluate and develop single-chip Bluetooth applications using the CYW89820, an Automotive qualified dual-mode Bluetooth 5.2 wireless SoC device. The CYW89820 is a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting LE/BR/EDR. The CYW89820 delivers up to 10.5 dBm Tx power in LE and BR modes and up to 4 dBm in EDR mode that extends range in applications like Automotive Keyless Entry, Remote Parking, Sensor Control, Wake-up trigger for Telematics units etc. The CYW89820 employs high integration to reduce external components, thereby minimizing the device's footprint and cost. This kit helps evaluate device functionality and develop applications quickly for faster time-to-market.</summary>
     <prov_capabilities>ble br_edr mesh hid ota peps hal btsdk fw2 CYW989820EVB_01 CYW208XX</prov_capabilities>
     <description><![CDATA[
         <div class="category">Kit Features:</div><ul>
@@ -374,7 +374,7 @@
   </board>
   <board>
     <id>CYW920719B2Q40EVB-01</id>
-    <category>WICED Bluetooth BSPs</category>
+    <category>AIROC Bluetooth BSPs</category>
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYW920719B2Q40EVB-01</board_uri>
     <versions>
       <version tools_max_version="2.1.0" flow_version="1.0" prov_capabilities_per_version="bsp_gen1">
@@ -415,7 +415,7 @@
       <radio>CYW20719B2</radio>
     </chips>
     <name>CYW920719B2Q40EVB-01</name>
-    <summary>The Cypress CYW920719B2Q40EVB-01 Evaluation Kit enables you to evaluate and develop single-chip Bluetooth applications using the CYW20719, an ultra-low-power dual-mode Bluetooth 5.1 wireless MCU device. The CYW20719 is a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting LE/BR/EDR. The CYW20719 employs high integration to reduce external components, thereby minimizing the device's footprint and cost. This kit helps evaluate device functionality and develop applications quickly for faster time-to-market.</summary>
+    <summary>The Infineon CYW920719B2Q40EVB-01 Evaluation Kit enables you to evaluate and develop single-chip Bluetooth applications using the CYW20719, an ultra-low-power dual-mode Bluetooth 5.1 wireless MCU device. The CYW20719 is a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting LE/BR/EDR. The CYW20719 employs high integration to reduce external components, thereby minimizing the device's footprint and cost. This kit helps evaluate device functionality and develop applications quickly for faster time-to-market.</summary>
     <prov_capabilities>ble br_edr mesh hid audio ota hal btsdk fw2 led2x button CYW920719B2Q40EVB_01 lsm9ds1 ncu15wf104</prov_capabilities>
     <description><![CDATA[
         <div class="category">Kit Features:</div><ul>
@@ -438,7 +438,7 @@
   </board>
   <board>
     <id>CYW920721B2EVK-02</id>
-    <category>WICED Bluetooth BSPs</category>
+    <category>AIROC Bluetooth BSPs</category>
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYW920721B2EVK-02</board_uri>
     <versions>
       <version tools_max_version="2.1.0" flow_version="1.0" prov_capabilities_per_version="bsp_gen1">
@@ -475,7 +475,7 @@
       <radio>CYW20721B2</radio>
     </chips>
     <name>CYW920721B2EVK-02</name>
-    <summary>The Cypress CYW920721B2EVK-02 Evaluation Kit enables you to evaluate and develop single-chip Bluetooth applications using the CYW20721, an ultra-low-power dual-mode Bluetooth 5.1 wireless MCU device for audio. The CYW20721 is a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting LE/BR/EDR. The CYW20721 employs high integration to reduce external components, thereby minimizing the device's footprint and cost. This kit helps evaluate device functionality and develop applications quickly for faster time-to-market.</summary>
+    <summary>The Infineon CYW920721B2EVK-02 Evaluation Kit enables you to evaluate and develop single-chip Bluetooth applications using the CYW20721, an ultra-low-power dual-mode Bluetooth 5.1 wireless MCU device for audio. The CYW20721 is a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting LE/BR/EDR. The CYW20721 employs high integration to reduce external components, thereby minimizing the device's footprint and cost. This kit helps evaluate device functionality and develop applications quickly for faster time-to-market.</summary>
     <prov_capabilities>ble br_edr mesh hid audio ota hal btsdk fw2 CYW920721B2EVK_02</prov_capabilities>
     <description><![CDATA[
         <div class="category">Kit Features:</div><ul>
@@ -500,7 +500,7 @@
   </board>
   <board>
     <id>CYW920721B2EVK-03</id>
-    <category>WICED Bluetooth BSPs</category>
+    <category>AIROC Bluetooth BSPs</category>
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYW920721B2EVK-03</board_uri>
     <versions>
       <version tools_max_version="2.1.0" flow_version="1.0" prov_capabilities_per_version="bsp_gen1">
@@ -541,7 +541,7 @@
       <radio>CYW20721B2</radio>
     </chips>
     <name>CYW920721B2EVK-03</name>
-    <summary>The Cypress CYW920721B2EVK-03 Evaluation Kit enables you to evaluate and develop single-chip Bluetooth applications using the CYW20721, an ultra-low-power dual-mode Bluetooth 5.1 wireless MCU device for audio. The CYW20721 is a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting LE/BR/EDR. The CYW20721 employs high integration to reduce external components, thereby minimizing the device's footprint and cost. This kit helps evaluate device functionality and develop applications quickly for faster time-to-market.</summary>
+    <summary>The Infineon CYW920721B2EVK-03 Evaluation Kit enables you to evaluate and develop single-chip Bluetooth applications using the CYW20721, an ultra-low-power dual-mode Bluetooth 5.1 wireless MCU device for audio. The CYW20721 is a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting LE/BR/EDR. The CYW20721 employs high integration to reduce external components, thereby minimizing the device's footprint and cost. This kit helps evaluate device functionality and develop applications quickly for faster time-to-market.</summary>
     <prov_capabilities>ble br_edr mesh hid audio ota hal btsdk fw2 CYW920721B2EVK_03</prov_capabilities>
     <description><![CDATA[
         <div class="category">Kit Features:</div><ul>
@@ -566,7 +566,7 @@
   </board>
   <board>
     <id>CYBT-413061-EVAL</id>
-    <category>WICED Bluetooth BSPs</category>
+    <category>AIROC Bluetooth BSPs</category>
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYBT-413061-EVAL</board_uri>
     <versions>
       <version tools_max_version="2.1.0" flow_version="1.0" prov_capabilities_per_version="bsp_gen1">
@@ -583,7 +583,7 @@
       <radio>CYW20721B2</radio>
     </chips>
     <name>CYBT-413061-EVAL</name>
-    <summary>The Cypress CYBT-413061-EVAL board enables you to evaluate and develop Bluetooth applications using the CYBT-413061-02 module.  The CYBT-413061-02 is a dual-mode Bluetooth BR/EDR and Low Energy (LE) wireless module solution.  The CYBT-413061-02 includes onboard crystal oscillators, passive components, and the Cypress CYW20721B2 silicon device.</summary>
+    <summary>The Infineon CYBT-413061-EVAL board enables you to evaluate and develop Bluetooth applications using the CYBT-413061-02 module.  The CYBT-413061-02 is a dual-mode Bluetooth BR/EDR and Low Energy (LE) wireless module solution.  The CYBT-413061-02 includes onboard crystal oscillators, passive components, and the Infineon CYW20721B2 silicon device.</summary>
     <prov_capabilities>ble br_edr mesh hid audio ota hal btsdk fw2 CYBT_413061_EVAL</prov_capabilities>
     <description><![CDATA[
         <div class="category">Kit Features:</div><ul>
@@ -604,7 +604,7 @@
   </board>
   <board>
     <id>CYBT-423060-EVAL</id>
-    <category>WICED Bluetooth BSPs</category>
+    <category>AIROC Bluetooth BSPs</category>
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYBT-423060-EVAL</board_uri>
     <versions>
       <version tools_max_version="2.1.0" flow_version="1.0" prov_capabilities_per_version="bsp_gen1">
@@ -621,7 +621,7 @@
       <radio>CYW20721B2</radio>
     </chips>
     <name>CYBT-423060-EVAL</name>
-    <summary>The Cypress CYBT-423060-EVAL board enables you to evaluate and develop Bluetooth applications using the CYBT-423060-02 module.  The CYBT-423060-02 is a dual-mode Bluetooth BR/EDR and Low Energy (LE) wireless module solution.  The CYBT-423060-02 includes onboard crystal oscillators, passive components, and the Cypress CYW20721B2 silicon device.</summary>
+    <summary>The Infineon CYBT-423060-EVAL board enables you to evaluate and develop Bluetooth applications using the CYBT-423060-02 module.  The CYBT-423060-02 is a dual-mode Bluetooth BR/EDR and Low Energy (LE) wireless module solution.  The CYBT-423060-02 includes onboard crystal oscillators, passive components, and the Infineon CYW20721B2 silicon device.</summary>
     <prov_capabilities>ble br_edr mesh hid audio ota hal btsdk fw2 CYBT_423060_EVAL</prov_capabilities>
     <description><![CDATA[
         <div class="category">Kit Features:</div><ul>
@@ -642,7 +642,7 @@
   </board>
   <board>
     <id>CYBT-483062-EVAL</id>
-    <category>WICED Bluetooth BSPs</category>
+    <category>AIROC Bluetooth BSPs</category>
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYBT-483062-EVAL</board_uri>
     <versions>
       <version tools_max_version="2.1.0" flow_version="1.0" prov_capabilities_per_version="bsp_gen1">
@@ -659,7 +659,7 @@
       <radio>CYW20721B2</radio>
     </chips>
     <name>CYBT-483062-EVAL</name>
-    <summary>The Cypress CYBT-483062-EVAL board enables you to evaluate and develop Bluetooth applications using the CYBT-483062-02 module.  The CYBT-483062-02 is a dual-mode Bluetooth BR/EDR and Low Energy (LE) wireless module solution.  The CYBT-483062-02 includes onboard crystal oscillators, passive components, PA/LNA, and the Cypress CYW20721B2 silicon device.</summary>
+    <summary>The Infineon CYBT-483062-EVAL board enables you to evaluate and develop Bluetooth applications using the CYBT-483062-02 module.  The CYBT-483062-02 is a dual-mode Bluetooth BR/EDR and Low Energy (LE) wireless module solution.  The CYBT-483062-02 includes onboard crystal oscillators, passive components, PA/LNA, and the Infineon CYW20721B2 silicon device.</summary>
     <prov_capabilities>ble br_edr mesh hid audio ota hal btsdk fw2 CYBT_483062_EVAL</prov_capabilities>
     <description><![CDATA[
         <div class="category">Kit Features:</div><ul>
@@ -680,7 +680,7 @@
   </board>
   <board>
     <id>CYW920706WCDEVAL</id>
-    <category>WICED Bluetooth BSPs</category>
+    <category>AIROC Bluetooth BSPs</category>
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYW920706WCDEVAL</board_uri>
     <versions>
       <version tools_max_version="2.1.0" flow_version="1.0" prov_capabilities_per_version="bsp_gen1">
@@ -717,12 +717,12 @@
       <radio>CYW20706A2</radio>
     </chips>
     <name>CYW920706WCDEVAL</name>
-    <summary>The Cypress CYW920706WCDEVAL Evaluation Kit enables you to evaluate and develop single-chip Bluetooth applications using the CYW20706, an ultra-low-power dual-mode Bluetooth 5.2 wireless MCU device. The CYW20706 is a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting LE/BR/EDR. The CYW20706 employs high integration to reduce external components, thereby minimizing the device's footprint and cost. This kit helps evaluate device functionality and develop applications quickly for faster time-to-market.</summary>
+    <summary>The Infineon CYW920706WCDEVAL Evaluation Kit enables you to evaluate and develop single-chip Bluetooth applications using the CYW20706, an ultra-low-power dual-mode Bluetooth 5.2 wireless MCU device. The CYW20706 is a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting LE/BR/EDR. The CYW20706 employs high integration to reduce external components, thereby minimizing the device's footprint and cost. This kit helps evaluate device functionality and develop applications quickly for faster time-to-market.</summary>
     <prov_capabilities>ble br_edr mesh hid audio ota hal btsdk CYW920706WCDEVAL</prov_capabilities>
     <description><![CDATA[
         <div class="category">Kit Features:</div><ul>
         <li>CYW20706 is a monolithic, single chip, Bluetooth dual-mode System-on-a-Chip (SoC) that includes a baseband processor, an ARM&#174; Cortex&#8482;-M3 processor, and an integrated transceiver.</li>
-        <li>The Cypress CYW920706WCDEVAL board is an evaluation board that provides various pins, jumpers, switches, ports, and test points to access CYW20706 to perform debug, evaluation, and troubleshooting.</li>
+        <li>The Infineon CYW920706WCDEVAL board is an evaluation board that provides various pins, jumpers, switches, ports, and test points to access CYW20706 to perform debug, evaluation, and troubleshooting.</li>
         </ul><p/>
         </body>
         </html>
@@ -731,7 +731,7 @@
   </board>
   <board>
     <id>CYBT-353027-EVAL</id>
-    <category>WICED Bluetooth BSPs</category>
+    <category>AIROC Bluetooth BSPs</category>
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYBT-353027-EVAL</board_uri>
     <versions>
       <version tools_max_version="2.1.0" flow_version="1.0" prov_capabilities_per_version="bsp_gen1">
@@ -768,12 +768,12 @@
       <radio>CYW20706A2</radio>
     </chips>
     <name>CYBT-353027-EVAL</name>
-    <summary>The Cypress CYBT-353027-EVAL Kit enables you to evaluate and develop single-chip Bluetooth applications using the CYW20706, an ultra-low-power dual-mode Bluetooth 5.0 wireless MCU device. The CYW20706 is a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting LE/BR/EDR. The CYW20706 employs high integration to reduce external components, thereby minimizing the device's footprint and cost. This kit helps evaluate device functionality and develop applications quickly for faster time-to-market.</summary>
+    <summary>The Infineon CYBT-353027-EVAL Kit enables you to evaluate and develop single-chip Bluetooth applications using the CYW20706, an ultra-low-power dual-mode Bluetooth 5.0 wireless MCU device. The CYW20706 is a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting LE/BR/EDR. The CYW20706 employs high integration to reduce external components, thereby minimizing the device's footprint and cost. This kit helps evaluate device functionality and develop applications quickly for faster time-to-market.</summary>
     <prov_capabilities>ble br_edr mesh hid audio ota hal btsdk CYBT_353027_EVAL</prov_capabilities>
     <description><![CDATA[
         <div class="category">Kit Features:</div><ul>
         <li>CYW20706 is a monolithic, single chip, Bluetooth dual-mode System-on-a-Chip (SoC) that includes a baseband processor, an ARM&#174; Cortex&#8482;-M3 processor, and an integrated transceiver.</li>
-        <li>The EZ-BT Module Arduino Evaluation Board (CYBT-353027-EVAL) enables you to evaluate and develop applications on the EZ-BT WICED Module, CYBT-353027-02. CYBT-353027-EVAL can be used as a standalone evaluation kit or can be combined with Arduino compatible shields.</li>
+        <li>The EZ-BT Module Arduino Evaluation Board (CYBT-353027-EVAL) enables you to evaluate and develop applications on the EZ-BT AIROC Module, CYBT-353027-02. CYBT-353027-EVAL can be used as a standalone evaluation kit or can be combined with Arduino compatible shields.</li>
         </ul><p/>
         </body>
         </html>
@@ -782,7 +782,7 @@
   </board>
   <board>
     <id>CYBT-343026-EVAL</id>
-    <category>WICED Bluetooth BSPs</category>
+    <category>AIROC Bluetooth BSPs</category>
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYBT-343026-EVAL</board_uri>
     <versions>
       <version tools_max_version="2.1.0" flow_version="1.0" prov_capabilities_per_version="bsp_gen1">
@@ -815,12 +815,12 @@
       <radio>CYW20706A2</radio>
     </chips>
     <name>CYBT-343026-EVAL</name>
-    <summary>The Cypress CYBT-343026-EVAL Kit enables you to evaluate and develop single-chip Bluetooth applications using the CYW20706, an ultra-low-power dual-mode Bluetooth 5.0 wireless MCU device. The CYW20706 is a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting LE/BR/EDR. The CYW20706 employs high integration to reduce external components, thereby minimizing the device's footprint and cost. This kit helps evaluate device functionality and develop applications quickly for faster time-to-market.</summary>
+    <summary>The Infineon CYBT-343026-EVAL Kit enables you to evaluate and develop single-chip Bluetooth applications using the CYW20706, an ultra-low-power dual-mode Bluetooth 5.0 wireless MCU device. The CYW20706 is a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting LE/BR/EDR. The CYW20706 employs high integration to reduce external components, thereby minimizing the device's footprint and cost. This kit helps evaluate device functionality and develop applications quickly for faster time-to-market.</summary>
     <prov_capabilities>ble br_edr mesh hid audio ota hal btsdk CYBT_343026_EVAL</prov_capabilities>
     <description><![CDATA[
         <div class="category">Kit Features:</div><ul>
         <li>CYW20706 is a monolithic, single chip, Bluetooth dual-mode System-on-a-Chip (SoC) that includes a baseband processor, an ARM&#174; Cortex&#8482;-M3 processor, and an integrated transceiver.</li>
-        <li>The EZ-BT Module Arduino Evaluation Board (CYBT-343026-EVAL) enables you to evaluate and develop applications on the EZ-BT WICED Module, CYBT-343026-01. CYBT-343026-EVAL can be used as a standalone evaluation kit or can be combined with Arduino compatible shields.</li>
+        <li>The EZ-BT Module Arduino Evaluation Board (CYBT-343026-EVAL) enables you to evaluate and develop applications on the EZ-BT AIROC Module, CYBT-343026-01. CYBT-343026-EVAL can be used as a standalone evaluation kit or can be combined with Arduino compatible shields.</li>
         </ul><p/>
         </body>
         </html>
@@ -829,7 +829,7 @@
   </board>
   <board>
     <id>CYW920735Q60EVB-01</id>
-    <category>WICED Bluetooth BSPs</category>
+    <category>AIROC Bluetooth BSPs</category>
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYW920735Q60EVB-01</board_uri>
     <versions>
       <version tools_max_version="2.1.0" flow_version="1.0" prov_capabilities_per_version="bsp_gen1">
@@ -862,12 +862,12 @@
       <radio>CYW20735B1</radio>
     </chips>
     <name>CYW920735Q60EVB-01</name>
-    <summary>The Cypress CYW920735Q60EVB-01 Evaluation Kit enables you to evaluate and develop single-chip Bluetooth applications using the CYW20735, an ultra-low-power dual-mode Bluetooth 5.0 wireless MCU device. The CYW20735 is a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting BR and LE. EDR is not supported. The CYW20735 employs high integration to reduce external components, thereby minimizing the device's footprint and cost. The device includes several on-chip peripherals including a hardware key scanner, PWMs, and an ADC. The device also includes an analog microphone interface that provides a low-cost solution for voice-enabled remotes as well as Internet of Things (IoT) gadgets and toys. This kit helps evaluate device functionality and develop applications quickly for faster time-to-market.</summary>
+    <summary>The Infineon CYW920735Q60EVB-01 Evaluation Kit enables you to evaluate and develop single-chip Bluetooth applications using the CYW20735, an ultra-low-power dual-mode Bluetooth 5.0 wireless MCU device. The CYW20735 is a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting BR and LE. EDR is not supported. The CYW20735 employs high integration to reduce external components, thereby minimizing the device's footprint and cost. The device includes several on-chip peripherals including a hardware key scanner, PWMs, and an ADC. The device also includes an analog microphone interface that provides a low-cost solution for voice-enabled remotes as well as Internet of Things (IoT) gadgets and toys. This kit helps evaluate device functionality and develop applications quickly for faster time-to-market.</summary>
     <prov_capabilities>ble br_edr mesh hid audio ota hal btsdk fw2 led2x CYW920735Q60EVB_01 lsm9ds1 ncu15wf104</prov_capabilities>
     <description><![CDATA[
         <div class="category">Kit Features:</div><ul>
         <li>CYW20735 is a monolithic, single chip, Bluetooth dual-mode System-on-a-Chip (SoC) that includes a baseband processor, an ARM&#174; Cortex&#8482;-M4 processor, and an integrated transceiver.</li>
-        <li>The Cypress CYW920735Q60EVB-01 board is an evaluation board that provides various pins, jumpers, switches, ports, and test points to access CYW20735 to perform debug, evaluation, and troubleshooting.</li>
+        <li>The Infineon CYW920735Q60EVB-01 board is an evaluation board that provides various pins, jumpers, switches, ports, and test points to access CYW20735 to perform debug, evaluation, and troubleshooting.</li>
         </ul><p/>
         </body>
         </html>
@@ -876,7 +876,7 @@
   </board>
   <board>
     <id>CYW9M2BASE-43012BT</id>
-    <category>WICED Bluetooth BSPs</category>
+    <category>AIROC Bluetooth BSPs</category>
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYW9M2BASE-43012BT</board_uri>
     <versions>
       <version tools_max_version="2.1.0" flow_version="1.0" prov_capabilities_per_version="bsp_gen1">
@@ -905,12 +905,12 @@
       <radio>CYW43012C0</radio>
     </chips>
     <name>CYW9M2BASE-43012BT</name>
-    <summary>The Cypress CYW9M2BASE-43012BT is a prototyping kit that enables the design and debug of Bluetooth applications using the CYW43012 (Wi-Fi + Bluetooth Combo), an ultra-low-power dual-mode Bluetooth 5.2 wireless MCU device. The CYW43012 is a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting LE/BR/EDR. The kit includes an Audio Arduino shield with on-board microphones, audio codec chip, and headphone output.</summary>
+    <summary>The Infineon CYW9M2BASE-43012BT is a prototyping kit that enables the design and debug of Bluetooth applications using the CYW43012 (Wi-Fi + Bluetooth Combo), an ultra-low-power dual-mode Bluetooth 5.2 wireless MCU device. The CYW43012 is a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting LE/BR/EDR. The kit includes an Audio Arduino shield with on-board microphones, audio codec chip, and headphone output.</summary>
     <prov_capabilities>ble br_edr audio btsdk CYW9M2BASE_43012BT</prov_capabilities>
     <description><![CDATA[
         <div class="category">Kit Features:</div><ul>
         <li>CYW43012 is a monolithic, single chip, Wi-Fi + Bluetooth Combo dual-mode System-on-a-Chip (SoC) that includes a baseband processor, an ARM&#174; Cortex&#8482;-M4 processor, and an integrated transceiver.</li>
-        <li>The Cypress CYW9M2BASE-43012BT board is a prototyping kit that enables the design and debug of Bluetooth applications using the CYW43012.</li>
+        <li>The Infineon CYW9M2BASE-43012BT board is a prototyping kit that enables the design and debug of Bluetooth applications using the CYW43012.</li>
         </ul><p/>
         </body>
         </html>
@@ -919,7 +919,7 @@
   </board>
   <board>
     <id>CYBT-423054-EVAL</id>
-    <category>WICED Bluetooth BSPs</category>
+    <category>AIROC Bluetooth BSPs</category>
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYBT-423054-EVAL</board_uri>
     <versions>
       <version tools_max_version="2.1.0" flow_version="1.0" prov_capabilities_per_version="bsp_gen1">
@@ -948,7 +948,7 @@
       <radio>CYW20719B2</radio>
     </chips>
     <name>CYBT-423054-EVAL</name>
-    <summary>The Cypress CYBT-423054-EVAL board enables you to evaluate and develop Bluetooth applications using the CYBT-423054-02 module. The CYBT-423054-02 is a dual-mode Bluetooth BR/EDR and Low Energy (LE) wireless module solution. The CYBT-423054-02 includes onboard crystal oscillators, passive components, and the Cypress CYW20719B2 silicon device.</summary>
+    <summary>The Infineon CYBT-423054-EVAL board enables you to evaluate and develop Bluetooth applications using the CYBT-423054-02 module. The CYBT-423054-02 is a dual-mode Bluetooth BR/EDR and Low Energy (LE) wireless module solution. The CYBT-423054-02 includes onboard crystal oscillators, passive components, and the Infineon CYW20719B2 silicon device.</summary>
     <prov_capabilities>ble br_edr btsdk CYBT_423054_EVAL</prov_capabilities>
     <description><![CDATA[
         <div class="category">Kit Features:</div><ul>
@@ -969,7 +969,7 @@
   </board>
   <board>
     <id>CYBT-483056-EVAL</id>
-    <category>WICED Bluetooth BSPs</category>
+    <category>AIROC Bluetooth BSPs</category>
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYBT-483056-EVAL</board_uri>
     <versions>
       <version tools_max_version="2.1.0" flow_version="1.0" prov_capabilities_per_version="bsp_gen1">
@@ -994,7 +994,7 @@
       <radio>CYW20719B2</radio>
     </chips>
     <name>CYBT-483056-EVAL</name>
-    <summary>The Cypress CYBT-483056-EVAL board enables you to evaluate and develop Bluetooth applications using the CYBT-483056-02 module. The CYBT-483056-02 is a dual-mode Bluetooth BR/EDR and Low Energy (LE) wireless module solution. The CYBT-483056-02 includes onboard crystal oscillators, passive components, and the Cypress CYW20719B2 silicon device.</summary>
+    <summary>The Infineon CYBT-483056-EVAL board enables you to evaluate and develop Bluetooth applications using the CYBT-483056-02 module. The CYBT-483056-02 is a dual-mode Bluetooth BR/EDR and Low Energy (LE) wireless module solution. The CYBT-483056-02 includes onboard crystal oscillators, passive components, and the Infineon CYW20719B2 silicon device.</summary>
     <prov_capabilities>ble btsdk CYBT_483056_EVAL</prov_capabilities>
     <description><![CDATA[
         <div class="category">Kit Features:</div><ul>
@@ -1015,7 +1015,7 @@
   </board>
   <board>
     <id>CYBT-413055-EVAL</id>
-    <category>WICED Bluetooth BSPs</category>
+    <category>AIROC Bluetooth BSPs</category>
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYBT-413055-EVAL</board_uri>
     <versions>
       <version tools_max_version="2.1.0" flow_version="1.0" prov_capabilities_per_version="bsp_gen1">
@@ -1040,7 +1040,7 @@
       <radio>CYW20719B2</radio>
     </chips>
     <name>CYBT-413055-EVAL</name>
-    <summary>The Cypress CYBT-413055-EVAL board enables you to evaluate and develop Bluetooth applications using the CYBT-413055-02 module. The CYBT-413055-02 is a dual-mode Bluetooth BR/EDR and Low Energy (LE) wireless module solution. The CYBT-413055-02 includes onboard crystal oscillators, passive components, and the Cypress CYW20719B2 silicon device.</summary>
+    <summary>The Infineon CYBT-413055-EVAL board enables you to evaluate and develop Bluetooth applications using the CYBT-413055-02 module. The CYBT-413055-02 is a dual-mode Bluetooth BR/EDR and Low Energy (LE) wireless module solution. The CYBT-413055-02 includes onboard crystal oscillators, passive components, and the Infineon CYW20719B2 silicon device.</summary>
     <prov_capabilities>ble btsdk CYBT_413055_EVAL</prov_capabilities>
     <description><![CDATA[
         <div class="category">Kit Features:</div><ul>
@@ -1061,7 +1061,7 @@
   </board>
   <board>
     <id>CYW920835REF-RCU-01</id>
-    <category>WICED Bluetooth BSPs</category>
+    <category>AIROC Bluetooth BSPs</category>
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYW920835REF-RCU-01</board_uri>
     <versions>
       <version tools_max_version="2.1.0" flow_version="1.0" prov_capabilities_per_version="bsp_gen1">
@@ -1078,7 +1078,7 @@
       <radio>CYW20835B1</radio>
     </chips>
     <name>CYW920835REF-RCU-01</name>
-    <summary>The Cypress CYW920835REF-RCU-01 Reference remote enables you to evaluate and develop single-chip Bluetooth Low Energy remote device applications using the CYW20835, an ultra-low-power Bluetooth Low Energy 5.2 wireless MCU device. The CYW20835 is a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting LE. The CYW20835 employs high integration to reduce external components, thereby minimizing the device's footprint and cost. This kit helps evaluate device functionality and develop remote applications quickly for faster time-to-market.</summary>
+    <summary>The Infineon CYW920835REF-RCU-01 Reference remote enables you to evaluate and develop single-chip Bluetooth Low Energy remote device applications using the CYW20835, an ultra-low-power Bluetooth Low Energy 5.2 wireless MCU device. The CYW20835 is a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting LE. The CYW20835 employs high integration to reduce external components, thereby minimizing the device's footprint and cost. This kit helps evaluate device functionality and develop remote applications quickly for faster time-to-market.</summary>
     <prov_capabilities>ble hid audio ota hal btsdk fw2 CYW920835REF_RCU_01</prov_capabilities>
     <description><![CDATA[
         <div class="category">Kit Features:</div><ul>
