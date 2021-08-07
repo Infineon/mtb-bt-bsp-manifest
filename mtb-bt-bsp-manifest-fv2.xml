@@ -2,7 +2,7 @@
   <board>
     <id>CYW920706WCDEVAL</id>
     <category>AIROC Bluetooth BSPs</category>
-    <board_uri>https://github.com/Infineon/TARGET_CYW920706WCDEVAL</board_uri>
+    <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYW920706WCDEVAL</board_uri>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app hci_loopback mapc opps pbc spp spp_multi_port btsdk_hci_app btsdk_ota_app avsink audio_gateway handsfree headset watch ans anc bats batc beacon hellos helloc hrs hrc adc gpio puart pwm uart_spi dimmer dimmer_self_config light_dimmable mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
         <num>3.1.0 release</num>
@@ -49,7 +49,7 @@
   <board>
     <id>CYBT-353027-EVAL</id>
     <category>AIROC Bluetooth BSPs</category>
-    <board_uri>https://github.com/Infineon/TARGET_CYBT-353027-EVAL</board_uri>
+    <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYBT-353027-EVAL</board_uri>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app hci_loopback opps pbc spp btsdk_hci_app btsdk_ota_app anc ans batc bats beacon hellos hrc hrs mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
         <num>3.1.0 release</num>
@@ -96,7 +96,7 @@
   <board>
     <id>CYBT-343026-EVAL</id>
     <category>AIROC Bluetooth BSPs</category>
-    <board_uri>https://github.com/Infineon/TARGET_CYBT-343026-EVAL</board_uri>
+    <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYBT-343026-EVAL</board_uri>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app hci_loopback opps pbc spp btsdk_hci_app btsdk_ota_app anc ans batc bats beacon hellos hrc hrs adc gpio puart pwm mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
         <num>3.1.0 release</num>
@@ -143,7 +143,7 @@
   <board>
     <id>CYW920819EVB-02</id>
     <category>AIROC Bluetooth BSPs</category>
-    <board_uri>https://github.com/Infineon/TARGET_CYW920819EVB-02</board_uri>
+    <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYW920819EVB-02</board_uri>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app hci_loopback mapc spp spp_multi_port btsdk_hci_app btsdk_ota_app watch anc ans batc bats beacon env_sens_temp findme helloc hellos hrc hrs lecoc adc gpio i2c_master lowpower puart pwm uart_raw dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart low_power_led on_off_switch mesh_sensor_temperature mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
         <num>3.1.0 release</num>
@@ -199,7 +199,7 @@
   <board>
     <id>CYBT-213043-MESH</id>
     <category>AIROC Bluetooth BSPs</category>
-    <board_uri>https://github.com/Infineon/TARGET_CYBT-213043-MESH</board_uri>
+    <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYBT-213043-MESH</board_uri>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app hci_loopback color_light dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart low_power_led on_off_switch sensor_motion mesh_sensor_temperature mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
         <num>3.1.0 release</num>
@@ -255,7 +255,7 @@
   <board>
     <id>CYBT-213043-EVAL</id>
     <category>AIROC Bluetooth BSPs</category>
-    <board_uri>https://github.com/Infineon/TARGET_CYBT-213043-EVAL</board_uri>
+    <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYBT-213043-EVAL</board_uri>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app hci_loopback spp anc ans batc bats beacon findme helloc hellos hrc hrs lecoc adc gpio lowpower puart pwm dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart low_power_led on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
         <num>3.1.0 release</num>
@@ -311,7 +311,7 @@
   <board>
     <id>CYBT-223058-EVAL</id>
     <category>AIROC Bluetooth BSPs</category>
-    <board_uri>https://github.com/Infineon/TARGET_CYBT-223058-EVAL</board_uri>
+    <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYBT-223058-EVAL</board_uri>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app hci_loopback spp btsdk_ota_app anc ans batc bats beacon findme helloc hellos hrc hrs lecoc adc gpio lowpower puart pwm dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart low_power_led on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
         <num>3.1.0 release</num>
@@ -363,7 +363,7 @@
   <board>
     <id>CYBT-273063-EVAL</id>
     <category>AIROC Bluetooth BSPs</category>
-    <board_uri>https://github.com/Infineon/TARGET_CYBT-273063-EVAL</board_uri>
+    <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYBT-273063-EVAL</board_uri>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app hci_loopback spp btsdk_ota_app anc ans batc bats beacon findme helloc hellos hrc hrs lecoc adc gpio lowpower puart pwm dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart low_power_led on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
         <num>3.1.0 release</num>
@@ -415,7 +415,7 @@
   <board>
     <id>CYBT-263065-EVAL</id>
     <category>AIROC Bluetooth BSPs</category>
-    <board_uri>https://github.com/Infineon/TARGET_CYBT-263065-EVAL</board_uri>
+    <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYBT-263065-EVAL</board_uri>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app hci_loopback spp btsdk_ota_app anc ans batc bats beacon findme helloc hellos hrc hrs lecoc adc gpio lowpower puart pwm dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart low_power_led on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
         <num>3.1.0 release</num>
@@ -467,7 +467,7 @@
   <board>
     <id>CYBT-243053-EVAL</id>
     <category>AIROC Bluetooth BSPs</category>
-    <board_uri>https://github.com/Infineon/TARGET_CYBT-243053-EVAL</board_uri>
+    <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYBT-243053-EVAL</board_uri>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app hci_loopback spp btsdk_ota_app anc ans batc bats beacon findme helloc hellos hrc hrs lecoc adc gpio lowpower puart pwm dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart low_power_led on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
         <num>3.1.0 release</num>
@@ -519,7 +519,7 @@
   <board>
     <id>CYBT-253059-EVAL</id>
     <category>AIROC Bluetooth BSPs</category>
-    <board_uri>https://github.com/Infineon/TARGET_CYBT-253059-EVAL</board_uri>
+    <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYBT-253059-EVAL</board_uri>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app hci_loopback spp btsdk_ota_app anc ans batc bats beacon findme helloc hellos hrc hrs lecoc adc gpio lowpower puart pwm dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart low_power_led on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
         <num>3.1.0 release</num>
@@ -571,7 +571,7 @@
   <board>
     <id>CYW920819REF-KB-01</id>
     <category>AIROC Bluetooth BSPs</category>
-    <board_uri>https://github.com/Infineon/TARGET_CYW920819REF-KB-01</board_uri>
+    <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYW920819REF-KB-01</board_uri>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app keyboard" prefix="wiced_btsdk/dev-kit/bsp">
         <num>3.1.0 release</num>
@@ -620,7 +620,7 @@
   <board>
     <id>CYW920820EVB-02</id>
     <category>AIROC Bluetooth BSPs</category>
-    <board_uri>https://github.com/Infineon/TARGET_CYW920820EVB-02</board_uri>
+    <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYW920820EVB-02</board_uri>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app hci_loopback mapc spp spp_multi_port btsdk_hci_app btsdk_ota_app watch ans anc bats batc beacon env_sens_temp findme helloc hellos hrc hrs lecoc adc gpio i2c_master lowpower puart pwm uart_raw dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart low_power_led on_off_switch mesh_sensor_temperature mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
         <num>3.1.0 release</num>
@@ -676,7 +676,7 @@
   <board>
     <id>CYW989820EVB-01</id>
     <category>AIROC Bluetooth BSPs</category>
-    <board_uri>https://github.com/Infineon/TARGET_CYW989820EVB-01</board_uri>
+    <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYW989820EVB-01</board_uri>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app hci_loopback spp btsdk_hci_app btsdk_ota_app anc ans batc bats beacon findme helloc hellos lecoc gpio i2c_master puart pwm" prefix="wiced_btsdk/dev-kit/bsp">
         <num>3.1.0 release</num>
@@ -732,7 +732,7 @@
   <board>
     <id>CYW9M2BASE-43012BT</id>
     <category>AIROC Bluetooth BSPs</category>
-    <board_uri>https://github.com/Infineon/TARGET_CYW9M2BASE-43012BT</board_uri>
+    <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYW9M2BASE-43012BT</board_uri>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app hci_loopback mapc spp avsink handsfree hs_speaker watch anc ans beacon" prefix="wiced_btsdk/dev-kit/bsp">
         <num>3.1.0 release</num>
@@ -779,7 +779,7 @@
   <board>
     <id>CYW943012BTEVK-01</id>
     <category>AIROC Bluetooth BSPs</category>
-    <board_uri>https://github.com/Infineon/TARGET_CYW943012BTEVK-01</board_uri>
+    <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYW943012BTEVK-01</board_uri>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app hci_loopback mapc spp avsink handsfree hs_speaker watch anc ans beacon" prefix="wiced_btsdk/dev-kit/bsp">
         <num>3.1.0 release</num>
@@ -833,7 +833,7 @@
   <board>
     <id>CYW920719B2Q40EVB-01</id>
     <category>AIROC Bluetooth BSPs</category>
-    <board_uri>https://github.com/Infineon/TARGET_CYW920719B2Q40EVB-01</board_uri>
+    <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYW920719B2Q40EVB-01</board_uri>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app hci_loopback mapc opps pbc spp spp_multi_port btsdk_hci_app btsdk_ota_app audio_gateway watch ans anc batc bats beacon env_sens_temp findme helloc hellos hrc hrs lecoc adc gpio i2c_master puart uart_raw dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
         <num>3.1.0 release</num>
@@ -889,7 +889,7 @@
   <board>
     <id>CYBT-423054-EVAL</id>
     <category>AIROC Bluetooth BSPs</category>
-    <board_uri>https://github.com/Infineon/TARGET_CYBT-423054-EVAL</board_uri>
+    <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYBT-423054-EVAL</board_uri>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app hci_loopback spp anc ans batc bats beacon env_sens_temp helloc hellos lecoc hrc hrs adc gpio puart dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
         <num>3.1.0 release</num>
@@ -943,7 +943,7 @@
   <board>
     <id>CYBT-413055-EVAL</id>
     <category>AIROC Bluetooth BSPs</category>
-    <board_uri>https://github.com/Infineon/TARGET_CYBT-413055-EVAL</board_uri>
+    <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYBT-413055-EVAL</board_uri>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app hci_loopback spp anc ans batc bats beacon env_sens_temp helloc hellos hrc hrs lecoc adc gpio puart dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
         <num>3.1.0 release</num>
@@ -997,7 +997,7 @@
   <board>
     <id>CYBT-483056-EVAL</id>
     <category>AIROC Bluetooth BSPs</category>
-    <board_uri>https://github.com/Infineon/TARGET_CYBT-483056-EVAL</board_uri>
+    <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYBT-483056-EVAL</board_uri>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app hci_loopback spp anc ans batc bats beacon env_sens_temp helloc hellos hrc hrs lecoc adc gpio puart dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
         <num>3.1.0 release</num>
@@ -1051,7 +1051,7 @@
   <board>
     <id>CYW920721B2EVK-02</id>
     <category>AIROC Bluetooth BSPs</category>
-    <board_uri>https://github.com/Infineon/TARGET_CYW920721B2EVK-02</board_uri>
+    <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYW920721B2EVK-02</board_uri>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app hci_loopback mapc opps pbc spp spp_multi_port btsdk_hci_app btsdk_ota_app avsink audio_gateway audio_record handsfree hs_speaker watch anc ans batc bats beacon findme helloc hellos hrc hrs lecoc adc gpio puart uart_raw dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
         <num>3.1.0 release</num>
@@ -1109,7 +1109,7 @@
   <board>
     <id>CYW920721M2EVK-01</id>
     <category>AIROC Bluetooth BSPs</category>
-    <board_uri>https://github.com/Infineon/TARGET_CYW920721M2EVK-01</board_uri>
+    <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYW920721M2EVK-01</board_uri>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app hci_loopback mapc opps pbc spp spp_multi_port btsdk_hci_app btsdk_ota_app avsink audio_gateway audio_record handsfree hs_speaker watch anc ans batc bats beacon lecoc adc uart_raw dimmer dimmer_self_config on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
         <num>3.1.0 release</num>
@@ -1163,7 +1163,7 @@
   <board>
     <id>CYW920721M2EVK-02</id>
     <category>AIROC Bluetooth BSPs</category>
-    <board_uri>https://github.com/Infineon/TARGET_CYW920721M2EVK-02</board_uri>
+    <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYW920721M2EVK-02</board_uri>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app hci_loopback mapc opps pbc spp spp_multi_port btsdk_hci_app btsdk_ota_app avsink audio_gateway audio_record handsfree hs_speaker watch anc ans batc bats beacon findme helloc hellos hrc hrs lecoc adc gpio uart_raw dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
         <num>3.1.0 release</num>
@@ -1217,7 +1217,7 @@
   <board>
     <id>CYW920739M2EVB-01</id>
     <category>AIROC Bluetooth BSPs</category>
-    <board_uri>https://github.com/Infineon/TARGET_CYW920739M2EVB-01</board_uri>
+    <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYW920739M2EVB-01</board_uri>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app" prefix="wiced_btsdk/dev-kit/bsp">
         <num>3.1.0 release</num>
@@ -1257,7 +1257,7 @@
   <board>
     <id>CYBT-413061-EVAL</id>
     <category>AIROC Bluetooth BSPs</category>
-    <board_uri>https://github.com/Infineon/TARGET_CYBT-413061-EVAL</board_uri>
+    <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYBT-413061-EVAL</board_uri>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app hci_loopback spp anc ans batc bats beacon helloc hellos hrc hrs lecoc adc gpio puart dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
         <num>3.1.0 release</num>
@@ -1311,7 +1311,7 @@
   <board>
     <id>CYBT-423060-EVAL</id>
     <category>AIROC Bluetooth BSPs</category>
-    <board_uri>https://github.com/Infineon/TARGET_CYBT-423060-EVAL</board_uri>
+    <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYBT-423060-EVAL</board_uri>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app hci_loopback spp anc ans batc bats beacon helloc hellos hrc hrs lecoc adc gpio puart dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
         <num>3.1.0 release</num>
@@ -1365,7 +1365,7 @@
   <board>
     <id>CYBT-483062-EVAL</id>
     <category>AIROC Bluetooth BSPs</category>
-    <board_uri>https://github.com/Infineon/TARGET_CYBT-483062-EVAL</board_uri>
+    <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYBT-483062-EVAL</board_uri>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app hci_loopback spp anc ans batc bats beacon helloc hellos hrc hrs lecoc adc gpio puart dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
         <num>3.1.0 release</num>
@@ -1419,7 +1419,7 @@
   <board>
     <id>CYW920735Q60EVB-01</id>
     <category>AIROC Bluetooth BSPs</category>
-    <board_uri>https://github.com/Infineon/TARGET_CYW920735Q60EVB-01</board_uri>
+    <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYW920735Q60EVB-01</board_uri>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app hci_loopback spp btsdk_hci_app btsdk_ota_app anc ans batc bats beacon helloc hellos hrs hrc adc gpio i2c_master puart pwm ble_mouse ble_remote keyboard dimmer light_dimmable on_off_switch mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
         <num>3.1.0 release</num>
@@ -1466,7 +1466,7 @@
   <board>
     <id>CYW920736M2EVB-01</id>
     <category>AIROC Bluetooth BSPs</category>
-    <board_uri>https://github.com/Infineon/TARGET_CYW920736M2EVB-01</board_uri>
+    <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYW920736M2EVB-01</board_uri>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 wiced_btsdk_tools hellos20736 helloc20736 ibeacon20736 mybeacon20736 btsdk_ota_app_20736  spimaster20736 spislave20736 pwm20736 rtc20736" prefix="wiced_btsdk/dev-kit/bsp">
         <num>3.1.0 release</num>
@@ -1505,7 +1505,7 @@
   <board>
     <id>CYBT-343052-EVAL</id>
     <category>AIROC Bluetooth BSPs</category>
-    <board_uri>https://github.com/Infineon/TARGET_CYBT-343052-EVAL</board_uri>
+    <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYBT-343052-EVAL</board_uri>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app spp btsdk_ota_app anc ans batc bats beacon helloc hellos hrs hrc adc gpio i2c_master puart pwm dimmer light_dimmable on_off_switch mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
         <num>3.1.0 release</num>
@@ -1546,7 +1546,7 @@
   <board>
     <id>CYW920835REF-RCU-01</id>
     <category>AIROC Bluetooth BSPs</category>
-    <board_uri>https://github.com/Infineon/TARGET_CYW920835REF-RCU-01</board_uri>
+    <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYW920835REF-RCU-01</board_uri>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app hci_loopback ble_rcu" prefix="wiced_btsdk/dev-kit/bsp">
         <num>3.1.0 release</num>
@@ -1597,7 +1597,7 @@
   <board>
     <id>CYW920835M2EVB-01</id>
     <category>AIROC Bluetooth BSPs</category>
-    <board_uri>https://github.com/Infineon/TARGET_CYW920835M2EVB-01</board_uri>
+    <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYW920835M2EVB-01</board_uri>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app hci_loopback btsdk_hci_app btsdk_ota_app anc ans batc bats beacon helloc hellos hrs hrc adc gpio i2c_master pwm ble_mouse ble_remote dimmer light_dimmable on_off_switch mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
         <num>3.1.0 release</num>
@@ -1641,7 +1641,7 @@
   <board>
     <id>CYW955572BTEVK-01</id>
     <category>AIROC Bluetooth BSPs</category>
-    <board_uri>https://github.com/Infineon/TARGET_CYW955572BTEVK-01</board_uri>
+    <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYW955572BTEVK-01</board_uri>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app beacon helloc hellos lecoc" prefix="wiced_btsdk/dev-kit/bsp">
         <num>3.1.0 release</num>
@@ -1684,7 +1684,7 @@
   <board>
     <id>CYBLE-343072-EVAL-M2B</id>
     <category>AIROC Bluetooth BSPs</category>
-    <board_uri>https://github.com/Infineon/TARGET_CYBLE-343072-EVAL-M2B</board_uri>
+    <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYBLE-343072-EVAL-M2B</board_uri>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app hci_loopback btsdk_hci_app btsdk_ota_app anc ans batc bats beacon helloc hellos hrs hrc adc gpio i2c_master pwm ble_mouse ble_remote dimmer light_dimmable on_off_switch mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
         <num>3.1.0 release</num>
@@ -1719,7 +1719,7 @@
   <board>
     <id>CYBLE-333074-EVAL-M2B</id>
     <category>AIROC Bluetooth BSPs</category>
-    <board_uri>https://github.com/Infineon/TARGET_CYBLE-333074-EVAL-M2B</board_uri>
+    <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYBLE-333074-EVAL-M2B</board_uri>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app hci_loopback btsdk_hci_app btsdk_ota_app anc ans batc bats beacon helloc hellos hrs hrc adc gpio i2c_master pwm ble_mouse ble_remote dimmer light_dimmable on_off_switch mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
         <num>3.1.0 release</num>

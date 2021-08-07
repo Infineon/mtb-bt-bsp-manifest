@@ -2,7 +2,7 @@
   <board>
     <id>CYW920819EVB-02</id>
     <category>AIROC Bluetooth BSPs</category>
-    <board_uri>https://github.com/Infineon/TARGET_CYW920819EVB-02</board_uri>
+    <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYW920819EVB-02</board_uri>
     <versions>
       <version tools_max_version="2.1.0" flow_version="1.0" prov_capabilities_per_version="bsp_gen1">
         <num>2.7.1 release</num>
@@ -66,7 +66,7 @@
   <board>
     <id>CYBT-213043-MESH</id>
     <category>AIROC Bluetooth BSPs</category>
-    <board_uri>https://github.com/Infineon/TARGET_CYBT-213043-MESH</board_uri>
+    <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYBT-213043-MESH</board_uri>
     <versions>
       <version tools_max_version="2.1.0" flow_version="1.0" prov_capabilities_per_version="bsp_gen1">
         <num>2.7.1 release</num>
@@ -130,7 +130,7 @@
   <board>
     <id>CYBT-213043-EVAL</id>
     <category>AIROC Bluetooth BSPs</category>
-    <board_uri>https://github.com/Infineon/TARGET_CYBT-213043-EVAL</board_uri>
+    <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYBT-213043-EVAL</board_uri>
     <versions>
       <version tools_max_version="2.1.0" flow_version="1.0" prov_capabilities_per_version="bsp_gen1">
         <num>2.7.1 release</num>
@@ -194,7 +194,7 @@
   <board>
     <id>CYW920820EVB-02</id>
     <category>AIROC Bluetooth BSPs</category>
-    <board_uri>https://github.com/Infineon/TARGET_CYW920820EVB-02</board_uri>
+    <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYW920820EVB-02</board_uri>
     <versions>
       <version tools_max_version="2.1.0" flow_version="1.0" prov_capabilities_per_version="bsp_gen1">
         <num>2.7.1 release</num>
@@ -258,7 +258,7 @@
   <board>
     <id>CYW920819REF-KB-01</id>
     <category>AIROC Bluetooth BSPs</category>
-    <board_uri>https://github.com/Infineon/TARGET_CYW920819REF-KB-01</board_uri>
+    <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYW920819REF-KB-01</board_uri>
     <versions>
       <version tools_max_version="2.1.0" flow_version="1.0" prov_capabilities_per_version="bsp_gen1">
         <num>2.7.1 release</num>
@@ -311,7 +311,7 @@
   <board>
     <id>CYW989820EVB-01</id>
     <category>AIROC Bluetooth BSPs</category>
-    <board_uri>https://github.com/Infineon/TARGET_CYW989820EVB-01</board_uri>
+    <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYW989820EVB-01</board_uri>
     <versions>
       <version tools_max_version="2.1.0" flow_version="1.0" prov_capabilities_per_version="bsp_gen1">
         <num>2.7.1 release</num>
@@ -375,7 +375,7 @@
   <board>
     <id>CYW920719B2Q40EVB-01</id>
     <category>AIROC Bluetooth BSPs</category>
-    <board_uri>https://github.com/Infineon/TARGET_CYW920719B2Q40EVB-01</board_uri>
+    <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYW920719B2Q40EVB-01</board_uri>
     <versions>
       <version tools_max_version="2.1.0" flow_version="1.0" prov_capabilities_per_version="bsp_gen1">
         <num>2.7.1 release</num>
@@ -439,7 +439,7 @@
   <board>
     <id>CYW920721B2EVK-02</id>
     <category>AIROC Bluetooth BSPs</category>
-    <board_uri>https://github.com/Infineon/TARGET_CYW920721B2EVK-02</board_uri>
+    <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYW920721B2EVK-02</board_uri>
     <versions>
       <version tools_max_version="2.1.0" flow_version="1.0" prov_capabilities_per_version="bsp_gen1">
         <num>2.7.1 release</num>
@@ -501,7 +501,7 @@
   <board>
     <id>CYW920721B2EVK-03</id>
     <category>AIROC Bluetooth BSPs</category>
-    <board_uri>https://github.com/Infineon/TARGET_CYW920721B2EVK-03</board_uri>
+    <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYW920721B2EVK-03</board_uri>
     <versions>
       <version tools_max_version="2.1.0" flow_version="1.0" prov_capabilities_per_version="bsp_gen1">
         <num>2.7.1 release</num>
@@ -567,7 +567,7 @@
   <board>
     <id>CYBT-413061-EVAL</id>
     <category>AIROC Bluetooth BSPs</category>
-    <board_uri>https://github.com/Infineon/TARGET_CYBT-413061-EVAL</board_uri>
+    <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYBT-413061-EVAL</board_uri>
     <versions>
       <version tools_max_version="2.1.0" flow_version="1.0" prov_capabilities_per_version="bsp_gen1">
         <num>2.7.1 release</num>
@@ -605,7 +605,7 @@
   <board>
     <id>CYBT-423060-EVAL</id>
     <category>AIROC Bluetooth BSPs</category>
-    <board_uri>https://github.com/Infineon/TARGET_CYBT-423060-EVAL</board_uri>
+    <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYBT-423060-EVAL</board_uri>
     <versions>
       <version tools_max_version="2.1.0" flow_version="1.0" prov_capabilities_per_version="bsp_gen1">
         <num>2.7.1 release</num>
@@ -643,7 +643,7 @@
   <board>
     <id>CYBT-483062-EVAL</id>
     <category>AIROC Bluetooth BSPs</category>
-    <board_uri>https://github.com/Infineon/TARGET_CYBT-483062-EVAL</board_uri>
+    <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYBT-483062-EVAL</board_uri>
     <versions>
       <version tools_max_version="2.1.0" flow_version="1.0" prov_capabilities_per_version="bsp_gen1">
         <num>2.7.1 release</num>
@@ -681,7 +681,7 @@
   <board>
     <id>CYW920706WCDEVAL</id>
     <category>AIROC Bluetooth BSPs</category>
-    <board_uri>https://github.com/Infineon/TARGET_CYW920706WCDEVAL</board_uri>
+    <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYW920706WCDEVAL</board_uri>
     <versions>
       <version tools_max_version="2.1.0" flow_version="1.0" prov_capabilities_per_version="bsp_gen1">
         <num>2.7.1 release</num>
@@ -732,7 +732,7 @@
   <board>
     <id>CYBT-353027-EVAL</id>
     <category>AIROC Bluetooth BSPs</category>
-    <board_uri>https://github.com/Infineon/TARGET_CYBT-353027-EVAL</board_uri>
+    <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYBT-353027-EVAL</board_uri>
     <versions>
       <version tools_max_version="2.1.0" flow_version="1.0" prov_capabilities_per_version="bsp_gen1">
         <num>2.7.1 release</num>
@@ -783,7 +783,7 @@
   <board>
     <id>CYBT-343026-EVAL</id>
     <category>AIROC Bluetooth BSPs</category>
-    <board_uri>https://github.com/Infineon/TARGET_CYBT-343026-EVAL</board_uri>
+    <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYBT-343026-EVAL</board_uri>
     <versions>
       <version tools_max_version="2.1.0" flow_version="1.0" prov_capabilities_per_version="bsp_gen1">
         <num>2.7.1 release</num>
@@ -830,7 +830,7 @@
   <board>
     <id>CYW920735Q60EVB-01</id>
     <category>AIROC Bluetooth BSPs</category>
-    <board_uri>https://github.com/Infineon/TARGET_CYW920735Q60EVB-01</board_uri>
+    <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYW920735Q60EVB-01</board_uri>
     <versions>
       <version tools_max_version="2.1.0" flow_version="1.0" prov_capabilities_per_version="bsp_gen1">
         <num>2.7.1 release</num>
@@ -877,7 +877,7 @@
   <board>
     <id>CYW9M2BASE-43012BT</id>
     <category>AIROC Bluetooth BSPs</category>
-    <board_uri>https://github.com/Infineon/TARGET_CYW9M2BASE-43012BT</board_uri>
+    <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYW9M2BASE-43012BT</board_uri>
     <versions>
       <version tools_max_version="2.1.0" flow_version="1.0" prov_capabilities_per_version="bsp_gen1">
         <num>2.7.1 release</num>
@@ -920,7 +920,7 @@
   <board>
     <id>CYBT-423054-EVAL</id>
     <category>AIROC Bluetooth BSPs</category>
-    <board_uri>https://github.com/Infineon/TARGET_CYBT-423054-EVAL</board_uri>
+    <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYBT-423054-EVAL</board_uri>
     <versions>
       <version tools_max_version="2.1.0" flow_version="1.0" prov_capabilities_per_version="bsp_gen1">
         <num>2.7.1 release</num>
@@ -970,7 +970,7 @@
   <board>
     <id>CYBT-483056-EVAL</id>
     <category>AIROC Bluetooth BSPs</category>
-    <board_uri>https://github.com/Infineon/TARGET_CYBT-483056-EVAL</board_uri>
+    <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYBT-483056-EVAL</board_uri>
     <versions>
       <version tools_max_version="2.1.0" flow_version="1.0" prov_capabilities_per_version="bsp_gen1">
         <num>2.7.1 release</num>
@@ -1016,7 +1016,7 @@
   <board>
     <id>CYBT-413055-EVAL</id>
     <category>AIROC Bluetooth BSPs</category>
-    <board_uri>https://github.com/Infineon/TARGET_CYBT-413055-EVAL</board_uri>
+    <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYBT-413055-EVAL</board_uri>
     <versions>
       <version tools_max_version="2.1.0" flow_version="1.0" prov_capabilities_per_version="bsp_gen1">
         <num>2.7.1 release</num>
@@ -1062,7 +1062,7 @@
   <board>
     <id>CYW920835REF-RCU-01</id>
     <category>AIROC Bluetooth BSPs</category>
-    <board_uri>https://github.com/Infineon/TARGET_CYW920835REF-RCU-01</board_uri>
+    <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYW920835REF-RCU-01</board_uri>
     <versions>
       <version tools_max_version="2.1.0" flow_version="1.0" prov_capabilities_per_version="bsp_gen1">
         <num>2.7.1 release</num>
