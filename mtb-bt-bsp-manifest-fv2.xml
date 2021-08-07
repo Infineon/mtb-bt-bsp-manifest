@@ -1217,7 +1217,7 @@
   <board>
     <id>CYW920739M2EVB-01</id>
     <category>AIROC Bluetooth BSPs</category>
-    <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYW920739M2EVB-01</board_uri>
+    <board_uri>https://github.com/Infineon/TARGET_CYW920739M2EVB-01</board_uri>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app" prefix="wiced_btsdk/dev-kit/bsp">
         <num>3.1.0 release</num>
@@ -1466,7 +1466,7 @@
   <board>
     <id>CYW920736M2EVB-01</id>
     <category>AIROC Bluetooth BSPs</category>
-    <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYW920736M2EVB-01</board_uri>
+    <board_uri>https://github.com/Infineon/TARGET_CYW920736M2EVB-01</board_uri>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 wiced_btsdk_tools hellos20736 helloc20736 ibeacon20736 mybeacon20736 btsdk_ota_app_20736  spimaster20736 spislave20736 pwm20736 rtc20736" prefix="wiced_btsdk/dev-kit/bsp">
         <num>3.1.0 release</num>
@@ -1684,7 +1684,7 @@
   <board>
     <id>CYBLE-343072-EVAL-M2B</id>
     <category>AIROC Bluetooth BSPs</category>
-    <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYBLE-343072-EVAL-M2B</board_uri>
+    <board_uri>https://github.com/Infineon/TARGET_CYBLE-343072-EVAL-M2B</board_uri>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app hci_loopback btsdk_hci_app btsdk_ota_app anc ans batc bats beacon helloc hellos hrs hrc adc gpio i2c_master pwm ble_mouse ble_remote dimmer light_dimmable on_off_switch mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
         <num>3.1.0 release</num>
@@ -1719,7 +1719,7 @@
   <board>
     <id>CYBLE-333074-EVAL-M2B</id>
     <category>AIROC Bluetooth BSPs</category>
-    <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYBLE-333074-EVAL-M2B</board_uri>
+    <board_uri>https://github.com/Infineon/TARGET_CYBLE-333074-EVAL-M2B</board_uri>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app hci_loopback btsdk_hci_app btsdk_ota_app anc ans batc bats beacon helloc hellos hrs hrc adc gpio i2c_master pwm ble_mouse ble_remote dimmer light_dimmable on_off_switch mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
         <num>3.1.0 release</num>
