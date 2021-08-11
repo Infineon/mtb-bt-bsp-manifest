@@ -1690,38 +1690,6 @@
     </versions>
   </depender>
   <depender>
-    <id>CYW955572BTEVK-01</id>
-    <versions>
-      <version>
-        <commit>release-v3.1.0</commit>
-        <dependees>
-          <dependee>
-            <id>55572A1</id>
-            <commit>release-v3.1.0</commit>
-          </dependee>
-        </dependees>
-      </version>
-      <version>
-        <commit>release-v3.0.0</commit>
-        <dependees>
-          <dependee>
-            <id>55572A1</id>
-            <commit>release-v3.0.0</commit>
-          </dependee>
-        </dependees>
-      </version>
-      <version>
-        <commit>latest-v3.X</commit>
-        <dependees>
-          <dependee>
-            <id>55572A1</id>
-            <commit>latest-v3.X</commit>
-          </dependee>
-        </dependees>
-      </version>
-    </versions>
-  </depender>
-  <depender>
     <id>CYBLE-343072-EVAL-M2B</id>
     <versions>
       <version>
