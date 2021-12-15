@@ -1,9 +1,13 @@
 <boards>
   <board>
     <id>CYW920706WCDEVAL</id>
-    <category>AIROC Bluetooth BSPs</category>
+    <category>AIROC&#8482; Bluetooth&#174; BSPs</category>
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYW920706WCDEVAL</board_uri>
     <versions>
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback mapc opps pbc spp spp_multi_port btsdk_hci_app btsdk_ota_app avsink audio_gateway handsfree headset watch ans anc bats batc beacon hellos helloc hrs hrc adc gpio puart pwm uart_spi dimmer dimmer_self_config light_dimmable mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
+        <num>3.2.0 release</num>
+        <commit>release-v3.2.0</commit>
+      </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app hci_loopback mapc opps pbc spp spp_multi_port btsdk_hci_app btsdk_ota_app avsink audio_gateway handsfree headset watch ans anc bats batc beacon hellos helloc hrs hrc adc gpio puart pwm uart_spi dimmer dimmer_self_config light_dimmable mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
         <num>3.1.0 release</num>
         <commit>release-v3.1.0</commit>
@@ -20,7 +24,7 @@
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
       </version>
-      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app hci_loopback mapc opps pbc spp spp_multi_port btsdk_hci_app btsdk_ota_app avsink audio_gateway handsfree headset watch ans anc bats batc beacon hellos helloc hrs hrc adc gpio puart pwm uart_spi dimmer dimmer_self_config light_dimmable mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback mapc opps pbc spp spp_multi_port btsdk_hci_app btsdk_ota_app avsink audio_gateway handsfree headset watch ans anc bats batc beacon hellos helloc hrs hrc adc gpio puart pwm uart_spi dimmer dimmer_self_config light_dimmable mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
         <num>Latest v3.X release</num>
         <commit>latest-v3.X</commit>
       </version>
@@ -34,11 +38,11 @@
       <radio>CYW20706A2</radio>
     </chips>
     <name>CYW920706WCDEVAL</name>
-    <summary>The Infineon CYW920706WCDEVAL Evaluation Kit enables you to evaluate and develop single-chip Bluetooth applications using the CYW20706, an ultra-low-power dual-mode Bluetooth 5.2 wireless MCU device. The CYW20706 is a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting LE/BR/EDR. The CYW20706 employs high integration to reduce external components, thereby minimizing the device's footprint and cost. This kit helps evaluate device functionality and develop applications quickly for faster time-to-market.</summary>
+    <summary>The Infineon CYW920706WCDEVAL Evaluation Kit enables you to evaluate and develop single-chip Bluetooth&#174; applications using the CYW20706, an ultra-low-power dual-mode Bluetooth&#174; 5.2 wireless MCU device. The CYW20706 is a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting LE/BR/EDR. The CYW20706 employs high integration to reduce external components, thereby minimizing the device's footprint and cost. This kit helps evaluate device functionality and develop applications quickly for faster time-to-market.</summary>
     <prov_capabilities>ble br_edr mesh hid audio ota hal btsdk CYW920706WCDEVAL</prov_capabilities>
     <description><![CDATA[
         <div class="category">Kit Features:</div><ul>
-        <li>CYW20706 is a monolithic, single chip, Bluetooth dual-mode System-on-a-Chip (SoC) that includes a baseband processor, an ARM&#174; Cortex&#8482;-M3 processor, and an integrated transceiver.</li>
+        <li>CYW20706 is a monolithic, single chip, Bluetooth&#174; dual-mode System-on-a-Chip (SoC) that includes a baseband processor, an Arm&#174; Cortex&#174;-M3 processor, and an integrated transceiver.</li>
         <li>The Infineon CYW920706WCDEVAL board is an evaluation board that provides various pins, jumpers, switches, ports, and test points to access CYW20706 to perform debug, evaluation, and troubleshooting.</li>
         </ul><p/>
         </body>
@@ -48,9 +52,13 @@
   </board>
   <board>
     <id>CYBT-353027-EVAL</id>
-    <category>AIROC Bluetooth BSPs</category>
+    <category>AIROC&#8482; Bluetooth&#174; BSPs</category>
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYBT-353027-EVAL</board_uri>
     <versions>
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback opps pbc spp btsdk_hci_app btsdk_ota_app anc ans batc bats beacon hellos hrc hrs mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
+        <num>3.2.0 release</num>
+        <commit>release-v3.2.0</commit>
+      </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app hci_loopback opps pbc spp btsdk_hci_app btsdk_ota_app anc ans batc bats beacon hellos hrc hrs mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
         <num>3.1.0 release</num>
         <commit>release-v3.1.0</commit>
@@ -67,7 +75,7 @@
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
       </version>
-      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app hci_loopback opps pbc spp btsdk_hci_app btsdk_ota_app anc ans batc bats beacon hellos hrc hrs mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback opps pbc spp btsdk_hci_app btsdk_ota_app anc ans batc bats beacon hellos hrc hrs mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
         <num>Latest v3.X release</num>
         <commit>latest-v3.X</commit>
       </version>
@@ -81,12 +89,12 @@
       <radio>CYW20706A2</radio>
     </chips>
     <name>CYBT-353027-EVAL</name>
-    <summary>The Infineon CYBT-353027-EVAL Kit enables you to evaluate and develop single-chip Bluetooth applications using the CYW20706, an ultra-low-power dual-mode Bluetooth 5.0 wireless MCU device. The CYW20706 is a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting LE/BR/EDR. The CYW20706 employs high integration to reduce external components, thereby minimizing the device's footprint and cost. This kit helps evaluate device functionality and develop applications quickly for faster time-to-market.</summary>
+    <summary>The Infineon CYBT-353027-EVAL Kit enables you to evaluate and develop single-chip Bluetooth&#174; applications using the CYW20706, an ultra-low-power dual-mode Bluetooth&#174; 5.0 wireless MCU device. The CYW20706 is a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting LE/BR/EDR. The CYW20706 employs high integration to reduce external components, thereby minimizing the device's footprint and cost. This kit helps evaluate device functionality and develop applications quickly for faster time-to-market.</summary>
     <prov_capabilities>ble br_edr mesh hid audio ota hal btsdk CYBT_353027_EVAL</prov_capabilities>
     <description><![CDATA[
         <div class="category">Kit Features:</div><ul>
-        <li>CYW20706 is a monolithic, single chip, Bluetooth dual-mode System-on-a-Chip (SoC) that includes a baseband processor, an ARM&#174; Cortex&#8482;-M3 processor, and an integrated transceiver.</li>
-        <li>The EZ-BT Module Arduino Evaluation Board (CYBT-353027-EVAL) enables you to evaluate and develop applications on the EZ-BT AIROC Module, CYBT-353027-02. CYBT-353027-EVAL can be used as a standalone evaluation kit or can be combined with Arduino compatible shields.</li>
+        <li>CYW20706 is a monolithic, single chip, Bluetooth&#174; dual-mode System-on-a-Chip (SoC) that includes a baseband processor, an Arm&#174; Cortex&#174;-M3 processor, and an integrated transceiver.</li>
+        <li>The EZ-BT Module Arduino Evaluation Board (CYBT-353027-EVAL) enables you to evaluate and develop applications on the EZ-BT AIROC&#8482; Module, CYBT-353027-02. CYBT-353027-EVAL can be used as a standalone evaluation kit or can be combined with Arduino compatible shields.</li>
         </ul><p/>
         </body>
         </html>
@@ -95,9 +103,13 @@
   </board>
   <board>
     <id>CYBT-343026-EVAL</id>
-    <category>AIROC Bluetooth BSPs</category>
+    <category>AIROC&#8482; Bluetooth&#174; BSPs</category>
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYBT-343026-EVAL</board_uri>
     <versions>
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback opps pbc spp btsdk_hci_app btsdk_ota_app anc ans batc bats beacon hellos hrc hrs adc gpio puart pwm mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
+        <num>3.2.0 release</num>
+        <commit>release-v3.2.0</commit>
+      </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app hci_loopback opps pbc spp btsdk_hci_app btsdk_ota_app anc ans batc bats beacon hellos hrc hrs adc gpio puart pwm mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
         <num>3.1.0 release</num>
         <commit>release-v3.1.0</commit>
@@ -114,7 +126,7 @@
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
       </version>
-      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app hci_loopback opps pbc spp btsdk_hci_app btsdk_ota_app anc ans batc bats beacon hellos hrc hrs adc gpio puart pwm mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback opps pbc spp btsdk_hci_app btsdk_ota_app anc ans batc bats beacon hellos hrc hrs adc gpio puart pwm mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
         <num>Latest v3.X release</num>
         <commit>latest-v3.X</commit>
       </version>
@@ -128,12 +140,12 @@
       <radio>CYW20706A2</radio>
     </chips>
     <name>CYBT-343026-EVAL</name>
-    <summary>The Infineon CYBT-343026-EVAL Kit enables you to evaluate and develop single-chip Bluetooth applications using the CYW20706, an ultra-low-power dual-mode Bluetooth 5.0 wireless MCU device. The CYW20706 is a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting LE/BR/EDR. The CYW20706 employs high integration to reduce external components, thereby minimizing the device's footprint and cost. This kit helps evaluate device functionality and develop applications quickly for faster time-to-market.</summary>
+    <summary>The Infineon CYBT-343026-EVAL Kit enables you to evaluate and develop single-chip Bluetooth&#174; applications using the CYW20706, an ultra-low-power dual-mode Bluetooth&#174; 5.0 wireless MCU device. The CYW20706 is a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting LE/BR/EDR. The CYW20706 employs high integration to reduce external components, thereby minimizing the device's footprint and cost. This kit helps evaluate device functionality and develop applications quickly for faster time-to-market.</summary>
     <prov_capabilities>ble br_edr mesh hid audio ota hal btsdk CYBT_343026_EVAL</prov_capabilities>
     <description><![CDATA[
         <div class="category">Kit Features:</div><ul>
-        <li>CYW20706 is a monolithic, single chip, Bluetooth dual-mode System-on-a-Chip (SoC) that includes a baseband processor, an ARM&#174; Cortex&#8482;-M3 processor, and an integrated transceiver.</li>
-        <li>The EZ-BT Module Arduino Evaluation Board (CYBT-343026-EVAL) enables you to evaluate and develop applications on the EZ-BT AIROC Module, CYBT-343026-01. CYBT-343026-EVAL can be used as a standalone evaluation kit or can be combined with Arduino compatible shields.</li>
+        <li>CYW20706 is a monolithic, single chip, Bluetooth&#174; dual-mode System-on-a-Chip (SoC) that includes a baseband processor, an Arm&#174; Cortex&#174;-M3 processor, and an integrated transceiver.</li>
+        <li>The CYBT-343026-EVAL enables you to evaluate and develop applications on the AIROC&#8482; CYBT-343026-01 Bluetooth&#174; and Bluetooth&#174; LE module. CYBT-343026-EVAL can be used as a standalone evaluation kit or can be combined with Arduino compatible shields.</li>
         </ul><p/>
         </body>
         </html>
@@ -141,10 +153,57 @@
     <documentation_url>https://www.cypress.com/documentation/development-kitsboards/cybt-343026-eval-ez-bt-module-arduino-evaluation-board</documentation_url>
   </board>
   <board>
+    <id>CYBT-333047-EVAL</id>
+    <category>AIROC&#8482; Bluetooth&#174; BSPs</category>
+    <board_uri>https://github.com/Infineon/TARGET_CYBT-333047-EVAL</board_uri>
+    <versions>
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app hci_loopback opps pbc spp btsdk_hci_app btsdk_ota_app anc ans batc bats beacon hellos hrc hrs adc gpio puart pwm mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
+        <num>3.2.0 release</num>
+        <commit>release-v3.2.0</commit>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app hci_loopback opps pbc spp btsdk_hci_app btsdk_ota_app anc ans batc bats beacon hellos hrc hrs adc gpio puart pwm mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+      </version>
+    </versions>
+    <chips>
+      <mcu>CYW20706A2</mcu>
+      <radio>CYW20706A2</radio>
+    </chips>
+    <name>CYBT-333047-EVAL</name>
+    <summary>The Infineon AIROC&#8482; CYW20706 Bluetooth&#174; and Bluetooth&#174; LE module evaluation kit (CYBT-333047-EVAL) enables evaluation, prototyping, and development of a wide array of IoT applications using the AIROC&#8482; CYW20706, a low-power Bluetooth&#174; and Bluetooth&#174; LE system on a chip.</summary>
+    <prov_capabilities>btstack10 ble br_edr mesh hid audio ota hal btsdk CYBT_333047_EVAL</prov_capabilities>
+    <description><![CDATA[
+    <br>
+            The AIROC&#8482; CYW20706 Bluetooth&#174; and Bluetooth&#174; LE system on chip provides reliable Bluetooth&#174; connectivity, along with compute capability integrating an Arm&#174; Cortex&#174;-M3 processor. This evaluation kit (CYBT-333047-EVAL) includes an Infineon in-house AIROC&#8482; Bluetooth&#174; Module hosting the AIROC&#8482; CYW20706 that is globally certified and has uFL connector for external antenna designed for reducing time-to-market.
+    <br>
+    <br>
+            The AIROC&#8482; CYW20706 Bluetooth&#174; and Bluetooth&#174; LE module evaluation kit (CYBLE-333047-EVAL) is supported in the AIROC&#8482; Bluetooth&#174; SDK within ModusToolbox&#8482; Software and Tools with copious code examples and documentation.
+    <br>
+        <div class="category">Kit Features:</div><ul>
+        <li>AIROC&#8482; CYW20706 Bluetooth&#174; and Bluetooth&#174; LE module (CYBLE-333047-02)</li>
+        <li>Arduino compatible headers for hardware expansion</li>
+        <li>USB connector for power, programming, and USB-UART bridge</li>
+        </ul><p/>
+
+        <div class="category">Kit Contents:</div><ul>
+        <li>CYBT-333047-EVAL module evaluation board</li>
+        <li>USB Standard-A to Micro-B cable</li>
+        </ul>
+        </body>
+        </html>
+    ]]></description>
+    <documentation_url>https://www.cypress.com/documentation/development-kitsboards/cybt-333047-eval-ez-bt-module-arduino-evaluation-board</documentation_url>
+  </board>
+  <board>
     <id>CYW920819EVB-02</id>
-    <category>AIROC Bluetooth BSPs</category>
+    <category>AIROC&#8482; Bluetooth&#174; BSPs</category>
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYW920819EVB-02</board_uri>
     <versions>
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback mapc spp spp_multi_port btsdk_hci_app btsdk_ota_app watch anc ans batc bats beacon env_sens_temp findme helloc hellos hrc hrs lecoc adc gpio i2c_master lowpower puart pwm uart_raw dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart low_power_led on_off_switch mesh_sensor_temperature mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
+        <num>3.2.0 release</num>
+        <commit>release-v3.2.0</commit>
+      </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app hci_loopback mapc spp spp_multi_port btsdk_hci_app btsdk_ota_app watch anc ans batc bats beacon env_sens_temp findme helloc hellos hrc hrs lecoc adc gpio i2c_master lowpower puart pwm uart_raw dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart low_power_led on_off_switch mesh_sensor_temperature mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
         <num>3.1.0 release</num>
         <commit>release-v3.1.0</commit>
@@ -161,7 +220,7 @@
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
       </version>
-      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app hci_loopback mapc spp spp_multi_port btsdk_hci_app btsdk_ota_app watch anc ans batc bats beacon env_sens_temp findme helloc hellos hrc hrs lecoc adc gpio i2c_master lowpower puart pwm uart_raw dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart low_power_led on_off_switch mesh_sensor_temperature mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback mapc spp spp_multi_port btsdk_hci_app btsdk_ota_app watch anc ans batc bats beacon env_sens_temp findme helloc hellos hrc hrs lecoc adc gpio i2c_master lowpower puart pwm uart_raw dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart low_power_led on_off_switch mesh_sensor_temperature mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
         <num>Latest v3.X release</num>
         <commit>latest-v3.X</commit>
       </version>
@@ -175,11 +234,11 @@
       <radio>CYW20819A1</radio>
     </chips>
     <name>CYW920819EVB-02</name>
-    <summary>The Infineon CYW920819EVB-02 Evaluation Kit enables you to evaluate and develop single-chip Bluetooth applications using the CYW20819, an ultra-low-power dual-mode Bluetooth 5.2 wireless MCU device. The CYW20819 is a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting LE/BR/EDR. Manufactured using advanced CMOS low-power process, the CYW20819 employs high integration to reduce external components, thereby minimizing the device's footprint and cost. This kit helps evaluate device functionality and develop applications quickly for faster time-to-market.</summary>
+    <summary>The Infineon CYW920819EVB-02 Evaluation Kit enables you to evaluate and develop single-chip Bluetooth&#174; applications using the CYW20819, an ultra-low-power dual-mode Bluetooth&#174; 5.2 wireless MCU device. The CYW20819 is a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting LE/BR/EDR. Manufactured using advanced CMOS low-power process, the CYW20819 employs high integration to reduce external components, thereby minimizing the device's footprint and cost. This kit helps evaluate device functionality and develop applications quickly for faster time-to-market.</summary>
     <prov_capabilities>ble br_edr mesh hid audio ota hal btsdk CYW920819EVB_02 fw2 lsm9ds1 ncu15wf104 led2x button CYW208XX CYW208XX_62fbga</prov_capabilities>
     <description><![CDATA[
         <div class="category">Kit Features:</div><ul>
-        <li>62-FBGA CYW20819 dual-mode (LE/BR/EDR) Bluetooth 5.2-compliant wireless MCU</li>
+        <li>62-FBGA CYW20819 dual-mode (LE/BR/EDR) Bluetooth&#174; 5.2-compliant wireless MCU</li>
         <li>Arduino compatible headers for hardware expansion</li>
         <li>On-board sensors - a lsm9ds1 9-axis motion sensor (3D digital linear acceleration sensor, 3D digital angular rate sensor, and 3D digital magnetic sensor) and a ncu15wf104 thermistor</li>
         <li>User switches and LEDs</li>
@@ -198,9 +257,13 @@
   </board>
   <board>
     <id>CYBT-213043-MESH</id>
-    <category>AIROC Bluetooth BSPs</category>
+    <category>AIROC&#8482; Bluetooth&#174; BSPs</category>
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYBT-213043-MESH</board_uri>
     <versions>
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback color_light dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart low_power_led on_off_switch sensor_motion mesh_sensor_temperature mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
+        <num>3.2.0 release</num>
+        <commit>release-v3.2.0</commit>
+      </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app hci_loopback color_light dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart low_power_led on_off_switch sensor_motion mesh_sensor_temperature mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
         <num>3.1.0 release</num>
         <commit>release-v3.1.0</commit>
@@ -217,7 +280,7 @@
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
       </version>
-      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app hci_loopback color_light dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart low_power_led on_off_switch sensor_motion mesh_sensor_temperature mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback color_light dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart low_power_led on_off_switch sensor_motion mesh_sensor_temperature mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
         <num>Latest v3.X release</num>
         <commit>latest-v3.X</commit>
       </version>
@@ -231,16 +294,16 @@
       <radio>CYW20819A1</radio>
     </chips>
     <name>CYBT-213043-MESH</name>
-    <summary>The EZ-BT Mesh Evaluation Kit (CYBT-213043-MESH) enables you to evaluate SIG Mesh functionality and features using the EZ-BT AIROC Module CYBT-213043-02. The CYBT-213043-02 EZ-BT AIROC Module is an integrated, fully certified, 12.0 mm x 16.61 mm x 1.70 mm, programmable dual-mode Bluetooth(R) module designed to reduce your time-to-market. The CYBT-213043-02 module utilizes the Infineon CYW20819 silicon device.</summary>
+    <summary>The EZ-BT Mesh Evaluation Kit (CYBT-213043-MESH) enables you to evaluate SIG Mesh functionality and features using the EZ-BT AIROC&#8482; Module CYBT-213043-02. The CYBT-213043-02 EZ-BT AIROC&#8482; Module is an integrated, fully certified, 12.0 mm x 16.61 mm x 1.70 mm, programmable dual-mode Bluetooth&#174; module designed to reduce your time-to-market. The CYBT-213043-02 module utilizes the Infineon CYW20819 silicon device.</summary>
     <prov_capabilities>ble br_edr mesh hid ota hal btsdk fw2 CYBT_213043_MESH</prov_capabilities>
     <description><![CDATA[
         <div class="category">Kit Features:</div><ul>
-        <li>CYW20819-based dual-mode (LE/BR/EDR) Bluetooth 5.0-compliant fully certified module (CYBT-213043-02)</li>
+        <li>CYW20819-based dual-mode (LE/BR/EDR) Bluetooth&#174; 5.0-compliant fully certified module (CYBT-213043-02)</li>
         <li>On-Board Sensor for Mesh Application Development (Thermistor, ALS, PIR Motion Sensor)</li>
         <li>On-Board RGB LED with additional 1MB External Serial Flash</li>
-        <li>Bluetooth Low Energy (LE), Bluetooth Basic Rate (BR) and Enhanced Data Rate (EDR)</li>
+        <li>Bluetooth&#174; Low Energy (LE), Bluetooth&#174; Basic Rate (BR) and Enhanced Data Rate (EDR)</li>
         <li>FCC, ISED, MIC, and CE Certified Module on board (CYBT-213043-02)</li>
-        <li>Bluetooth 5.0 with SIG MESH Qualified Module (CYBT-213043-02)</li>
+        <li>Bluetooth&#174; 5.0 with SIG MESH Qualified Module (CYBT-213043-02)</li>
         <li>USB connector for power, programming, and USB-UART bridge</li>
         </ul>
 
@@ -254,9 +317,13 @@
   </board>
   <board>
     <id>CYBT-213043-EVAL</id>
-    <category>AIROC Bluetooth BSPs</category>
+    <category>AIROC&#8482; Bluetooth&#174; BSPs</category>
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYBT-213043-EVAL</board_uri>
     <versions>
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback spp anc ans batc bats beacon findme helloc hellos hrc hrs lecoc adc gpio lowpower puart pwm dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart low_power_led on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
+        <num>3.2.0 release</num>
+        <commit>release-v3.2.0</commit>
+      </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app hci_loopback spp anc ans batc bats beacon findme helloc hellos hrc hrs lecoc adc gpio lowpower puart pwm dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart low_power_led on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
         <num>3.1.0 release</num>
         <commit>release-v3.1.0</commit>
@@ -273,7 +340,7 @@
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
       </version>
-      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app hci_loopback spp anc ans batc bats beacon findme helloc hellos hrc hrs lecoc adc gpio lowpower puart pwm dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart low_power_led on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback spp anc ans batc bats beacon findme helloc hellos hrc hrs lecoc adc gpio lowpower puart pwm dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart low_power_led on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
         <num>Latest v3.X release</num>
         <commit>latest-v3.X</commit>
       </version>
@@ -287,11 +354,11 @@
       <radio>CYW20819A1</radio>
     </chips>
     <name>CYBT-213043-EVAL</name>
-    <summary>The Infineon CYBT-213043-EVAL Evaluation Kit enables you to evaluate and develop single-chip Bluetooth applications using the EZ-BT AIROC Module CYBT-213043-02. The CYBT-213043-02 EZ-BT AIROC Module is an integrated, fully certified, 12.0 mm x 16.61 mm x 1.70 mm, programmable dual-mode Bluetooth module designed to reduce your time-to-market. The CYBT-213043-02 module utilizes the Infineon CYW20819 silicon device. Manufactured using advanced CMOS low-power process, the CYW20819 employs high integration to reduce external components, thereby minimizing the device's footprint and cost. This kit helps evaluate device functionality and develop applications quickly for faster time-to-market.</summary>
+    <summary>The Infineon CYBT-213043-EVAL Evaluation Kit enables you to evaluate and develop single-chip Bluetooth&#174; applications using the EZ-BT AIROC&#8482; Module CYBT-213043-02. The CYBT-213043-02 EZ-BT AIROC&#8482; Module is an integrated, fully certified, 12.0 mm x 16.61 mm x 1.70 mm, programmable dual-mode Bluetooth&#174; module designed to reduce your time-to-market. The CYBT-213043-02 module utilizes the Infineon CYW20819 silicon device. Manufactured using advanced CMOS low-power process, the CYW20819 employs high integration to reduce external components, thereby minimizing the device's footprint and cost. This kit helps evaluate device functionality and develop applications quickly for faster time-to-market.</summary>
     <prov_capabilities>ble br_edr mesh hid ota hal btsdk fw2 CYBT_213043_EVAL</prov_capabilities>
     <description><![CDATA[
         <div class="category">Kit Features:</div><ul>
-        <li>CYW20819-based dual-mode (LE/BR/EDR) Bluetooth 5.0-compliant fully certified module (CYBT-213043-02)</li>
+        <li>CYW20819-based dual-mode (LE/BR/EDR) Bluetooth&#174; 5.0-compliant fully certified module (CYBT-213043-02)</li>
         <li>Arduino compatible headers for hardware expansion</li>
         <li>User switches and LEDs</li>
         <li>FCC, ISED, MIC, and CE Certified Module on board (CYBT-213043-02)</li>
@@ -310,9 +377,13 @@
   </board>
   <board>
     <id>CYBT-223058-EVAL</id>
-    <category>AIROC Bluetooth BSPs</category>
+    <category>AIROC&#8482; Bluetooth&#174; BSPs</category>
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYBT-223058-EVAL</board_uri>
     <versions>
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback spp btsdk_ota_app anc ans batc bats beacon findme helloc hellos hrc hrs lecoc adc gpio lowpower puart pwm dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart low_power_led on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
+        <num>3.2.0 release</num>
+        <commit>release-v3.2.0</commit>
+      </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app hci_loopback spp btsdk_ota_app anc ans batc bats beacon findme helloc hellos hrc hrs lecoc adc gpio lowpower puart pwm dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart low_power_led on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
         <num>3.1.0 release</num>
         <commit>release-v3.1.0</commit>
@@ -325,7 +396,7 @@
         <num>2.9.0 release</num>
         <commit>release-v2.9.0</commit>
       </version>
-      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app hci_loopback spp btsdk_ota_app anc ans batc bats beacon findme helloc hellos hrc hrs lecoc adc gpio lowpower puart pwm dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart low_power_led on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback spp btsdk_ota_app anc ans batc bats beacon findme helloc hellos hrc hrs lecoc adc gpio lowpower puart pwm dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart low_power_led on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
         <num>Latest v3.X release</num>
         <commit>latest-v3.X</commit>
       </version>
@@ -339,11 +410,11 @@
       <radio>CYW20819A1</radio>
     </chips>
     <name>CYBT-223058-EVAL</name>
-    <summary>The Infineon CYBT-223058-EVAL Evaluation Kit enables you to evaluate and develop single-chip Bluetooth applications using the EZ-BT AIROC Module CYBT-223058-02. The CYBT-223058-02 EZ-BT AIROC Module is an integrated, fully certified, 11.0 mm x 11.0 mm x 1.70 mm, programmable dual-mode Bluetooth module designed to reduce your time-to-market. The CYBT-223058-02 module utilizes the Infineon CYW20819 silicon device. Manufactured using advanced CMOS low-power process, the CYW20819 employs high integration to reduce external components, thereby minimizing the device's footprint and cost. This kit helps evaluate device functionality and develop applications quickly for faster time-to-market.</summary>
+    <summary>The Infineon CYBT-223058-EVAL Evaluation Kit enables you to evaluate and develop single-chip Bluetooth&#174; applications using the EZ-BT AIROC&#8482; Module CYBT-223058-02. The CYBT-223058-02 EZ-BT AIROC&#8482; Module is an integrated, fully certified, 11.0 mm x 11.0 mm x 1.70 mm, programmable dual-mode Bluetooth&#174; module designed to reduce your time-to-market. The CYBT-223058-02 module utilizes the Infineon CYW20819 silicon device. Manufactured using advanced CMOS low-power process, the CYW20819 employs high integration to reduce external components, thereby minimizing the device's footprint and cost. This kit helps evaluate device functionality and develop applications quickly for faster time-to-market.</summary>
     <prov_capabilities>ble br_edr mesh hid ota hal btsdk fw2 CYBT_223058_EVAL</prov_capabilities>
     <description><![CDATA[
         <div class="category">Kit Features:</div><ul>
-        <li>CYW20819-based dual-mode (LE/BR/EDR) Bluetooth 5.0-compliant fully certified module (CYBT-223058-02)</li>
+        <li>CYW20819-based dual-mode (LE/BR/EDR) Bluetooth&#174; 5.0-compliant fully certified module (CYBT-223058-02)</li>
         <li>Arduino compatible headers for hardware expansion</li>
         <li>User switches and LEDs</li>
         <li>FCC, ISED, MIC, and CE Certified Module on board (CYBT-223058-02)</li>
@@ -362,9 +433,13 @@
   </board>
   <board>
     <id>CYBT-273063-EVAL</id>
-    <category>AIROC Bluetooth BSPs</category>
+    <category>AIROC&#8482; Bluetooth&#174; BSPs</category>
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYBT-273063-EVAL</board_uri>
     <versions>
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback spp btsdk_ota_app anc ans batc bats beacon findme helloc hellos hrc hrs lecoc adc gpio lowpower puart pwm dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart low_power_led on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
+        <num>3.2.0 release</num>
+        <commit>release-v3.2.0</commit>
+      </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app hci_loopback spp btsdk_ota_app anc ans batc bats beacon findme helloc hellos hrc hrs lecoc adc gpio lowpower puart pwm dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart low_power_led on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
         <num>3.1.0 release</num>
         <commit>release-v3.1.0</commit>
@@ -377,7 +452,7 @@
         <num>2.9.0 release</num>
         <commit>release-v2.9.0</commit>
       </version>
-      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app hci_loopback spp btsdk_ota_app anc ans batc bats beacon findme helloc hellos hrc hrs lecoc adc gpio lowpower puart pwm dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart low_power_led on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback spp btsdk_ota_app anc ans batc bats beacon findme helloc hellos hrc hrs lecoc adc gpio lowpower puart pwm dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart low_power_led on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
         <num>Latest v3.X release</num>
         <commit>latest-v3.X</commit>
       </version>
@@ -391,11 +466,11 @@
       <radio>CYW20819A1</radio>
     </chips>
     <name>CYBT-273063-EVAL</name>
-    <summary>The Infineon CYBT-273063-EVAL Evaluation Kit enables you to evaluate and develop single-chip Bluetooth applications using the EZ-BT AIROC Module CYBT-273063-02. The CYBT-273063-02 EZ-BT AIROC Module is an integrated, fully certified, 12.5 mm x 19 mm x 1.95 mm , programmable dual-mode Bluetooth module with external PA/LNA and PCB Antenna designed to reduce your time-to-market. The CYBT-273063-02 module utilizes the Infineon CYW20819 silicon device. Manufactured using advanced CMOS low-power process, the CYW20819 employs high integration to reduce external components, thereby minimizing the device's footprint and cost. This kit helps evaluate device functionality and develop applications quickly for faster time-to-market.</summary>
+    <summary>The Infineon CYBT-273063-EVAL Evaluation Kit enables you to evaluate and develop single-chip Bluetooth&#174; applications using the EZ-BT AIROC&#8482; Module CYBT-273063-02. The CYBT-273063-02 EZ-BT AIROC&#8482; Module is an integrated, fully certified, 12.5 mm x 19 mm x 1.95 mm , programmable dual-mode Bluetooth&#174; module with external PA/LNA and PCB Antenna designed to reduce your time-to-market. The CYBT-273063-02 module utilizes the Infineon CYW20819 silicon device. Manufactured using advanced CMOS low-power process, the CYW20819 employs high integration to reduce external components, thereby minimizing the device's footprint and cost. This kit helps evaluate device functionality and develop applications quickly for faster time-to-market.</summary>
     <prov_capabilities>ble br_edr mesh hid ota hal btsdk fw2 CYBT_273063_EVAL</prov_capabilities>
     <description><![CDATA[
         <div class="category">Kit Features:</div><ul>
-        <li>CYW20819-based dual-mode (LE/BR/EDR) Bluetooth 5.0-compliant fully certified module with external PA/LNA and PCB antenna to achieve extended range (CYBT-273063-02)</li>
+        <li>CYW20819-based dual-mode (LE/BR/EDR) Bluetooth&#174; 5.0-compliant fully certified module with external PA/LNA and PCB antenna to achieve extended range (CYBT-273063-02)</li>
         <li>Arduino compatible headers for hardware expansion</li>
         <li>User switches and LEDs</li>
         <li>FCC, ISED, MIC, and CE Certified Module on board (CYBT-273063-02)</li>
@@ -414,9 +489,13 @@
   </board>
   <board>
     <id>CYBT-263065-EVAL</id>
-    <category>AIROC Bluetooth BSPs</category>
+    <category>AIROC&#8482; Bluetooth&#174; BSPs</category>
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYBT-263065-EVAL</board_uri>
     <versions>
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback spp btsdk_ota_app anc ans batc bats beacon findme helloc hellos hrc hrs lecoc adc gpio lowpower puart pwm dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart low_power_led on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
+        <num>3.2.0 release</num>
+        <commit>release-v3.2.0</commit>
+      </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app hci_loopback spp btsdk_ota_app anc ans batc bats beacon findme helloc hellos hrc hrs lecoc adc gpio lowpower puart pwm dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart low_power_led on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
         <num>3.1.0 release</num>
         <commit>release-v3.1.0</commit>
@@ -429,7 +508,7 @@
         <num>2.9.0 release</num>
         <commit>release-v2.9.0</commit>
       </version>
-      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app hci_loopback spp btsdk_ota_app anc ans batc bats beacon findme helloc hellos hrc hrs lecoc adc gpio lowpower puart pwm dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart low_power_led on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback spp btsdk_ota_app anc ans batc bats beacon findme helloc hellos hrc hrs lecoc adc gpio lowpower puart pwm dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart low_power_led on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
         <num>Latest v3.X release</num>
         <commit>latest-v3.X</commit>
       </version>
@@ -443,11 +522,11 @@
       <radio>CYW20819A1</radio>
     </chips>
     <name>CYBT-263065-EVAL</name>
-    <summary>The Infineon CYBT-263065-EVAL Evaluation Kit enables you to evaluate and develop single-chip Bluetooth applications using the EZ-BT AIROC Module CYBT-263065-02. The CYBT-263065-02 EZ-BT AIROC Module is an integrated, fully certified, 12.5 mm x 19 mm x 1.95 mm , programmable dual-mode Bluetooth module with external PA/LNA and uFL connector for external antenna designed to reduce your time-to-market. The CYBT-263065-02 module utilizes the Infineon CYW20819 silicon device. Manufactured using advanced CMOS low-power process, the CYW20819 employs high integration to reduce external components, thereby minimizing the device's footprint and cost. This kit helps evaluate device functionality and develop applications quickly for faster time-to-market.</summary>
+    <summary>The Infineon CYBT-263065-EVAL Evaluation Kit enables you to evaluate and develop single-chip Bluetooth&#174; applications using the EZ-BT AIROC&#8482; Module CYBT-263065-02. The CYBT-263065-02 EZ-BT AIROC&#8482; Module is an integrated, fully certified, 12.5 mm x 19 mm x 1.95 mm , programmable dual-mode Bluetooth&#174; module with external PA/LNA and uFL connector for external antenna designed to reduce your time-to-market. The CYBT-263065-02 module utilizes the Infineon CYW20819 silicon device. Manufactured using advanced CMOS low-power process, the CYW20819 employs high integration to reduce external components, thereby minimizing the device's footprint and cost. This kit helps evaluate device functionality and develop applications quickly for faster time-to-market.</summary>
     <prov_capabilities>ble br_edr mesh hid ota hal btsdk fw2 CYBT_263065_EVAL</prov_capabilities>
     <description><![CDATA[
         <div class="category">Kit Features:</div><ul>
-        <li>CYW20819-based dual-mode (LE/BR/EDR) Bluetooth 5.0-compliant fully certified module with external PA/LNA and uFL connector for external antenna to achieve extended range(CYBT-263065-02)</li>
+        <li>CYW20819-based dual-mode (LE/BR/EDR) Bluetooth&#174; 5.0-compliant fully certified module with external PA/LNA and uFL connector for external antenna to achieve extended range(CYBT-263065-02)</li>
         <li>Arduino compatible headers for hardware expansion</li>
         <li>User switches and LEDs</li>
         <li>FCC, ISED, MIC, and CE Certified Module on board (CYBT-263065-02)</li>
@@ -466,9 +545,13 @@
   </board>
   <board>
     <id>CYBT-243053-EVAL</id>
-    <category>AIROC Bluetooth BSPs</category>
+    <category>AIROC&#8482; Bluetooth&#174; BSPs</category>
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYBT-243053-EVAL</board_uri>
     <versions>
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback spp btsdk_ota_app anc ans batc bats beacon findme helloc hellos hrc hrs lecoc adc gpio lowpower puart pwm dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart low_power_led on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
+        <num>3.2.0 release</num>
+        <commit>release-v3.2.0</commit>
+      </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app hci_loopback spp btsdk_ota_app anc ans batc bats beacon findme helloc hellos hrc hrs lecoc adc gpio lowpower puart pwm dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart low_power_led on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
         <num>3.1.0 release</num>
         <commit>release-v3.1.0</commit>
@@ -481,7 +564,7 @@
         <num>2.9.0 release</num>
         <commit>release-v2.9.0</commit>
       </version>
-      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app hci_loopback spp btsdk_ota_app anc ans batc bats beacon findme helloc hellos hrc hrs lecoc adc gpio lowpower puart pwm dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart low_power_led on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback spp btsdk_ota_app anc ans batc bats beacon findme helloc hellos hrc hrs lecoc adc gpio lowpower puart pwm dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart low_power_led on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
         <num>Latest v3.X release</num>
         <commit>latest-v3.X</commit>
       </version>
@@ -495,11 +578,11 @@
       <radio>CYW20820A1</radio>
     </chips>
     <name>CYBT-243053-EVAL</name>
-    <summary>The Infineon CYBT-243053-EVAL Evaluation Kit enables you to evaluate and develop single-chip Bluetooth applications using the EZ-BT AIROC Module CYBT-243053-02. The CYBT-243053-02 EZ-BT AIROC Module is an integrated, fully certified, 12.0 mm x 16.61 mm x 1.70 mm, programmable dual-mode Bluetooth module designed to reduce your time-to-market. The CYBT-243053-02 module utilizes the Infineon CYW20820 silicon device. Manufactured using advanced CMOS low-power process, the CYW20820 employs high integration to reduce external components, thereby minimizing the device's footprint and cost. This kit helps evaluate device functionality and develop applications quickly for faster time-to-market.</summary>
+    <summary>The Infineon CYBT-243053-EVAL Evaluation Kit enables you to evaluate and develop single-chip Bluetooth&#174; applications using the EZ-BT AIROC&#8482; Module CYBT-243053-02. The CYBT-243053-02 EZ-BT AIROC&#8482; Module is an integrated, fully certified, 12.0 mm x 16.61 mm x 1.70 mm, programmable dual-mode Bluetooth&#174; module designed to reduce your time-to-market. The CYBT-243053-02 module utilizes the Infineon CYW20820 silicon device. Manufactured using advanced CMOS low-power process, the CYW20820 employs high integration to reduce external components, thereby minimizing the device's footprint and cost. This kit helps evaluate device functionality and develop applications quickly for faster time-to-market.</summary>
     <prov_capabilities>ble br_edr mesh hid ota hal btsdk fw2 CYBT_243053_EVAL</prov_capabilities>
     <description><![CDATA[
         <div class="category">Kit Features:</div><ul>
-        <li>CYW20820-based dual-mode (LE/BR/EDR) Bluetooth 5.0-compliant fully certified module (CYBT-243053-02)</li>
+        <li>CYW20820-based dual-mode (LE/BR/EDR) Bluetooth&#174; 5.0-compliant fully certified module (CYBT-243053-02)</li>
         <li>Arduino compatible headers for hardware expansion</li>
         <li>User switches and LEDs</li>
         <li>FCC, ISED, MIC, and CE Certified Module on board (CYBT-243053-02)</li>
@@ -518,9 +601,13 @@
   </board>
   <board>
     <id>CYBT-253059-EVAL</id>
-    <category>AIROC Bluetooth BSPs</category>
+    <category>AIROC&#8482; Bluetooth&#174; BSPs</category>
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYBT-253059-EVAL</board_uri>
     <versions>
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback spp btsdk_ota_app anc ans batc bats beacon findme helloc hellos hrc hrs lecoc adc gpio lowpower puart pwm dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart low_power_led on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
+        <num>3.2.0 release</num>
+        <commit>release-v3.2.0</commit>
+      </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app hci_loopback spp btsdk_ota_app anc ans batc bats beacon findme helloc hellos hrc hrs lecoc adc gpio lowpower puart pwm dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart low_power_led on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
         <num>3.1.0 release</num>
         <commit>release-v3.1.0</commit>
@@ -533,7 +620,7 @@
         <num>2.9.0 release</num>
         <commit>release-v2.9.0</commit>
       </version>
-      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app hci_loopback spp btsdk_ota_app anc ans batc bats beacon findme helloc hellos hrc hrs lecoc adc gpio lowpower puart pwm dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart low_power_led on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback spp btsdk_ota_app anc ans batc bats beacon findme helloc hellos hrc hrs lecoc adc gpio lowpower puart pwm dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart low_power_led on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
         <num>Latest v3.X release</num>
         <commit>latest-v3.X</commit>
       </version>
@@ -547,11 +634,11 @@
       <radio>CYW20820A1</radio>
     </chips>
     <name>CYBT-253059-EVAL</name>
-    <summary>The Infineon CYBT-253059-EVAL Evaluation Kit enables you to evaluate and develop single-chip Bluetooth applications using the EZ-BT AIROC Module CYBT-253059-02. The CYBT-253059-02 EZ-BT AIROC Module is an integrated, fully certified, 11 x 11 x 1.70 mm, programmable dual-mode Bluetooth module designed to reduce your time-to-market. The CYBT-253059-02 module utilizes the Infineon CYW20820 silicon device. Manufactured using advanced CMOS low-power process, the CYW20820 employs high integration to reduce external components, thereby minimizing the device's footprint and cost. This kit helps evaluate device functionality and develop applications quickly for faster time-to-market.</summary>
+    <summary>The Infineon CYBT-253059-EVAL Evaluation Kit enables you to evaluate and develop single-chip Bluetooth&#174; applications using the EZ-BT AIROC&#8482; Module CYBT-253059-02. The CYBT-253059-02 EZ-BT AIROC&#8482; Module is an integrated, fully certified, 11 x 11 x 1.70 mm, programmable dual-mode Bluetooth&#174; module designed to reduce your time-to-market. The CYBT-253059-02 module utilizes the Infineon CYW20820 silicon device. Manufactured using advanced CMOS low-power process, the CYW20820 employs high integration to reduce external components, thereby minimizing the device's footprint and cost. This kit helps evaluate device functionality and develop applications quickly for faster time-to-market.</summary>
     <prov_capabilities>ble br_edr mesh hid ota hal btsdk fw2 CYBT_253059_EVAL</prov_capabilities>
     <description><![CDATA[
         <div class="category">Kit Features:</div><ul>
-        <li>CYW20820-based dual-mode (LE/BR/EDR) Bluetooth 5.0-compliant fully certified module (CYBT-253059-02)</li>
+        <li>CYW20820-based dual-mode (LE/BR/EDR) Bluetooth&#174; 5.0-compliant fully certified module (CYBT-253059-02)</li>
         <li>Arduino compatible headers for hardware expansion</li>
         <li>User switches and LEDs</li>
         <li>FCC, ISED, MIC, and CE Certified Module on board (CYBT-253059-02)</li>
@@ -570,9 +657,13 @@
   </board>
   <board>
     <id>CYW920819REF-KB-01</id>
-    <category>AIROC Bluetooth BSPs</category>
+    <category>AIROC&#8482; Bluetooth&#174; BSPs</category>
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYW920819REF-KB-01</board_uri>
     <versions>
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app keyboard" prefix="wiced_btsdk/dev-kit/bsp">
+        <num>3.2.0 release</num>
+        <commit>release-v3.2.0</commit>
+      </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app keyboard" prefix="wiced_btsdk/dev-kit/bsp">
         <num>3.1.0 release</num>
         <commit>release-v3.1.0</commit>
@@ -589,7 +680,7 @@
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
       </version>
-      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app keyboard" prefix="wiced_btsdk/dev-kit/bsp">
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app keyboard" prefix="wiced_btsdk/dev-kit/bsp">
         <num>Latest v3.X release</num>
         <commit>latest-v3.X</commit>
       </version>
@@ -603,11 +694,11 @@
       <radio>CYW20819A1</radio>
     </chips>
     <name>CYW920819REF-KB-01</name>
-    <summary>The Infineon CYW920819REF-KB-01 Reference Keyboard enables you to evaluate and develop single-chip Bluetooth HID keyboard device applications using the CYW9208XXWCD1 module, a 112-pin module utilizing the Infineon CYW20819 silicon, an ultra-low-power dual-mode Bluetooth 5.2 wireless MCU device. The CYW20819 is a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting LE/BR/EDR. </summary>
+    <summary>The Infineon CYW920819REF-KB-01 Reference Keyboard enables you to evaluate and develop single-chip Bluetooth&#174; HID keyboard device applications using the CYW9208XXWCD1 module, a 112-pin module utilizing the Infineon CYW20819 silicon, an ultra-low-power dual-mode Bluetooth&#174; 5.2 wireless MCU device. The CYW20819 is a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting LE/BR/EDR. </summary>
     <prov_capabilities>hid ota btsdk fw2 CYW920819REF_KB_01</prov_capabilities>
     <description><![CDATA[
         <div class="category">Kit Features:</div><ul>
-        <li>112-pin CYW20819 module dual-mode (LE/BR/EDR) Bluetooth 5.2-compliant wireless MCU with internal Power Amplifier (iPA)</li>
+        <li>112-pin CYW20819 module dual-mode (LE/BR/EDR) Bluetooth&#174; 5.2-compliant wireless MCU with internal Power Amplifier (iPA)</li>
         <li>Keyboard hardware</li>
         <li>USB connector for power, programming, and USB-UART bridge</li>
         </ul><p/>
@@ -619,9 +710,13 @@
   </board>
   <board>
     <id>CYW920820EVB-02</id>
-    <category>AIROC Bluetooth BSPs</category>
+    <category>AIROC&#8482; Bluetooth&#174; BSPs</category>
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYW920820EVB-02</board_uri>
     <versions>
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback mapc spp spp_multi_port btsdk_hci_app btsdk_ota_app watch ans anc bats batc beacon env_sens_temp findme helloc hellos hrc hrs lecoc adc gpio i2c_master lowpower puart pwm uart_raw dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart low_power_led on_off_switch mesh_sensor_temperature mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
+        <num>3.2.0 release</num>
+        <commit>release-v3.2.0</commit>
+      </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app hci_loopback mapc spp spp_multi_port btsdk_hci_app btsdk_ota_app watch ans anc bats batc beacon env_sens_temp findme helloc hellos hrc hrs lecoc adc gpio i2c_master lowpower puart pwm uart_raw dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart low_power_led on_off_switch mesh_sensor_temperature mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
         <num>3.1.0 release</num>
         <commit>release-v3.1.0</commit>
@@ -638,7 +733,7 @@
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
       </version>
-      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app hci_loopback mapc spp spp_multi_port btsdk_hci_app btsdk_ota_app watch ans anc bats batc beacon env_sens_temp findme helloc hellos hrc hrs lecoc adc gpio i2c_master lowpower puart pwm uart_raw dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart low_power_led on_off_switch mesh_sensor_temperature mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback mapc spp spp_multi_port btsdk_hci_app btsdk_ota_app watch ans anc bats batc beacon env_sens_temp findme helloc hellos hrc hrs lecoc adc gpio i2c_master lowpower puart pwm uart_raw dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart low_power_led on_off_switch mesh_sensor_temperature mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
         <num>Latest v3.X release</num>
         <commit>latest-v3.X</commit>
       </version>
@@ -652,11 +747,11 @@
       <radio>CYW20820A1</radio>
     </chips>
     <name>CYW920820EVB-02</name>
-    <summary>The Infineon CYW920820EVB-02 Evaluation Kit enables you to evaluate and develop single-chip Bluetooth applications using the CYW20820, an ultra-low-power dual-mode Bluetooth 5.2 wireless MCU device. The CYW20820 is a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting LE/BR/EDR. The CYW20820 delivers up to 10.5 dBm Tx power in LE and BR modes and up to 4 dBm in EDR mode that extends range in applications like home and industrial automation, wearables, toys, and HID. The CYW20820 employs high integration to reduce external components, thereby minimizing the device's footprint and cost. This kit helps evaluate device functionality and develop applications quickly for faster time-to-market.</summary>
+    <summary>The Infineon CYW920820EVB-02 Evaluation Kit enables you to evaluate and develop single-chip Bluetooth&#174; applications using the CYW20820, an ultra-low-power dual-mode Bluetooth&#174; 5.2 wireless MCU device. The CYW20820 is a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting LE/BR/EDR. The CYW20820 delivers up to 10.5 dBm Tx power in LE and BR modes and up to 4 dBm in EDR mode that extends range in applications like home and industrial automation, wearables, toys, and HID. The CYW20820 employs high integration to reduce external components, thereby minimizing the device's footprint and cost. This kit helps evaluate device functionality and develop applications quickly for faster time-to-market.</summary>
     <prov_capabilities>ble br_edr mesh hid audio ota hal btsdk fw2 CYW920820EVB_02 lsm9ds1 ncu15wf104 led2x button CYW208XX CYW208XX_62fbga</prov_capabilities>
     <description><![CDATA[
         <div class="category">Kit Features:</div><ul>
-        <li>62-FBGA CYW20820 dual-mode (LE/BR/EDR) Bluetooth 5.2-compliant wireless MCU with internal Power Amplifier (iPA)</li>
+        <li>62-FBGA CYW20820 dual-mode (LE/BR/EDR) Bluetooth&#174; 5.2-compliant wireless MCU with internal Power Amplifier (iPA)</li>
         <li>Arduino compatible headers for hardware expansion</li>
         <li>On-board sensors - a lsm9ds1 9-axis motion sensor (3D digital linear acceleration sensor, 3D digital angular rate sensor, and 3D digital magnetic sensor) and a ncu15wf104 thermistor</li>
         <li>User switches and LEDs</li>
@@ -675,9 +770,13 @@
   </board>
   <board>
     <id>CYW989820EVB-01</id>
-    <category>AIROC Bluetooth BSPs</category>
+    <category>AIROC&#8482; Bluetooth&#174; BSPs</category>
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYW989820EVB-01</board_uri>
     <versions>
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback spp btsdk_hci_app btsdk_ota_app anc ans batc bats beacon findme helloc hellos lecoc gpio i2c_master puart pwm" prefix="wiced_btsdk/dev-kit/bsp">
+        <num>3.2.0 release</num>
+        <commit>release-v3.2.0</commit>
+      </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app hci_loopback spp btsdk_hci_app btsdk_ota_app anc ans batc bats beacon findme helloc hellos lecoc gpio i2c_master puart pwm" prefix="wiced_btsdk/dev-kit/bsp">
         <num>3.1.0 release</num>
         <commit>release-v3.1.0</commit>
@@ -694,7 +793,7 @@
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
       </version>
-      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app hci_loopback spp btsdk_hci_app btsdk_ota_app anc ans batc bats beacon findme helloc hellos lecoc gpio i2c_master puart pwm" prefix="wiced_btsdk/dev-kit/bsp">
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback spp btsdk_hci_app btsdk_ota_app anc ans batc bats beacon findme helloc hellos lecoc gpio i2c_master puart pwm" prefix="wiced_btsdk/dev-kit/bsp">
         <num>Latest v3.X release</num>
         <commit>latest-v3.X</commit>
       </version>
@@ -708,11 +807,11 @@
       <radio>CYW20820A1</radio>
     </chips>
     <name>CYW989820EVB-01</name>
-    <summary>The Infineon CYW989820EVB-01 Evaluation Kit enables you to evaluate and develop single-chip Bluetooth applications using the CYW89820, an Automotive qualified dual-mode Bluetooth 5.2 wireless SoC device. The CYW89820 is a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting LE/BR/EDR. The CYW89820 delivers up to 10.5 dBm Tx power in LE and BR modes and up to 4 dBm in EDR mode that extends range in applications like Automotive Keyless Entry, Remote Parking, Sensor Control, Wake-up trigger for Telematics units etc. The CYW89820 employs high integration to reduce external components, thereby minimizing the device's footprint and cost. This kit helps evaluate device functionality and develop applications quickly for faster time-to-market.</summary>
+    <summary>The Infineon CYW989820EVB-01 Evaluation Kit enables you to evaluate and develop single-chip Bluetooth&#174; applications using the CYW89820, an Automotive qualified dual-mode Bluetooth&#174; 5.2 wireless SoC device. The CYW89820 is a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting LE/BR/EDR. The CYW89820 delivers up to 10.5 dBm Tx power in LE and BR modes and up to 4 dBm in EDR mode that extends range in applications like Automotive Keyless Entry, Remote Parking, Sensor Control, Wake-up trigger for Telematics units etc. The CYW89820 employs high integration to reduce external components, thereby minimizing the device's footprint and cost. This kit helps evaluate device functionality and develop applications quickly for faster time-to-market.</summary>
     <prov_capabilities>ble br_edr mesh hid ota peps hal btsdk fw2 CYW989820EVB_01 CYW208XX</prov_capabilities>
     <description><![CDATA[
         <div class="category">Kit Features:</div><ul>
-        <li>48-WQFN CYW89820 dual-mode (LE/BR/EDR) Bluetooth 5.2-compliant wireless MCU with internal Power Amplifier (iPA)</li>
+        <li>48-WQFN CYW89820 dual-mode (LE/BR/EDR) Bluetooth&#174; 5.2-compliant wireless MCU with internal Power Amplifier (iPA)</li>
         <li>Arduino compatible headers for hardware expansion</li>
         <li>On-board sensors - a 9-axis motion sensor (3D digital linear acceleration sensor, 3D digital angular rate sensor, and 3D digital magnetic sensor) and a thermistor</li>
         <li>User switches and LEDs</li>
@@ -731,9 +830,13 @@
   </board>
   <board>
     <id>CYW9M2BASE-43012BT</id>
-    <category>AIROC Bluetooth BSPs</category>
+    <category>AIROC&#8482; Bluetooth&#174; BSPs</category>
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYW9M2BASE-43012BT</board_uri>
     <versions>
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback mapc spp avsink handsfree hs_speaker watch anc ans beacon" prefix="wiced_btsdk/dev-kit/bsp">
+        <num>3.2.0 release</num>
+        <commit>release-v3.2.0</commit>
+      </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app hci_loopback mapc spp avsink handsfree hs_speaker watch anc ans beacon" prefix="wiced_btsdk/dev-kit/bsp">
         <num>3.1.0 release</num>
         <commit>release-v3.1.0</commit>
@@ -750,7 +853,7 @@
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
       </version>
-      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app hci_loopback mapc spp avsink handsfree hs_speaker watch anc ans beacon" prefix="wiced_btsdk/dev-kit/bsp">
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback mapc spp avsink handsfree hs_speaker watch anc ans beacon" prefix="wiced_btsdk/dev-kit/bsp">
         <num>Latest v3.X release</num>
         <commit>latest-v3.X</commit>
       </version>
@@ -764,12 +867,12 @@
       <radio>CYW43012C0</radio>
     </chips>
     <name>CYW9M2BASE-43012BT</name>
-    <summary>The Infineon CYW9M2BASE-43012BT is a prototyping kit that enables the design and debug of Bluetooth applications using the CYW43012 (Wi-Fi + Bluetooth Combo), an ultra-low-power dual-mode Bluetooth 5.2 wireless MCU device. The CYW43012 is a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting LE/BR/EDR. The kit includes an Audio Arduino shield with on-board microphones, audio codec chip, and headphone output.</summary>
+    <summary>The Infineon CYW9M2BASE-43012BT is a prototyping kit that enables the design and debug of Bluetooth&#174; applications using the CYW43012 (Wi-Fi + Bluetooth&#174; Combo), an ultra-low-power dual-mode Bluetooth&#174; 5.2 wireless MCU device. The CYW43012 is a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting LE/BR/EDR. The kit includes an Audio Arduino shield with on-board microphones, audio codec chip, and headphone output.</summary>
     <prov_capabilities>ble br_edr audio btsdk CYW9M2BASE_43012BT</prov_capabilities>
     <description><![CDATA[
         <div class="category">Kit Features:</div><ul>
-        <li>CYW43012 is a monolithic, single chip, Wi-Fi + Bluetooth Combo dual-mode System-on-a-Chip (SoC) that includes a baseband processor, an ARM&#174; Cortex&#8482;-M4 processor, and an integrated transceiver.</li>
-        <li>The Infineon CYW9M2BASE-43012BT board is a prototyping kit that enables the design and debug of Bluetooth applications using the CYW43012.</li>
+        <li>CYW43012 is a monolithic, single chip, Wi-Fi + Bluetooth&#174; Combo dual-mode System-on-a-Chip (SoC) that includes a baseband processor, an Arm&#174; Cortex&#174;-M4 processor, and an integrated transceiver.</li>
+        <li>The Infineon CYW9M2BASE-43012BT board is a prototyping kit that enables the design and debug of Bluetooth&#174; applications using the CYW43012.</li>
         </ul><p/>
         </body>
         </html>
@@ -778,9 +881,13 @@
   </board>
   <board>
     <id>CYW943012BTEVK-01</id>
-    <category>AIROC Bluetooth BSPs</category>
+    <category>AIROC&#8482; Bluetooth&#174; BSPs</category>
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYW943012BTEVK-01</board_uri>
     <versions>
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback mapc spp avsink handsfree hs_speaker watch anc ans beacon" prefix="wiced_btsdk/dev-kit/bsp">
+        <num>3.2.0 release</num>
+        <commit>release-v3.2.0</commit>
+      </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app hci_loopback mapc spp avsink handsfree hs_speaker watch anc ans beacon" prefix="wiced_btsdk/dev-kit/bsp">
         <num>3.1.0 release</num>
         <commit>release-v3.1.0</commit>
@@ -793,7 +900,7 @@
         <num>2.9.0 release</num>
         <commit>release-v2.9.0</commit>
       </version>
-      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app hci_loopback mapc spp avsink handsfree hs_speaker watch anc ans beacon" prefix="wiced_btsdk/dev-kit/bsp">
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback mapc spp avsink handsfree hs_speaker watch anc ans beacon" prefix="wiced_btsdk/dev-kit/bsp">
         <num>Latest v3.X release</num>
         <commit>latest-v3.X</commit>
       </version>
@@ -807,11 +914,11 @@
       <radio>CYW43012C0</radio>
     </chips>
     <name>CYW943012BTEVK-01</name>
-    <summary>The Infineon CYW943012BTEVK-01 Evaluation kit enables you to evaluate and develop Bluetooth applications using the CYW43012 (802.11n/802.11ac-Friendly Dual-Band Wi-Fi and Bluetooth Combo) The CYW43012 is a 28-nm, ultra-low power single-chip device with an integrated Bluetooth subsystem supporting LE/BR/EDR.  This kit helps evaluate device functionality and develop embedded Bluetooth applications quickly for faster time-to-market.</summary>
+    <summary>The Infineon CYW943012BTEVK-01 Evaluation kit enables you to evaluate and develop Bluetooth&#174; applications using the CYW43012 (802.11n/802.11ac-Friendly Dual-Band Wi-Fi and Bluetooth&#174; Combo) The CYW43012 is a 28-nm, ultra-low power single-chip device with an integrated Bluetooth&#174; subsystem supporting LE/BR/EDR.  This kit helps evaluate device functionality and develop embedded Bluetooth&#174; applications quickly for faster time-to-market.</summary>
     <prov_capabilities>ble br_edr audio btsdk CYW943012BTEVK_01</prov_capabilities>
     <description><![CDATA[
         <div class="category">Kit Features:</div><ul>
-        <li>CYW43012 single chip, Wi-Fi + Bluetooth Combo System-on-a-Chip (SoC) that includes a baseband processor, an ARM&#174; Cortex&#8482;-M4 processor, and an integrated transceiver.</li>
+        <li>CYW43012 single chip, Wi-Fi + Bluetooth&#174; Combo System-on-a-Chip (SoC) that includes a baseband processor, an Arm&#174; Cortex&#174;-M4 processor, and an integrated transceiver.</li>
         <li>Audio Arduino shield with on-board analog microphones, audio codec chip, headphone and speaker output.</li>
         <li>On-board sensors: an ambient light sensor, thermistor, and Infineon IM69D127 digital microphone.</li>
         <li>User switches and LEDs.</li>
@@ -832,9 +939,13 @@
   </board>
   <board>
     <id>CYW920719B2Q40EVB-01</id>
-    <category>AIROC Bluetooth BSPs</category>
+    <category>AIROC&#8482; Bluetooth&#174; BSPs</category>
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYW920719B2Q40EVB-01</board_uri>
     <versions>
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback mapc opps pbc spp spp_multi_port btsdk_hci_app btsdk_ota_app audio_gateway watch ans anc batc bats beacon env_sens_temp findme helloc hellos hrc hrs lecoc adc gpio i2c_master puart uart_raw dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
+        <num>3.2.0 release</num>
+        <commit>release-v3.2.0</commit>
+      </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app hci_loopback mapc opps pbc spp spp_multi_port btsdk_hci_app btsdk_ota_app audio_gateway watch ans anc batc bats beacon env_sens_temp findme helloc hellos hrc hrs lecoc adc gpio i2c_master puart uart_raw dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
         <num>3.1.0 release</num>
         <commit>release-v3.1.0</commit>
@@ -851,7 +962,7 @@
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
       </version>
-      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app hci_loopback mapc opps pbc spp spp_multi_port btsdk_hci_app btsdk_ota_app audio_gateway watch ans anc batc bats beacon env_sens_temp findme helloc hellos hrc hrs lecoc adc gpio i2c_master puart uart_raw dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback mapc opps pbc spp spp_multi_port btsdk_hci_app btsdk_ota_app audio_gateway watch ans anc batc bats beacon env_sens_temp findme helloc hellos hrc hrs lecoc adc gpio i2c_master puart uart_raw dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
         <num>Latest v3.X release</num>
         <commit>latest-v3.X</commit>
       </version>
@@ -865,11 +976,11 @@
       <radio>CYW20719B2</radio>
     </chips>
     <name>CYW920719B2Q40EVB-01</name>
-    <summary>The Infineon CYW920719B2Q40EVB-01 Evaluation Kit enables you to evaluate and develop single-chip Bluetooth applications using the CYW20719, an ultra-low-power dual-mode Bluetooth 5.1 wireless MCU device. The CYW20719 is a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting LE/BR/EDR. The CYW20719 employs high integration to reduce external components, thereby minimizing the device's footprint and cost. This kit helps evaluate device functionality and develop applications quickly for faster time-to-market.</summary>
+    <summary>The Infineon CYW920719B2Q40EVB-01 Evaluation Kit enables you to evaluate and develop single-chip Bluetooth&#174; applications using the CYW20719, an ultra-low-power dual-mode Bluetooth&#174; 5.1 wireless MCU device. The CYW20719 is a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting LE/BR/EDR. The CYW20719 employs high integration to reduce external components, thereby minimizing the device's footprint and cost. This kit helps evaluate device functionality and develop applications quickly for faster time-to-market.</summary>
     <prov_capabilities>ble br_edr mesh hid audio ota hal btsdk fw2 led2x button CYW920719B2Q40EVB_01 lsm9ds1 ncu15wf104</prov_capabilities>
     <description><![CDATA[
         <div class="category">Kit Features:</div><ul>
-        <li>40-QFN CYW20719 dual-mode (LE/BR/EDR) Bluetooth 5.1-compliant wireless MCU</li>
+        <li>40-QFN CYW20719 dual-mode (LE/BR/EDR) Bluetooth&#174; 5.1-compliant wireless MCU</li>
         <li>Arduino compatible headers for hardware expansion</li>
         <li>On-board sensors - a lsm9ds1 9-axis motion sensor (3D digital linear acceleration sensor, 3D digital angular rate sensor, and 3D digital magnetic sensor) and a ncu15wf104 thermistor</li>
         <li>User switches and LEDs</li>
@@ -888,9 +999,13 @@
   </board>
   <board>
     <id>CYBT-423054-EVAL</id>
-    <category>AIROC Bluetooth BSPs</category>
+    <category>AIROC&#8482; Bluetooth&#174; BSPs</category>
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYBT-423054-EVAL</board_uri>
     <versions>
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback spp anc ans batc bats beacon env_sens_temp helloc hellos lecoc hrc hrs adc gpio puart dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
+        <num>3.2.0 release</num>
+        <commit>release-v3.2.0</commit>
+      </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app hci_loopback spp anc ans batc bats beacon env_sens_temp helloc hellos lecoc hrc hrs adc gpio puart dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
         <num>3.1.0 release</num>
         <commit>release-v3.1.0</commit>
@@ -907,7 +1022,7 @@
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
       </version>
-      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app hci_loopback spp anc ans batc bats beacon env_sens_temp helloc hellos lecoc hrc hrs adc gpio puart dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback spp anc ans batc bats beacon env_sens_temp helloc hellos lecoc hrc hrs adc gpio puart dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
         <num>Latest v3.X release</num>
         <commit>latest-v3.X</commit>
       </version>
@@ -921,7 +1036,7 @@
       <radio>CYW20719B2</radio>
     </chips>
     <name>CYBT-423054-EVAL</name>
-    <summary>The Infineon CYBT-423054-EVAL board enables you to evaluate and develop Bluetooth applications using the CYBT-423054-02 module. The CYBT-423054-02 is a dual-mode Bluetooth BR/EDR and Low Energy (LE) wireless module solution. The CYBT-423054-02 includes onboard crystal oscillators, passive components, and the Infineon CYW20719B2 silicon device.</summary>
+    <summary>The Infineon CYBT-423054-EVAL board enables you to evaluate and develop Bluetooth&#174; applications using the CYBT-423054-02 module. The CYBT-423054-02 is a dual-mode Bluetooth&#174; BR/EDR and Low Energy (LE) wireless module solution. The CYBT-423054-02 includes onboard crystal oscillators, passive components, and the Infineon CYW20719B2 silicon device.</summary>
     <prov_capabilities>ble br_edr btsdk CYBT_423054_EVAL</prov_capabilities>
     <description><![CDATA[
         <div class="category">Kit Features:</div><ul>
@@ -942,9 +1057,13 @@
   </board>
   <board>
     <id>CYBT-413055-EVAL</id>
-    <category>AIROC Bluetooth BSPs</category>
+    <category>AIROC&#8482; Bluetooth&#174; BSPs</category>
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYBT-413055-EVAL</board_uri>
     <versions>
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback spp anc ans batc bats beacon env_sens_temp helloc hellos hrc hrs lecoc adc gpio puart dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
+        <num>3.2.0 release</num>
+        <commit>release-v3.2.0</commit>
+      </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app hci_loopback spp anc ans batc bats beacon env_sens_temp helloc hellos hrc hrs lecoc adc gpio puart dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
         <num>3.1.0 release</num>
         <commit>release-v3.1.0</commit>
@@ -961,7 +1080,7 @@
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
       </version>
-      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app hci_loopback spp anc ans batc bats beacon env_sens_temp helloc hellos hrc hrs lecoc adc gpio puart dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback spp anc ans batc bats beacon env_sens_temp helloc hellos hrc hrs lecoc adc gpio puart dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
         <num>Latest v3.X release</num>
         <commit>latest-v3.X</commit>
       </version>
@@ -975,7 +1094,7 @@
       <radio>CYW20719B2</radio>
     </chips>
     <name>CYBT-413055-EVAL</name>
-    <summary>The Infineon CYBT-413055-EVAL board enables you to evaluate and develop Bluetooth applications using the CYBT-413055-02 module. The CYBT-413055-02 is a dual-mode Bluetooth BR/EDR and Low Energy (LE) wireless module solution. The CYBT-413055-02 includes onboard crystal oscillators, passive components, and the Infineon CYW20719B2 silicon device.</summary>
+    <summary>The Infineon CYBT-413055-EVAL board enables you to evaluate and develop Bluetooth&#174; applications using the CYBT-413055-02 module. The CYBT-413055-02 is a dual-mode Bluetooth&#174; BR/EDR and Low Energy (LE) wireless module solution. The CYBT-413055-02 includes onboard crystal oscillators, passive components, and the Infineon CYW20719B2 silicon device.</summary>
     <prov_capabilities>ble btsdk CYBT_413055_EVAL</prov_capabilities>
     <description><![CDATA[
         <div class="category">Kit Features:</div><ul>
@@ -996,9 +1115,13 @@
   </board>
   <board>
     <id>CYBT-483056-EVAL</id>
-    <category>AIROC Bluetooth BSPs</category>
+    <category>AIROC&#8482; Bluetooth&#174; BSPs</category>
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYBT-483056-EVAL</board_uri>
     <versions>
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback spp anc ans batc bats beacon env_sens_temp helloc hellos hrc hrs lecoc adc gpio puart dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
+        <num>3.2.0 release</num>
+        <commit>release-v3.2.0</commit>
+      </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app hci_loopback spp anc ans batc bats beacon env_sens_temp helloc hellos hrc hrs lecoc adc gpio puart dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
         <num>3.1.0 release</num>
         <commit>release-v3.1.0</commit>
@@ -1015,7 +1138,7 @@
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
       </version>
-      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app hci_loopback spp anc ans batc bats beacon env_sens_temp helloc hellos hrc hrs lecoc adc gpio puart dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback spp anc ans batc bats beacon env_sens_temp helloc hellos hrc hrs lecoc adc gpio puart dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
         <num>Latest v3.X release</num>
         <commit>latest-v3.X</commit>
       </version>
@@ -1029,7 +1152,7 @@
       <radio>CYW20719B2</radio>
     </chips>
     <name>CYBT-483056-EVAL</name>
-    <summary>The Infineon CYBT-483056-EVAL board enables you to evaluate and develop Bluetooth applications using the CYBT-483056-02 module. The CYBT-483056-02 is a dual-mode Bluetooth BR/EDR and Low Energy (LE) wireless module solution. The CYBT-483056-02 includes onboard crystal oscillators, passive components, and the Infineon CYW20719B2 silicon device.</summary>
+    <summary>The Infineon CYBT-483056-EVAL board enables you to evaluate and develop Bluetooth&#174; applications using the CYBT-483056-02 module. The CYBT-483056-02 is a dual-mode Bluetooth&#174; BR/EDR and Low Energy (LE) wireless module solution. The CYBT-483056-02 includes onboard crystal oscillators, passive components, and the Infineon CYW20719B2 silicon device.</summary>
     <prov_capabilities>ble btsdk CYBT_483056_EVAL</prov_capabilities>
     <description><![CDATA[
         <div class="category">Kit Features:</div><ul>
@@ -1050,9 +1173,13 @@
   </board>
   <board>
     <id>CYW920721B2EVK-02</id>
-    <category>AIROC Bluetooth BSPs</category>
+    <category>AIROC&#8482; Bluetooth&#174; BSPs</category>
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYW920721B2EVK-02</board_uri>
     <versions>
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback mapc opps pbc spp spp_multi_port btsdk_hci_app btsdk_ota_app avsink audio_gateway audio_record handsfree hs_speaker watch anc ans batc bats beacon findme helloc hellos hrc hrs lecoc adc gpio puart uart_raw dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
+        <num>3.2.0 release</num>
+        <commit>release-v3.2.0</commit>
+      </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app hci_loopback mapc opps pbc spp spp_multi_port btsdk_hci_app btsdk_ota_app avsink audio_gateway audio_record handsfree hs_speaker watch anc ans batc bats beacon findme helloc hellos hrc hrs lecoc adc gpio puart uart_raw dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
         <num>3.1.0 release</num>
         <commit>release-v3.1.0</commit>
@@ -1069,7 +1196,7 @@
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
       </version>
-      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app hci_loopback mapc opps pbc spp spp_multi_port btsdk_hci_app btsdk_ota_app avsink audio_gateway audio_record handsfree hs_speaker watch anc ans batc bats beacon findme helloc hellos hrc hrs lecoc adc gpio puart uart_raw dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback mapc opps pbc spp spp_multi_port btsdk_hci_app btsdk_ota_app avsink audio_gateway audio_record handsfree hs_speaker watch anc ans batc bats beacon findme helloc hellos hrc hrs lecoc adc gpio puart uart_raw dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
         <num>Latest v3.X release</num>
         <commit>latest-v3.X</commit>
       </version>
@@ -1083,11 +1210,11 @@
       <radio>CYW20721B2</radio>
     </chips>
     <name>CYW920721B2EVK-02</name>
-    <summary>The Infineon CYW920721B2EVK-02 Evaluation Kit enables you to evaluate and develop single-chip Bluetooth applications using the CYW20721, an ultra-low-power dual-mode Bluetooth 5.1 wireless MCU device for audio. The CYW20721 is a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting LE/BR/EDR. The CYW20721 employs high integration to reduce external components, thereby minimizing the device's footprint and cost. This kit helps evaluate device functionality and develop applications quickly for faster time-to-market.</summary>
+    <summary>The Infineon CYW920721B2EVK-02 Evaluation Kit enables you to evaluate and develop single-chip Bluetooth&#174; applications using the CYW20721, an ultra-low-power dual-mode Bluetooth&#174; 5.1 wireless MCU device for audio. The CYW20721 is a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting LE/BR/EDR. The CYW20721 employs high integration to reduce external components, thereby minimizing the device's footprint and cost. This kit helps evaluate device functionality and develop applications quickly for faster time-to-market.</summary>
     <prov_capabilities>ble br_edr mesh hid audio ota hal btsdk fw2 CYW920721B2EVK_02</prov_capabilities>
     <description><![CDATA[
         <div class="category">Kit Features:</div><ul>
-        <li>CYW20721B2 dual-mode (LE/BR/EDR) Bluetooth 5.1-compliant wireless MCU packaged into a SiP Module with external Low Noise Amplifier and Power Amplifier (eLNA/ePA)</li>
+        <li>CYW20721B2 dual-mode (LE/BR/EDR) Bluetooth&#174; 5.1-compliant wireless MCU packaged into a SiP Module with external Low Noise Amplifier and Power Amplifier (eLNA/ePA)</li>
         <li>Audio Arduino shield with on-board microphones, audio codec chip, headphone and speaker output</li>
         <li>On-board sensors - a 9-axis motion sensor (3D digital linear acceleration sensor, 3D digital angular rate sensor, and 3D digital magnetic sensor) and a thermistor</li>
         <li>User switches and LEDs</li>
@@ -1108,9 +1235,13 @@
   </board>
   <board>
     <id>CYW920721M2EVK-01</id>
-    <category>AIROC Bluetooth BSPs</category>
+    <category>AIROC&#8482; Bluetooth&#174; BSPs</category>
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYW920721M2EVK-01</board_uri>
     <versions>
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback mapc opps pbc spp spp_multi_port btsdk_hci_app btsdk_ota_app avsink audio_gateway audio_record handsfree hs_speaker watch anc ans batc bats beacon lecoc adc uart_raw dimmer dimmer_self_config on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
+        <num>3.2.0 release</num>
+        <commit>release-v3.2.0</commit>
+      </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app hci_loopback mapc opps pbc spp spp_multi_port btsdk_hci_app btsdk_ota_app avsink audio_gateway audio_record handsfree hs_speaker watch anc ans batc bats beacon lecoc adc uart_raw dimmer dimmer_self_config on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
         <num>3.1.0 release</num>
         <commit>release-v3.1.0</commit>
@@ -1123,7 +1254,7 @@
         <num>2.9.0 release</num>
         <commit>release-v2.9.0</commit>
       </version>
-      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app hci_loopback mapc opps pbc spp spp_multi_port btsdk_hci_app btsdk_ota_app avsink audio_gateway audio_record handsfree hs_speaker watch anc ans batc bats beacon lecoc adc uart_raw dimmer dimmer_self_config on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback mapc opps pbc spp spp_multi_port btsdk_hci_app btsdk_ota_app avsink audio_gateway audio_record handsfree hs_speaker watch anc ans batc bats beacon lecoc adc uart_raw dimmer dimmer_self_config on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
         <num>Latest v3.X release</num>
         <commit>latest-v3.X</commit>
       </version>
@@ -1137,11 +1268,11 @@
       <radio>CYW20721B2</radio>
     </chips>
     <name>CYW920721M2EVK-01</name>
-    <summary>The Infineon CYW920721M2EVK-01 Evaluation Kit enables you to evaluate and develop single-chip Bluetooth applications using the CYW20721, an ultra-low-power dual-mode Bluetooth 5.1 wireless MCU device for audio. The CYW20721 is a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting BR/EDR/Bluetooth LE. The CYW20721 employs high integration to reduce external components, thereby minimizing the device's footprint and cost. This kit helps evaluate device functionality and develop applications quickly for faster time-to-market.</summary>
+    <summary>The Infineon CYW920721M2EVK-01 Evaluation Kit enables you to evaluate and develop single-chip Bluetooth&#174; applications using the CYW20721, an ultra-low-power dual-mode Bluetooth&#174; 5.1 wireless MCU device for audio. The CYW20721 is a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting BR/EDR/Bluetooth&#174; LE. The CYW20721 employs high integration to reduce external components, thereby minimizing the device's footprint and cost. This kit helps evaluate device functionality and develop applications quickly for faster time-to-market.</summary>
     <prov_capabilities>ble br_edr mesh hid audio ota hal btsdk fw2 CYW920721M2EVK_01</prov_capabilities>
     <description><![CDATA[
         <div class="category">Kit Features:</div><ul>
-        <li>CYW20721B2 dual-mode (Bluetooth LE/BR/EDR) Bluetooth 5.1-compliant wireless MCU with external 8TR8211C Low Noise Amplifier and Power Amplifier (eLNA/ePA)</li>
+        <li>CYW20721B2 dual-mode (Bluetooth&#174; LE/BR/EDR) Bluetooth&#174; 5.1-compliant wireless MCU with external 8TR8211C Low Noise Amplifier and Power Amplifier (eLNA/ePA)</li>
         <li>Audio Arduino shield with on-board microphones, audio codec chip, headphone and speaker output</li>
         <li>On-board sensors - an ambient light sensor, thermistor, and footprint for an Infineon digital microphone</li>
         <li>User switches and LEDs</li>
@@ -1162,9 +1293,13 @@
   </board>
   <board>
     <id>CYW920721M2EVK-02</id>
-    <category>AIROC Bluetooth BSPs</category>
+    <category>AIROC&#8482; Bluetooth&#174; BSPs</category>
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYW920721M2EVK-02</board_uri>
     <versions>
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback mapc opps pbc spp spp_multi_port btsdk_hci_app btsdk_ota_app avsink audio_gateway audio_record handsfree hs_speaker watch anc ans batc bats beacon findme helloc hellos hrc hrs lecoc adc gpio uart_raw dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
+        <num>3.2.0 release</num>
+        <commit>release-v3.2.0</commit>
+      </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app hci_loopback mapc opps pbc spp spp_multi_port btsdk_hci_app btsdk_ota_app avsink audio_gateway audio_record handsfree hs_speaker watch anc ans batc bats beacon findme helloc hellos hrc hrs lecoc adc gpio uart_raw dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
         <num>3.1.0 release</num>
         <commit>release-v3.1.0</commit>
@@ -1177,7 +1312,7 @@
         <num>2.9.0 release</num>
         <commit>release-v2.9.0</commit>
       </version>
-      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app hci_loopback mapc opps pbc spp spp_multi_port btsdk_hci_app btsdk_ota_app avsink audio_gateway audio_record handsfree hs_speaker watch anc ans batc bats beacon findme helloc hellos hrc hrs lecoc adc gpio uart_raw dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback mapc opps pbc spp spp_multi_port btsdk_hci_app btsdk_ota_app avsink audio_gateway audio_record handsfree hs_speaker watch anc ans batc bats beacon findme helloc hellos hrc hrs lecoc adc gpio uart_raw dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
         <num>Latest v3.X release</num>
         <commit>latest-v3.X</commit>
       </version>
@@ -1191,11 +1326,11 @@
       <radio>CYW20721B2</radio>
     </chips>
     <name>CYW920721M2EVK-02</name>
-    <summary>The Infineon CYW920721M2EVK-02 Evaluation Kit enables you to evaluate and develop single-chip Bluetooth applications using the CYW20721, an ultra-low-power dual-mode Bluetooth 5.1 wireless MCU device for audio. The CYW20721 is a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting LE/BR/EDR. The CYW20721 employs high integration to reduce external components, thereby minimizing the device's footprint and cost. This kit helps evaluate device functionality and develop applications quickly for faster time-to-market.</summary>
+    <summary>The Infineon CYW920721M2EVK-02 Evaluation Kit enables you to evaluate and develop single-chip Bluetooth&#174; applications using the CYW20721, an ultra-low-power dual-mode Bluetooth&#174; 5.1 wireless MCU device for audio. The CYW20721 is a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting LE/BR/EDR. The CYW20721 employs high integration to reduce external components, thereby minimizing the device's footprint and cost. This kit helps evaluate device functionality and develop applications quickly for faster time-to-market.</summary>
     <prov_capabilities>ble br_edr mesh hid audio ota hal btsdk fw2 CYW920721M2EVK_02 MAX44009EDT</prov_capabilities>
     <description><![CDATA[
         <div class="category">Kit Features:</div><ul>
-        <li>CYW20721B2 dual-mode (Bluetooth LE/BR/EDR) Bluetooth 5.1-compliant wireless MCU packaged into a SiP Module with external 8TR8211C Low Noise Amplifier and Power Amplifier (eLNA/ePA)</li>
+        <li>CYW20721B2 dual-mode (Bluetooth&#174; LE/BR/EDR) Bluetooth&#174; 5.1-compliant wireless MCU packaged into a SiP Module with external 8TR8211C Low Noise Amplifier and Power Amplifier (eLNA/ePA)</li>
         <li>Audio Arduino shield with on-board microphones, audio codec chip, headphone and speaker output</li>
         <li>On-board sensors - an ambient light sensor, thermistor, and footprint for an Infineon digital microphone</li>
         <li>User switches and LEDs</li>
@@ -1204,7 +1339,7 @@
 
         <div class="category">Kit Contents:</div><ul>
         <li>CYW9BTM2BASE1 base board</li>
-        <li>CYW920721M2EPA2 Bluetooth radio card (mounted on the base board)</li>
+        <li>CYW920721M2EPA2 Bluetooth&#174; radio card (mounted on the base board)</li>
         <li>CYW9BT Audio 3 Arduino shield (pre-assembled on top of the CYW9BTM2BASE1)</li>
         <li>USB Standard-A to Micro-B cable</li>
         <li>Power Adapter</li>
@@ -1215,29 +1350,68 @@
     <documentation_url>https://community.cypress.com/docs/DOC-17429</documentation_url>
   </board>
   <board>
-    <id>CYW920739M2EVB-01</id>
-    <category>AIROC Bluetooth BSPs</category>
-    <board_uri>https://github.com/Infineon/TARGET_CYW920739M2EVB-01</board_uri>
+    <id>CYW920721M2EVB-03</id>
+    <category>AIROC&#8482; Bluetooth&#174; BSPs</category>
+    <board_uri>https://github.com/Infineon/TARGET_CYW920721M2EVB-03</board_uri>
     <versions>
-      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app" prefix="wiced_btsdk/dev-kit/bsp">
-        <num>3.1.0 release</num>
-        <commit>release-v3.1.0</commit>
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback mapc opps pbc spp spp_multi_port btsdk_hci_app btsdk_ota_app avsink audio_gateway audio_record handsfree hs_speaker watch anc ans batc bats beacon findme helloc hellos hrc hrs lecoc adc gpio i2c_master uart_raw dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
+        <num>3.2.0 release</num>
+        <commit>release-v3.2.0</commit>
       </version>
-      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app" prefix="wiced_btsdk/dev-kit/bsp">
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback mapc opps pbc spp spp_multi_port btsdk_hci_app btsdk_ota_app avsink audio_gateway audio_record handsfree hs_speaker watch anc ans batc bats beacon findme helloc hellos hrc hrs lecoc adc gpio i2c_master uart_raw dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
         <num>Latest v3.X release</num>
         <commit>latest-v3.X</commit>
       </version>
     </versions>
     <chips>
-      <mcu>CYW20739B2KWB9G</mcu>
-      <radio>CYW20739B2</radio>
+      <mcu>CYW20721B2KWB9G</mcu>
+      <radio>CYW20721B2</radio>
     </chips>
-    <name>CYW920739M2EVB-01</name>
-    <summary>The Infineon CYW920739M2EVB-01 Evaluation Kit enables you to evaluate and develop single-chip Bluetooth applications using the CYW20739, an ultra-low-power dual-mode Bluetooth 5.1 wireless MCU device for audio. The CYW20739 is a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting LE/BR/EDR. The CYW20739 employs high integration to reduce external components, thereby minimizing the device's footprint and cost. This kit helps evaluate device functionality and develop applications quickly for faster time-to-market.</summary>
-    <prov_capabilities>ble br_edr hid audio ota hal btsdk fw2 CYW920739M2EVB_01</prov_capabilities>
+    <name>CYW920721M2EVB-03</name>
+    <summary>The Infineon CYW920721M2EVB-03 Evaluation Kit enables you to evaluate and develop single-chip Bluetooth&#174; applications using the AIROC&#8482; CYW20721 Bluetooth&#174; and Bluetooth&#174; LE system on chip. The CYW20721 is a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting BR/EDR/LE. The CYW20721 employs high integration to reduce external components, thereby minimizing the device's footprint and cost. This kit helps evaluate device functionality and develop applications quickly for faster time-to-market.</summary>
+    <prov_capabilities>ble br_edr mesh hid audio ota hal btsdk fw2 CYW920721M2EVB_03 MAX44009EDT</prov_capabilities>
     <description><![CDATA[
         <div class="category">Kit Features:</div><ul>
-        <li>CYW20739B2 dual-mode (Bluetooth LE/BR/EDR) Bluetooth 5.1-compliant wireless MCU packaged into a SiP Module with external 8TR8211C Low Noise Amplifier and Power Amplifier (eLNA/ePA)</li>
+        <li>CYW20721B2 dual-mode (Bluetooth&#174; LE/BR/EDR) Bluetooth&#174; 5.1-compliant wireless MCU packaged into a 4mm x 4mm SiP Module with external 8TR8211C Low Noise Amplifier and Power Amplifier (eLNA/ePA)</li>
+        <li>On-board sensors - an ambient light sensor, thermistor, and footprint for an Infineon digital microphone</li>
+        <li>User switches and LEDs</li>
+        <li>USB connector for power, programming, and USB-UART bridge</li>
+        </ul><p/>
+
+        <div class="category">Kit Contents:</div><ul>
+        <li>CYW9BTM2BASE1 base board</li>
+        <li>CYW920721M2EPA3 Bluetooth&#174; radio card (mounted on the base board)</li>
+        <li>USB Standard-A to Micro-B cable</li>
+        </ul>
+        </body>
+        </html>
+    ]]></description>
+    <documentation_url>https://community.cypress.com/docs/DOC-17429</documentation_url>
+  </board>
+  <board>
+    <id>CYW930739M2EVB-01</id>
+    <category>AIROC&#8482; Bluetooth&#174; BSPs</category>
+    <board_uri>https://github.com/Infineon/TARGET_CYW930739M2EVB-01</board_uri>
+    <versions>
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app" prefix="wiced_btsdk/dev-kit/bsp">
+        <num>3.2.0 release</num>
+        <commit>release-v3.2.0</commit>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app" prefix="wiced_btsdk/dev-kit/bsp">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+      </version>
+    </versions>
+    <chips>
+      <mcu>CYW30739A0KUMLG</mcu>
+      <radio>CYW30739A0</radio>
+    </chips>
+    <name>CYW930739M2EVB-01</name>
+    <summary>The Infineon CYW930739M2EVB-01 Evaluation Kit enables you to evaluate and develop single-chip Bluetooth&#174; applications using the CYW30739, an ultra-low-power dual-mode Bluetooth&#174; 5.1 wireless MCU device for audio. The CYW30739 is a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting LE/BR/EDR. The CYW30739 employs high integration to reduce external components, thereby minimizing the device's footprint and cost. This kit helps evaluate device functionality and develop applications quickly for faster time-to-market.</summary>
+    <prov_capabilities>ble br_edr hid audio ota hal btsdk fw2 CYW930739M2EVB_01</prov_capabilities>
+    <description><![CDATA[
+        <div class="category">Kit Features:</div><ul>
+        <li>CYW30739A0 dual-mode (Bluetooth&#174; LE/BR/EDR) Bluetooth&#174; 5.1-compliant wireless MCU packaged into a SiP Module with external 8TR8211C Low Noise Amplifier and Power Amplifier (eLNA/ePA)</li>
         <li>Audio Arduino shield with on-board microphones, audio codec chip, headphone and speaker output</li>
         <li>On-board sensors - an ambient light sensor, thermistor, and footprint for an Infineon digital microphone</li>
         <li>User switches and LEDs</li>
@@ -1245,7 +1419,7 @@
         </ul><p/>
         <div class="category">Kit Contents:</div><ul>
         <li>CYW9BTM2BASE1 base board</li>
-        <li>CYW920739M2EPA1 Bluetooth radio card (mounted on the base board)</li>
+        <li>CYW930739M2EPA1 Bluetooth&#174; radio card (mounted on the base board)</li>
         <li>USB Standard-A to Micro-B cable</li>
         <li>Power Adapter</li>
         </ul>
@@ -1256,9 +1430,13 @@
   </board>
   <board>
     <id>CYBT-413061-EVAL</id>
-    <category>AIROC Bluetooth BSPs</category>
+    <category>AIROC&#8482; Bluetooth&#174; BSPs</category>
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYBT-413061-EVAL</board_uri>
     <versions>
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback spp anc ans batc bats beacon helloc hellos hrc hrs lecoc adc gpio puart dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
+        <num>3.2.0 release</num>
+        <commit>release-v3.2.0</commit>
+      </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app hci_loopback spp anc ans batc bats beacon helloc hellos hrc hrs lecoc adc gpio puart dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
         <num>3.1.0 release</num>
         <commit>release-v3.1.0</commit>
@@ -1275,7 +1453,7 @@
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
       </version>
-      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app hci_loopback spp anc ans batc bats beacon helloc hellos hrc hrs lecoc adc gpio puart dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback spp anc ans batc bats beacon helloc hellos hrc hrs lecoc adc gpio puart dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
         <num>Latest v3.X release</num>
         <commit>latest-v3.X</commit>
       </version>
@@ -1289,7 +1467,7 @@
       <radio>CYW20721B2</radio>
     </chips>
     <name>CYBT-413061-EVAL</name>
-    <summary>The Infineon CYBT-413061-EVAL board enables you to evaluate and develop Bluetooth applications using the CYBT-413061-02 module.  The CYBT-413061-02 is a dual-mode Bluetooth BR/EDR and Low Energy (LE) wireless module solution.  The CYBT-413061-02 includes onboard crystal oscillators, passive components, and the Infineon CYW20721B2 silicon device.</summary>
+    <summary>The Infineon CYBT-413061-EVAL board enables you to evaluate and develop Bluetooth&#174; applications using the CYBT-413061-02 module.  The CYBT-413061-02 is a dual-mode Bluetooth&#174; BR/EDR and Low Energy (LE) wireless module solution.  The CYBT-413061-02 includes onboard crystal oscillators, passive components, and the Infineon CYW20721B2 silicon device.</summary>
     <prov_capabilities>ble br_edr mesh hid audio ota hal btsdk fw2 CYBT_413061_EVAL</prov_capabilities>
     <description><![CDATA[
         <div class="category">Kit Features:</div><ul>
@@ -1310,9 +1488,13 @@
   </board>
   <board>
     <id>CYBT-423060-EVAL</id>
-    <category>AIROC Bluetooth BSPs</category>
+    <category>AIROC&#8482; Bluetooth&#174; BSPs</category>
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYBT-423060-EVAL</board_uri>
     <versions>
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback spp anc ans batc bats beacon helloc hellos hrc hrs lecoc adc gpio puart dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
+        <num>3.2.0 release</num>
+        <commit>release-v3.2.0</commit>
+      </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app hci_loopback spp anc ans batc bats beacon helloc hellos hrc hrs lecoc adc gpio puart dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
         <num>3.1.0 release</num>
         <commit>release-v3.1.0</commit>
@@ -1329,7 +1511,7 @@
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
       </version>
-      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app hci_loopback spp anc ans batc bats beacon helloc hellos hrc hrs lecoc adc gpio puart dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback spp anc ans batc bats beacon helloc hellos hrc hrs lecoc adc gpio puart dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
         <num>Latest v3.X release</num>
         <commit>latest-v3.X</commit>
       </version>
@@ -1343,7 +1525,7 @@
       <radio>CYW20721B2</radio>
     </chips>
     <name>CYBT-423060-EVAL</name>
-    <summary>The Infineon CYBT-423060-EVAL board enables you to evaluate and develop Bluetooth applications using the CYBT-423060-02 module.  The CYBT-423060-02 is a dual-mode Bluetooth BR/EDR and Low Energy (LE) wireless module solution.  The CYBT-423060-02 includes onboard crystal oscillators, passive components, and the Infineon CYW20721B2 silicon device.</summary>
+    <summary>The Infineon CYBT-423060-EVAL board enables you to evaluate and develop Bluetooth&#174; applications using the CYBT-423060-02 module.  The CYBT-423060-02 is a dual-mode Bluetooth&#174; BR/EDR and Low Energy (LE) wireless module solution.  The CYBT-423060-02 includes onboard crystal oscillators, passive components, and the Infineon CYW20721B2 silicon device.</summary>
     <prov_capabilities>ble br_edr mesh hid audio ota hal btsdk fw2 CYBT_423060_EVAL</prov_capabilities>
     <description><![CDATA[
         <div class="category">Kit Features:</div><ul>
@@ -1364,9 +1546,13 @@
   </board>
   <board>
     <id>CYBT-483062-EVAL</id>
-    <category>AIROC Bluetooth BSPs</category>
+    <category>AIROC&#8482; Bluetooth&#174; BSPs</category>
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYBT-483062-EVAL</board_uri>
     <versions>
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback spp anc ans batc bats beacon helloc hellos hrc hrs lecoc adc gpio puart dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
+        <num>3.2.0 release</num>
+        <commit>release-v3.2.0</commit>
+      </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app hci_loopback spp anc ans batc bats beacon helloc hellos hrc hrs lecoc adc gpio puart dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
         <num>3.1.0 release</num>
         <commit>release-v3.1.0</commit>
@@ -1383,7 +1569,7 @@
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
       </version>
-      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app hci_loopback spp anc ans batc bats beacon helloc hellos hrc hrs lecoc adc gpio puart dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback spp anc ans batc bats beacon helloc hellos hrc hrs lecoc adc gpio puart dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
         <num>Latest v3.X release</num>
         <commit>latest-v3.X</commit>
       </version>
@@ -1397,7 +1583,7 @@
       <radio>CYW20721B2</radio>
     </chips>
     <name>CYBT-483062-EVAL</name>
-    <summary>The Infineon CYBT-483062-EVAL board enables you to evaluate and develop Bluetooth applications using the CYBT-483062-02 module.  The CYBT-483062-02 is a dual-mode Bluetooth BR/EDR and Low Energy (LE) wireless module solution.  The CYBT-483062-02 includes onboard crystal oscillators, passive components, PA/LNA, and the Infineon CYW20721B2 silicon device.</summary>
+    <summary>The Infineon CYBT-483062-EVAL board enables you to evaluate and develop Bluetooth&#174; applications using the CYBT-483062-02 module.  The CYBT-483062-02 is a dual-mode Bluetooth&#174; BR/EDR and Low Energy (LE) wireless module solution.  The CYBT-483062-02 includes onboard crystal oscillators, passive components, PA/LNA, and the Infineon CYW20721B2 silicon device.</summary>
     <prov_capabilities>ble br_edr mesh hid audio ota hal btsdk fw2 CYBT_483062_EVAL</prov_capabilities>
     <description><![CDATA[
         <div class="category">Kit Features:</div><ul>
@@ -1418,9 +1604,13 @@
   </board>
   <board>
     <id>CYW920735Q60EVB-01</id>
-    <category>AIROC Bluetooth BSPs</category>
+    <category>AIROC&#8482; Bluetooth&#174; BSPs</category>
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYW920735Q60EVB-01</board_uri>
     <versions>
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback spp btsdk_hci_app btsdk_ota_app anc ans batc bats beacon helloc hellos hrs hrc adc gpio i2c_master puart pwm ble_mouse ble_remote keyboard dimmer light_dimmable on_off_switch mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
+        <num>3.2.0 release</num>
+        <commit>release-v3.2.0</commit>
+      </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app hci_loopback spp btsdk_hci_app btsdk_ota_app anc ans batc bats beacon helloc hellos hrs hrc adc gpio i2c_master puart pwm ble_mouse ble_remote keyboard dimmer light_dimmable on_off_switch mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
         <num>3.1.0 release</num>
         <commit>release-v3.1.0</commit>
@@ -1437,7 +1627,7 @@
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
       </version>
-      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app hci_loopback spp btsdk_hci_app btsdk_ota_app anc ans batc bats beacon helloc hellos hrs hrc adc gpio i2c_master puart pwm ble_mouse ble_remote keyboard dimmer light_dimmable on_off_switch mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback spp btsdk_hci_app btsdk_ota_app anc ans batc bats beacon helloc hellos hrs hrc adc gpio i2c_master puart pwm ble_mouse ble_remote keyboard dimmer light_dimmable on_off_switch mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
         <num>Latest v3.X release</num>
         <commit>latest-v3.X</commit>
       </version>
@@ -1451,11 +1641,11 @@
       <radio>CYW20735B1</radio>
     </chips>
     <name>CYW920735Q60EVB-01</name>
-    <summary>The Infineon CYW920735Q60EVB-01 Evaluation Kit enables you to evaluate and develop single-chip Bluetooth applications using the CYW20735, an ultra-low-power dual-mode Bluetooth 5.0 wireless MCU device. The CYW20735 is a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting BR and LE. EDR is not supported. The CYW20735 employs high integration to reduce external components, thereby minimizing the device's footprint and cost. The device includes several on-chip peripherals including a hardware key scanner, PWMs, and an ADC. The device also includes an analog microphone interface that provides a low-cost solution for voice-enabled remotes as well as Internet of Things (IoT) gadgets and toys. This kit helps evaluate device functionality and develop applications quickly for faster time-to-market.</summary>
-    <prov_capabilities>ble br_edr mesh hid audio ota hal btsdk fw2 led2x CYW920735Q60EVB_01 lsm9ds1 ncu15wf104</prov_capabilities>
+    <summary>The Infineon CYW920735Q60EVB-01 Evaluation Kit enables you to evaluate and develop single-chip Bluetooth&#174; applications using the CYW20735, an ultra-low-power dual-mode Bluetooth&#174; 5.0 wireless MCU device. The CYW20735 is a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting BR and LE. EDR is not supported. The CYW20735 employs high integration to reduce external components, thereby minimizing the device's footprint and cost. The device includes several on-chip peripherals including a hardware key scanner, PWMs, and an ADC. The device also includes an analog microphone interface that provides a low-cost solution for voice-enabled remotes as well as Internet of Things (IoT) gadgets and toys. This kit helps evaluate device functionality and develop applications quickly for faster time-to-market.</summary>
+    <prov_capabilities>ble br_edr mesh hid audio ota hal btsdk fw2 led2x CYW920735Q60EVB_01 lsm9ds1 ncu15wf104 button</prov_capabilities>
     <description><![CDATA[
         <div class="category">Kit Features:</div><ul>
-        <li>CYW20735 is a monolithic, single chip, Bluetooth dual-mode System-on-a-Chip (SoC) that includes a baseband processor, an ARM&#174; Cortex&#8482;-M4 processor, and an integrated transceiver.</li>
+        <li>CYW20735 is a monolithic, single chip, Bluetooth&#174; dual-mode System-on-a-Chip (SoC) that includes a baseband processor, an Arm&#174; Cortex&#174;-M4 processor, and an integrated transceiver.</li>
         <li>The Infineon CYW920735Q60EVB-01 board is an evaluation board that provides various pins, jumpers, switches, ports, and test points to access CYW20735 to perform debug, evaluation, and troubleshooting.</li>
         </ul><p/>
         </body>
@@ -1465,14 +1655,18 @@
   </board>
   <board>
     <id>CYW920736M2EVB-01</id>
-    <category>AIROC Bluetooth BSPs</category>
+    <category>AIROC&#8482; Bluetooth&#174; BSPs</category>
     <board_uri>https://github.com/Infineon/TARGET_CYW920736M2EVB-01</board_uri>
     <versions>
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 wiced_btsdk_tools hellos20736 helloc20736 ibeacon20736 mybeacon20736 btsdk_ota_app_20736  spimaster20736 spislave20736 pwm20736 rtc20736 glucose20736 heart20736 proximity20736 proximityclient20736" prefix="wiced_btsdk/dev-kit/bsp">
+        <num>3.2.0 release</num>
+        <commit>release-v3.2.0</commit>
+      </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 wiced_btsdk_tools hellos20736 helloc20736 ibeacon20736 mybeacon20736 btsdk_ota_app_20736  spimaster20736 spislave20736 pwm20736 rtc20736" prefix="wiced_btsdk/dev-kit/bsp">
         <num>3.1.0 release</num>
         <commit>release-v3.1.0</commit>
       </version>
-      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 wiced_btsdk_tools hellos20736 helloc20736 ibeacon20736 mybeacon20736 btsdk_ota_app_20736  spimaster20736 spislave20736 pwm20736 rtc20736" prefix="wiced_btsdk/dev-kit/bsp">
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 wiced_btsdk_tools hellos20736 helloc20736 ibeacon20736 mybeacon20736 btsdk_ota_app_20736  spimaster20736 spislave20736 pwm20736 rtc20736 glucose20736 heart20736 proximity20736 proximityclient20736" prefix="wiced_btsdk/dev-kit/bsp">
         <num>Latest v3.X release</num>
         <commit>latest-v3.X</commit>
       </version>
@@ -1482,18 +1676,18 @@
       <radio>CYW20736A1</radio>
     </chips>
     <name>CYW920736M2EVB-01</name>
-    <summary>The Infineon CYW920736M2EVB-01 Evaluation kit enables you to evaluate and develop single-chip Bluetooth&#174; Low Energy applications using the AIROC&#8482; CYW20736 Bluetooth Low Energy SoC. The CYW20736 is a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting Bluetooth LE and core spec compliant to 5.2. The CYW20736 employs high integration to reduce external components, thereby minimizing the device's footprint and cost. This kit helps evaluate device functionality and develop remote applications quickly for faster time-to-market.</summary>
+    <summary>The Infineon CYW920736M2EVB-01 Evaluation kit enables you to evaluate and develop single-chip Bluetooth&#174; Low Energy applications using the AIROC&#8482; CYW20736 Bluetooth&#174; Low Energy SoC. The CYW20736 is a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting Bluetooth&#174; LE and core spec compliant to 5.2. The CYW20736 employs high integration to reduce external components, thereby minimizing the device's footprint and cost. This kit helps evaluate device functionality and develop remote applications quickly for faster time-to-market.</summary>
     <prov_capabilities>ble ota hal btsdk</prov_capabilities>
     <description><![CDATA[
         <div class="category">Kit Features:</div><ul>
-        <li>32-QFN AIROC&#8482; CYW20736 Bluetooth Low Energy 5.2-compliant SoC</li>
+        <li>32-QFN AIROC&#8482; CYW20736 Bluetooth&#174; Low Energy 5.2-compliant SoC</li>
         <li>On-board sensors - an ambient light sensor and thermistor</li>
         <li>User switches and LEDs</li>
         <li>USB connector for power, programming, and USB-UART bridge</li>
         </ul><p/>
         <div class="category">Kit Contents:</div><ul>
         <li>CYW920736M2EVB-01 Evaluation board</li>
-        <li>CYW920736M2IPA1 Bluetooth radio card (pre-assembled on base board M.2 connector)</li>
+        <li>CYW920736M2IPA1 Bluetooth&#174; radio card (pre-assembled on base board M.2 connector)</li>
         <li>USB Standard-A to Micro-B cable</li>
         <li>Power Adapter</li>
         </ul>
@@ -1504,9 +1698,13 @@
   </board>
   <board>
     <id>CYBT-343052-EVAL</id>
-    <category>AIROC Bluetooth BSPs</category>
+    <category>AIROC&#8482; Bluetooth&#174; BSPs</category>
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYBT-343052-EVAL</board_uri>
     <versions>
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app spp btsdk_ota_app anc ans batc bats beacon helloc hellos hrs hrc adc gpio i2c_master puart pwm dimmer light_dimmable on_off_switch mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
+        <num>3.2.0 release</num>
+        <commit>release-v3.2.0</commit>
+      </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app spp btsdk_ota_app anc ans batc bats beacon helloc hellos hrs hrc adc gpio i2c_master puart pwm dimmer light_dimmable on_off_switch mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
         <num>3.1.0 release</num>
         <commit>release-v3.1.0</commit>
@@ -1515,7 +1713,7 @@
         <num>3.0.0 release</num>
         <commit>release-v3.0.0</commit>
       </version>
-      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app spp btsdk_ota_app anc ans batc bats beacon helloc hellos hrs hrc adc gpio i2c_master puart pwm dimmer light_dimmable on_off_switch mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app spp btsdk_ota_app anc ans batc bats beacon helloc hellos hrs hrc adc gpio i2c_master puart pwm dimmer light_dimmable on_off_switch mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
         <num>Latest v3.X release</num>
         <commit>latest-v3.X</commit>
       </version>
@@ -1525,7 +1723,7 @@
       <radio>CYW20735B1</radio>
     </chips>
     <name>CYBT-343052-EVAL</name>
-    <summary>The Infineon CYBT-343052-EVAL board enables you to evaluate and develop Bluetooth applications using the CYBT-343052-02 module.  The CYBT-343052-02 is a dual-mode Bluetooth BR/EDR and Low Energy (LE) wireless module solution.  The CYBT-343052-02 includes onboard crystal oscillators, passive components, and the Infineon CYW20735B1 silicon device.</summary>
+    <summary>The Infineon CYBT-343052-EVAL board enables you to evaluate and develop Bluetooth&#174; applications using the CYBT-343052-02 module.  The CYBT-343052-02 is a dual-mode Bluetooth&#174; BR/EDR and Low Energy (LE) wireless module solution.  The CYBT-343052-02 includes onboard crystal oscillators, passive components, and the Infineon CYW20735B1 silicon device.</summary>
     <prov_capabilities>ble br_edr mesh hid audio ota hal btsdk fw2 CYBT_343052_EVAL</prov_capabilities>
     <description><![CDATA[
         <div class="category">Kit Features:</div><ul>
@@ -1545,9 +1743,13 @@
   </board>
   <board>
     <id>CYW920835REF-RCU-01</id>
-    <category>AIROC Bluetooth BSPs</category>
+    <category>AIROC&#8482; Bluetooth&#174; BSPs</category>
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYW920835REF-RCU-01</board_uri>
     <versions>
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback ble_rcu" prefix="wiced_btsdk/dev-kit/bsp">
+        <num>3.2.0 release</num>
+        <commit>release-v3.2.0</commit>
+      </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app hci_loopback ble_rcu" prefix="wiced_btsdk/dev-kit/bsp">
         <num>3.1.0 release</num>
         <commit>release-v3.1.0</commit>
@@ -1564,7 +1766,7 @@
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
       </version>
-      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app hci_loopback ble_rcu" prefix="wiced_btsdk/dev-kit/bsp">
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback ble_rcu" prefix="wiced_btsdk/dev-kit/bsp">
         <num>Latest v3.X release</num>
         <commit>latest-v3.X</commit>
       </version>
@@ -1578,11 +1780,11 @@
       <radio>CYW20835B1</radio>
     </chips>
     <name>CYW920835REF-RCU-01</name>
-    <summary>The Infineon CYW920835REF-RCU-01 Reference remote enables you to evaluate and develop single-chip Bluetooth Low Energy remote device applications using the CYW20835, an ultra-low-power Bluetooth Low Energy 5.2 wireless MCU device. The CYW20835 is a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting LE. The CYW20835 employs high integration to reduce external components, thereby minimizing the device's footprint and cost. This kit helps evaluate device functionality and develop remote applications quickly for faster time-to-market.</summary>
+    <summary>The Infineon CYW920835REF-RCU-01 Reference remote enables you to evaluate and develop single-chip Bluetooth&#174; Low Energy remote device applications using the CYW20835, an ultra-low-power Bluetooth&#174; Low Energy 5.2 wireless MCU device. The CYW20835 is a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting LE. The CYW20835 employs high integration to reduce external components, thereby minimizing the device's footprint and cost. This kit helps evaluate device functionality and develop remote applications quickly for faster time-to-market.</summary>
     <prov_capabilities>ble hid audio ota hal btsdk fw2 CYW920835REF_RCU_01</prov_capabilities>
     <description><![CDATA[
         <div class="category">Kit Features:</div><ul>
-        <li>60-QFN CYW20835B1 Bluetooth Low Energy 5.2-compliant wireless MCU</li>
+        <li>60-QFN CYW20835B1 Bluetooth&#174; Low Energy 5.2-compliant wireless MCU</li>
         <li>Reference remote hardware</li>
         <li>Analog microphone</li>
         <li>16 buttons: Power, Voice, Up, Down, Left, Right, Select, Back, Home, Menu, Rewind, Play/Pause, Fast Forward, VOL+, VOL-, Mute</li>
@@ -1596,9 +1798,13 @@
   </board>
   <board>
     <id>CYW920835M2EVB-01</id>
-    <category>AIROC Bluetooth BSPs</category>
+    <category>AIROC&#8482; Bluetooth&#174; BSPs</category>
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYW920835M2EVB-01</board_uri>
     <versions>
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback btsdk_hci_app btsdk_ota_app anc ans batc bats beacon helloc hellos hrs hrc adc gpio i2c_master pwm ble_mouse ble_remote dimmer light_dimmable on_off_switch mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
+        <num>3.2.0 release</num>
+        <commit>release-v3.2.0</commit>
+      </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app hci_loopback btsdk_hci_app btsdk_ota_app anc ans batc bats beacon helloc hellos hrs hrc adc gpio i2c_master pwm ble_mouse ble_remote dimmer light_dimmable on_off_switch mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
         <num>3.1.0 release</num>
         <commit>release-v3.1.0</commit>
@@ -1607,7 +1813,7 @@
         <num>3.0.0 release</num>
         <commit>release-v3.0.0</commit>
       </version>
-      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app hci_loopback btsdk_hci_app btsdk_ota_app anc ans batc bats beacon helloc hellos hrs hrc adc gpio i2c_master pwm ble_mouse ble_remote dimmer light_dimmable on_off_switch mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback btsdk_hci_app btsdk_ota_app anc ans batc bats beacon helloc hellos hrs hrc adc gpio i2c_master pwm ble_mouse ble_remote dimmer light_dimmable on_off_switch mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
         <num>Latest v3.X release</num>
         <commit>latest-v3.X</commit>
       </version>
@@ -1617,11 +1823,11 @@
       <radio>CYW20835B1</radio>
     </chips>
     <name>CYW920835M2EVB-01</name>
-    <summary>The Infineon CYW920835M2EVB-01 Evaluation kit enables you to evaluate and develop single-chip Bluetooth Low Energy applications using the CYW20835, an ultra-low-power Bluetooth LE 5.2 wireless MCU device. The CYW20835 is a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting Bluetooth Low Energy. The CYW20835 employs high integration to reduce external components, thereby minimizing the device's footprint and cost. This kit helps evaluate device functionality and develop applications quickly for faster time-to-market.</summary>
+    <summary>The Infineon CYW920835M2EVB-01 Evaluation kit enables you to evaluate and develop single-chip Bluetooth&#174; Low Energy applications using the CYW20835, an ultra-low-power Bluetooth&#174; LE 5.2 wireless MCU device. The CYW20835 is a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting Bluetooth&#174; Low Energy. The CYW20835 employs high integration to reduce external components, thereby minimizing the device's footprint and cost. This kit helps evaluate device functionality and develop applications quickly for faster time-to-market.</summary>
     <prov_capabilities>ble mesh hid audio ota hal btsdk fw2 led2x CYW920835M2EVB_01 ncu15wf104 button MAX44009EDT</prov_capabilities>
     <description><![CDATA[
         <div class="category">Kit Features:</div><ul>
-        <li>60-QFN CYW20835B1 Bluetooth Low Energy 5.2-compliant wireless MCU</li>
+        <li>60-QFN CYW20835B1 Bluetooth&#174; Low Energy 5.2-compliant wireless MCU</li>
         <li>On-board sensors - an ambient light sensor, thermistor, footprint for analog microphone, and footprint for Infineon digital microphone</li>
         <li>User switches and LEDs</li>
         <li>USB connector for power, programming, and USB-UART bridge</li>
@@ -1629,7 +1835,7 @@
 
         <div class="category">Kit Contents:</div><ul>
         <li>CYW9BTM2BASE1 base board</li>
-        <li>CYW920835M2IPA1 Bluetooth radio card (pre-assembled on base board M.2 connector)</li>
+        <li>CYW920835M2IPA1 Bluetooth&#174; radio card (pre-assembled on base board M.2 connector)</li>
         <li>USB Standard-A to Micro-B cable</li>
         <li>Power Adapter</li>
         </ul>
@@ -1639,15 +1845,60 @@
     <documentation_url>https://www.cypress.com/products/ble-bluetooth</documentation_url>
   </board>
   <board>
+    <id>CYW955572BTEVK-01</id>
+    <category>AIROC&#8482; Bluetooth&#174; BSPs</category>
+    <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYW955572BTEVK-01</board_uri>
+    <versions>
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app spp bats batc beacon findme helloc hellos gpio avsink handsfree hs_speaker watch" prefix="wiced_btsdk/dev-kit/bsp">
+        <num>3.2.0 release</num>
+        <commit>release-v3.2.0</commit>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app spp bats batc beacon findme helloc hellos gpio avsink handsfree hs_speaker watch" prefix="wiced_btsdk/dev-kit/bsp">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+      </version>
+    </versions>
+    <chips>
+      <mcu>CYW55572MIFFBGT</mcu>
+      <radio>CYW955572A1</radio>
+    </chips>
+    <name>CYW955572BTEVK-01</name>
+    <summary>The Infineon CYW955572BTEVK-01 Evaluation Kit enables you to evaluate and develop Bluetooth&#174; applications using the AIROC&#8482; CYW55572 high-performance Wi-Fi 6/6E (11ax) and Bluetooth&#174; combo. The CYW5557x product family includes an integrated Bluetooth&#174; subsystem with Arm&#174; Cortex&#174;-M33 supporting BR/EDR/Bluetooth&#174; and isochronous channels for LE audio. This kit helps evaluate, develop, and debug embdedded Bluetooth&#174; applications quickly for faster time-to-market.</summary>
+    <prov_capabilities>ble br_edr hid audio hal btsdk btstack30 button CYW955572BTEVK_01</prov_capabilities>
+    <description><![CDATA[
+        <div class="category">Kit Features:</div><ul>
+        <li>AIROC&#8482; CYW55572 Wi-Fi 6 (11ax) + Bluetooth&#174; combo chip</li>
+        <li>Audio Arduino shield with on-board analog microphones, audio codec chip, headphone, and speaker output</li>
+        <li>On-board sensors - an ambient light sensor, thermistor, and footprint for an Infineon digital microphone</li>
+        <li>USB connector for power, programming, and USB-UART bridge</li>
+        </ul><p/>
+
+        <div class="category">Kit Contents:</div><ul>
+        <li>CYW9BTM2BASE1 base board</li>
+        <li>CYW955572M2BT1LV radio card (mounted on the base board)</li>
+        <li>CYW9BT Audio 3 Arduino shield</li>
+        <li>USB Standard-A to Micro-B cable</li>
+        <li>Power Adapter</li>
+        </ul>
+        </body>
+        </html>
+    ]]></description>
+    <documentation_url>https://www.cypress.com/products/cyw5557x</documentation_url>
+  </board>
+  <board>
     <id>CYBLE-343072-EVAL-M2B</id>
-    <category>AIROC Bluetooth BSPs</category>
+    <category>AIROC&#8482; Bluetooth&#174; BSPs</category>
     <board_uri>https://github.com/Infineon/TARGET_CYBLE-343072-EVAL-M2B</board_uri>
     <versions>
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback btsdk_hci_app btsdk_ota_app anc ans batc bats beacon helloc hellos hrs hrc adc gpio i2c_master pwm ble_mouse ble_remote dimmer light_dimmable on_off_switch mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
+        <num>3.2.0 release</num>
+        <commit>release-v3.2.0</commit>
+      </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app hci_loopback btsdk_hci_app btsdk_ota_app anc ans batc bats beacon helloc hellos hrs hrc adc gpio i2c_master pwm ble_mouse ble_remote dimmer light_dimmable on_off_switch mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
         <num>3.1.0 release</num>
         <commit>release-v3.1.0</commit>
       </version>
-      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app hci_loopback btsdk_hci_app btsdk_ota_app anc ans batc bats beacon helloc hellos hrs hrc adc gpio i2c_master pwm ble_mouse ble_remote dimmer light_dimmable on_off_switch mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback btsdk_hci_app btsdk_ota_app anc ans batc bats beacon helloc hellos hrs hrc adc gpio i2c_master pwm ble_mouse ble_remote dimmer light_dimmable on_off_switch mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
         <num>Latest v3.X release</num>
         <commit>latest-v3.X</commit>
       </version>
@@ -1657,16 +1908,26 @@
       <radio>CYW20835B1</radio>
     </chips>
     <name>CYBLE-343072-EVAL-M2B</name>
-    <summary>The Infineon CYBLE-343072-EVAL-M2B Evaluation kit enables you to evaluate and develop single-chip Bluetooth Low Energy applications using the EZ-BLE Module CYBLE-343072-02, an ultra-low-power Bluetooth LE 5.2 wireless MCU device. The CYBLE-343072-02 includes onboard crystal oscillators, passive components, and the Infineon CYW20835B1 silicon device.</summary>
+    <summary>The Infineon AIROC&#8482; CYW20835 Bluetooth&#174; LE 5.2 Module Evaluation Kit (CYBLE-343072-EVAL-M2B) enables evaluation, prototyping, and development of a wide array of IoT applications using the AIROC&#8482; CYW20835, an ultra-low-power Bluetooth&#174; LE 5.2 system on a chip.</summary>
     <prov_capabilities>ble mesh hid audio ota hal btsdk fw2 led2x CYBLE_343072_EVAL_M2B ncu15wf104 button MAX44009EDT</prov_capabilities>
     <description><![CDATA[
+    <br>
+            The AIROC&#8482; CYW20835 Bluetooth&#174; LE system on chip provides reliable Bluetooth&#174; LE connectivity, core spec compliant to 5.2, along with high-performance compute capability integrating an Arm&#174; Cortex&#174;-M4 processor with floating point unit. It is a highly integrated device integrating multiple serial interfaces, PWMs, analog and digital microphone interfaces, and more. The AIROC&#8482; CYW20835 is designed to support the entire spectrum of Bluetooth&#174; Low Energy use cases for home automation, lighting, accessory, HID, medical, industrial, and sensor nodes as well as being fully Bluetooth&#174; mesh compliant. This Evaluation Kit (CYBLE-343072-EVAL-M2B) includes an Infineon in-house AIROC&#8482; Bluetooth&#174; module hosting the AIROC&#8482; CYW20835 that is globally certified and has PCB antenna integrated, rapidly reducing time-to-market.
+    <br>
+    <br>
+            The AIROC&#8482; CYW20835 Bluetooth&#174; LE 5.2 Module Evaluation Kit (CYBLE-343072-EVAL-M2B) is supported in the AIROC&#8482; Bluetooth&#174; SDK within ModusToolbox&#8482; Software and Tools with copious code examples and documentation enablement for Bluetooth&#174; LE data transfer, HID and Bluetooth&#174; mesh use cases.
+    <br>
         <div class="category">Kit Features:</div><ul>
-        <li>CYW20835-based ultra-low-power Bluetooth 5.2-compliant fully certified module (CYBLE-343072-02)</li>
-        <li>FCC, ISED, MIC, and CE Certified Module on board (CYBLE-343072-02)</li>
-        <li>Combined with CYW9BTM2BASE1 for Arduino compatible headers, ambient light sensor, thermistor, footprint for analog microphone, footprint for Infineon, digital microphone, user switches and LEDs, and a USB connector for power, programming, and USB-UART bridge</li>
+        <li>AIROC&#8482; CYW20835 Bluetooth&#174; LE 5.2 Module (CYBLE-343072-02) with integrated PCB antenna</li>
+        <li>Arduino compatible headers for hardware expansion</li>
+        <li>On-board sensors - an ambient light sensor, thermistor, footprint for analog microphone, and footprint for Infineon digital microphone</li>
+        <li>User switches and LEDs</li>
+        <li>USB connector for power, programming, and USB-UART bridge</li>
         </ul><p/>
         <div class="category">Kit Contents:</div><ul>
-        <li>CYBLE-343072-EVAL-M2B Bluetooth Evaluation Board</li>
+        <li>Baseboard - CYW9BTM2BASE1</li>
+        <li>CYBLE-343072-EVAL-M2B Bluetooth&#174; Module Evaluation Board (mounted onto baseboard)</li>
+        <li>USB Standard-A to Micro-B cable</li>
         </ul>
         </body>
         </html>
@@ -1675,14 +1936,18 @@
   </board>
   <board>
     <id>CYBLE-333074-EVAL-M2B</id>
-    <category>AIROC Bluetooth BSPs</category>
+    <category>AIROC&#8482; Bluetooth&#174; BSPs</category>
     <board_uri>https://github.com/Infineon/TARGET_CYBLE-333074-EVAL-M2B</board_uri>
     <versions>
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback btsdk_hci_app btsdk_ota_app anc ans batc bats beacon helloc hellos hrs hrc adc gpio i2c_master pwm ble_mouse ble_remote dimmer light_dimmable on_off_switch mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
+        <num>3.2.0 release</num>
+        <commit>release-v3.2.0</commit>
+      </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app hci_loopback btsdk_hci_app btsdk_ota_app anc ans batc bats beacon helloc hellos hrs hrc adc gpio i2c_master pwm ble_mouse ble_remote dimmer light_dimmable on_off_switch mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
         <num>3.1.0 release</num>
         <commit>release-v3.1.0</commit>
       </version>
-      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app hci_loopback btsdk_hci_app btsdk_ota_app anc ans batc bats beacon helloc hellos hrs hrc adc gpio i2c_master pwm ble_mouse ble_remote dimmer light_dimmable on_off_switch mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback btsdk_hci_app btsdk_ota_app anc ans batc bats beacon helloc hellos hrs hrc adc gpio i2c_master pwm ble_mouse ble_remote dimmer light_dimmable on_off_switch mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
         <num>Latest v3.X release</num>
         <commit>latest-v3.X</commit>
       </version>
@@ -1692,16 +1957,70 @@
       <radio>CYW20835B1</radio>
     </chips>
     <name>CYBLE-333074-EVAL-M2B</name>
-    <summary>The Infineon CYBLE-333074-EVAL-M2B Evaluation kit enables you to evaluate and develop single-chip Bluetooth Low Energy applications using the EZ-BLE Module CYBLE-333074-02, an ultra-low-power Bluetooth LE 5.2 wireless MCU device. The CYBLE-333074-02 includes onboard crystal oscillators, passive components, and the Infineon CYW20835B1 silicon device.</summary>
+    <summary>The Infineon AIROC&#8482; CYW20835 Bluetooth&#174; LE 5.2 Module Evaluation Kit (CYBLE-333074-EVAL-M2B) enables evaluation, prototyping, and development of a wide array of IoT applications using the AIROC&#8482; CYW20835, an ultra-low-power Bluetooth&#174; LE 5.2 system on a chip.</summary>
     <prov_capabilities>ble mesh hid audio ota hal btsdk fw2 led2x CYBLE_333074_EVAL_M2B ncu15wf104 button MAX44009EDT</prov_capabilities>
     <description><![CDATA[
+    <br>
+            The AIROC&#8482; CYW20835 Bluetooth&#174; LE system on chip provides reliable Bluetooth&#174; LE connectivity, core spec compliant to 5.2, along with high-performance compute capability integrating an Arm&#174; Cortex&#174;-M4 processor with floating point unit. It is a highly integrated device integrating multiple serial interfaces, PWMs, analog and digital microphone interfaces, and more. The AIROC&#8482; CYW20835 is designed to support the entire spectrum of Bluetooth&#174; Low Energy use cases for home automation, lighting, accessory, HID, medical, industrial, and sensor nodes as well as being fully Bluetooth&#174; mesh compliant. This evaluation kit (CYBLE-333074-EVAL-M2B) includes an Infineon in-house AIROC&#8482; Bluetooth&#174; module hosting the AIROC&#8482; CYW20835 that is globally certified and has uFL connector for external antenna, rapidly reducing time-to-market.
+    <br>
+    <br>
+            The AIROC&#8482; CYW20835 Bluetooth&#174; LE 5.2 Module Evaluation Kit (CYBLE-333074-EVAL-M2B) is supported in the AIROC&#8482; Bluetooth&#174; SDK within ModusToolbox&#8482; Software and Tools with copious code examples and documentation enablement for Bluetooth&#174; LE data transfer, HID and Bluetooth&#174; mesh use cases.
+    <br>
         <div class="category">Kit Features:</div><ul>
-        <li>CYW20835-based single mode Bluetooth 5.2-compliant fully certified module with uFL connector for external antenna (CYBLE-333074-02)</li>
-        <li>FCC, ISED, MIC, and CE Certified Module on board (CYBLE-333074-02)</li>
-        <li>Combined with CYW9BTM2BASE1 for Arduino compatible headers, ambient light sensor, thermistor, footprint for analog microphone, footprint for Infineon, digital microphone, user switches and LEDs, and a USB connector for power, programming, and USB-UART bridge</li>
+        <li>AIROC&#8482; CYW20835 Bluetooth&#174; LE 5.2 Module (CYBLE-333074-02) with uFL connector for external antenna</li>
+        <li>Arduino compatible headers for hardware expansion</li>
+        <li>On-board sensors - an ambient light sensor, thermistor, footprint for analog microphone, and footprint for Infineon digital microphone</li>
+        <li>User switches and LEDs</li>
+        <li>USB connector for power, programming, and USB-UART bridge</li>
         </ul><p/>
         <div class="category">Kit Contents:</div><ul>
-        <li>CYBLE-333074-EVAL-M2B Bluetooth Evaluation Board</li>
+        <li>Baseboard - CYW9BTM2BASE1</li>
+        <li>CYBLE-333074-EVAL Bluetooth&#174; Module Evaluation Board (mounted onto baseboard)</li>
+        <li>USB Standard-A to Micro-B cable</li>
+        </ul>
+        </body>
+        </html>
+    ]]></description>
+    <documentation_url>https://www.cypress.com/products/airoc-bluetooth-le-bluetooth</documentation_url>
+  </board>
+  <board>
+    <id>CYBLE-343072-MESH</id>
+    <category>AIROC&#8482; Bluetooth&#174; BSPs</category>
+    <board_uri>https://github.com/Infineon/TARGET_CYBLE-343072-MESH</board_uri>
+    <versions>
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app hci_loopback btsdk_hci_app btsdk_ota_app color_light dimmer dimmer_self_config light_dimmable light_smart low_power_led on_off_switch sensor_motion mesh_sensor_temperature mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
+        <num>3.2.0 release</num>
+        <commit>release-v3.2.0</commit>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app hci_loopback btsdk_hci_app btsdk_ota_app color_light dimmer dimmer_self_config light_dimmable light_smart low_power_led on_off_switch sensor_motion mesh_sensor_temperature mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
+        <num>Latest v3.X release</num>
+        <commit>latest-v3.X</commit>
+      </version>
+    </versions>
+    <chips>
+      <mcu>CYBLE-343072-02</mcu>
+      <radio>CYW20835B1</radio>
+    </chips>
+    <name>CYBLE-343072-MESH</name>
+    <summary>The Infineon AIROC&#8482; CYW20835 Bluetooth&#174; LE 5.2 mesh evaluation kit (CYBLE-343072-MESH) enables evaluation, prototyping, and development of Bluetooth&#174; mesh applications using the AIROC&#8482; CYW20835, an ultra-low-power Bluetooth&#174; LE 5.2 system on chip.</summary>
+    <prov_capabilities>btstack10 ble mesh hid ota hal btsdk fw2 led2x CYBLE_343072_MESH ncp15xv103 button MAX44009EDT</prov_capabilities>
+    <description><![CDATA[
+    <br>
+            The AIROC&#8482; CYW20835 Bluetooth&#174; LE system on chip provides reliable Bluetooth&#174; LE connectivity, core spec compliant to 5.2, along with high-performance compute capability integrating an Arm&#174; Cortex&#174;-M4 processor with floating point unit. It is a highly integrated device integrating multiple serial interfaces, PWMs, analog and digital microphone interfaces, and more. This evaluation kit (CYBLE-343072-MESH) includes an Infineon in-house AIROC&#8482; Bluetooth&#174; module hosting the AIROC&#8482; CYW20835 that is globally certified and has PCB antenna integrated, rapidly reducing time-to-market.
+    <br>
+    <br>
+            The AIROC&#8482; CYW20835 Bluetooth&#174; LE 5.2 mesh evaluation kit (CYBLE-343072-MESH) is supported in the AIROC&#8482; Bluetooth&#174; SDK within ModusToolbox&#8482; Software and Tools with copious code examples and documentation enablement for Bluetooth&#174; mesh use cases.
+    <br>
+        <div class="category">Kit Features:</div><ul>
+        <li>AIROC&#8482; CYW20835 Bluetooth&#174; LE 5.2 Module (CYBLE-343072-02) with integrated PCB antenna</li>
+        <li>On-board sensors - an ambient light sensor, thermistor, and PIR motion sensor</li>
+        <li>User switches and LEDs</li>
+        <li>USB connector for power, programming, and USB-UART bridge</li>
+        </ul><p/>
+        <div class="category">Kit Contents:</div><ul>
+        <li>4x Mesh evaluation boards with CYBLE-343072-02</li>
+        <li>4x USB Standard-A to Micro-B cables</li>
+        <li>Quick Start Guide</li>
         </ul>
         </body>
         </html>
