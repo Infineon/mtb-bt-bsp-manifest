@@ -766,53 +766,6 @@
     <documentation_url>https://www.infineon.com/cms/en/product/evaluation-boards/cybt-343026-eval/</documentation_url>
   </board>
   <board>
-    <id>CYW920735Q60EVB-01</id>
-    <category>AIROC&#8482; Bluetooth&#174; BSPs</category>
-    <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYW920735Q60EVB-01</board_uri>
-    <versions>
-      <version tools_max_version="2.1.0" flow_version="1.0" prov_capabilities_per_version="bsp_gen1">
-        <num>2.7.1 release</num>
-        <commit>release-v2.7.1</commit>
-      </version>
-      <version tools_max_version="2.1.0" flow_version="1.0" prov_capabilities_per_version="bsp_gen1">
-        <num>2.7.0 release</num>
-        <commit>release-v2.7.0</commit>
-      </version>
-      <version tools_max_version="2.1.0" flow_version="1.0" prov_capabilities_per_version="bsp_gen1">
-        <num>2.6.0 release</num>
-        <commit>release-v2.6.0</commit>
-      </version>
-      <version tools_max_version="2.1.0" flow_version="1.0" prov_capabilities_per_version="bsp_gen1">
-        <num>2.5.0 release</num>
-        <commit>release-v2.5.0</commit>
-      </version>
-      <version tools_max_version="2.1.0" flow_version="1.0" prov_capabilities_per_version="bsp_gen1">
-        <num>2.4.0 release</num>
-        <commit>release-v2.4.0</commit>
-      </version>
-      <version tools_max_version="2.1.0" flow_version="1.0" prov_capabilities_per_version="bsp_gen1">
-        <num>2.3.0 release</num>
-        <commit>release-v2.3.0</commit>
-      </version>
-    </versions>
-    <chips>
-      <mcu>CYW20735B1</mcu>
-      <radio>CYW20735B1</radio>
-    </chips>
-    <name>CYW920735Q60EVB-01</name>
-    <summary>The Infineon CYW920735Q60EVB-01 Evaluation Kit enables you to evaluate and develop single-chip Bluetooth&#174; applications using the CYW20735, an ultra-low-power dual-mode Bluetooth&#174; 5.0 wireless MCU device. The CYW20735 is a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting BR and LE. EDR is not supported. The CYW20735 employs high integration to reduce external components, thereby minimizing the device's footprint and cost. The device includes several on-chip peripherals including a hardware key scanner, PWMs, and an ADC. The device also includes an analog microphone interface that provides a low-cost solution for voice-enabled remotes as well as Internet of Things (IoT) gadgets and toys. This kit helps evaluate device functionality and develop applications quickly for faster time-to-market.</summary>
-    <prov_capabilities>ble br_edr mesh hid audio ota hal btsdk fw2 led2x CYW920735Q60EVB_01 lsm9ds1 ncu15wf104 button</prov_capabilities>
-    <description><![CDATA[
-        <div class="category">Kit Features:</div><ul>
-        <li>CYW20735 is a monolithic, single chip, Bluetooth&#174; dual-mode system on chip that includes a baseband processor, an Arm&#174; Cortex&#174;-M4 processor, and an integrated transceiver.</li>
-        <li>The Infineon CYW920735Q60EVB-01 board is an evaluation board that provides various pins, jumpers, switches, ports, and test points to access CYW20735 to perform debug, evaluation, and troubleshooting.</li>
-        </ul><p/>
-        </body>
-        </html>
-    ]]></description>
-    <documentation_url>https://www.infineon.com/dgdl/Infineon-CYW920735Q60EVB-01_Evaluation_Kit_User_Guide-UserManual-v01_00-EN.pdf?fileId=8ac78c8c7d0d8da4017d0f00c70017f4</documentation_url>
-  </board>
-  <board>
     <id>CYW9M2BASE-43012BT</id>
     <category>AIROC&#8482; Bluetooth&#174; BSPs</category>
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYW9M2BASE-43012BT</board_uri>
