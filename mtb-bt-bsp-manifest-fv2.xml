@@ -276,6 +276,48 @@
     <documentation_url>https://www.infineon.com/cms/en/product/evaluation-boards/cyw920819evb-02/</documentation_url>
   </board>
   <board>
+    <id>CYW920819M2EVB-01</id>
+    <category>AIROC&#8482; Bluetooth&#174; BSPs</category>
+    <board_uri>https://github.com/Infineon/TARGET_CYW920819M2EVB-01</board_uri>
+    <versions>
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback spp btsdk_hci_app btsdk_ota_app beacon helloc hellos adc gpio i2c_master lowpower puart pwm" prefix="wiced_btsdk/dev-kit/bsp">
+        <num>4.1.0 release</num>
+        <commit>release-v4.1.0</commit>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback spp btsdk_hci_app btsdk_ota_app beacon helloc hellos adc gpio i2c_master lowpower puart pwm" prefix="wiced_btsdk/dev-kit/bsp">
+        <num>Latest v4.X release</num>
+        <commit>latest-v4.X</commit>
+      </version>
+    </versions>
+    <chips>
+      <mcu>CYW20819A1KFBG</mcu>
+      <radio>CYW20819A1</radio>
+    </chips>
+    <name>CYW920819M2EVB-01</name>
+    <summary><![CDATA[ The Infineon AIROC&#8482; CYW20819 Bluetooth&#174; and Bluetooth&#174; LE evaluation kit (CYW920819M2EVB-01) enables evaluation, prototyping, and development of a wide array of IoT applications using the AIROC&#8482; CYW20819, an ultra-low-power dual-mode Bluetooth&#174; 5.2 system on chip.
+    <p>The AIROC&#8482; CYW20819 Bluetooth&#174; and Bluetooth&#174; LE system on chip provides reliable Bluetooth&#174; connectivity, core spec compliant to 5.2, along with high performance compute capability integrating an Arm&#174; Cortex&#174;-M4 processor with floating point unit. It is a highly integrated device which delivers up to 11.5 dBm transmit power in LE and BR modes and up to 2.5 dBm in EDR mode.  The AIROC&#8482; CYW20819 is designed to support a wide range of Bluetooth&#174; use cases for home and industrial automation, lighting, and sensor nodes.</p>
+    <p>The AIROC&#8482; CYW20819 Bluetooth&#174; and Bluetooth&#174; LE evaluation kit (CYW920819M2EVB-01) and the AIROC&#8482; Bluetooth&#174; SDK along with ModusToolbox&#8482; software and tools form a powerful but easy to use toolset that helps developers create amazing Bluetooth&#174; enabled IoT solutions.</p>
+    ]]></summary>
+    <prov_capabilities>ble br_edr mesh hid audio ota hal btsdk fw2 CYW920819M2EVB_01 ncu15wf104 led2x button CYW208XX CYW208XX_62fbga</prov_capabilities>
+    <description><![CDATA[
+        <div class="category">Kit Features:</div><ul>
+        <li>AIROC&#8482; CYW20819 Bluetooth&#174; and Bluetooth&#174; LE system on chip in 62 pin FPBGA package</li>
+        <li>Arduino compatible headers for hardware expansion</li>
+        <li>On-board sensors - an ambient light sensor, thermistor, footprint for analog microphone, and footprint for Infineon digital microphone</li>
+        <li>User switches and LEDs</li>
+        <li>USB connector for power, programming, and USB-UART bridge</li>
+        </ul><p/>
+        <div class="category">Kit Contents:</div><ul>
+        <li>Base Board - CYW9BTM2BASE1</li>
+        <li>CYW920819M2IPA1 Bluetooth&#174; Module Evaluation Board (mounted onto baseboard)</li>
+        <li>USB Standard-A to Micro-B cable</li>
+        </ul>
+        </body>
+        </html>
+    ]]></description>
+    <documentation_url>https://www.infineon.com/cms/en/product/wireless-connectivity/airoc-bluetooth-le-bluetooth-multiprotocol/</documentation_url>
+  </board>
+  <board>
     <id>CYBT-213043-MESH</id>
     <category>AIROC&#8482; Bluetooth&#174; BSPs</category>
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYBT-213043-MESH</board_uri>
@@ -929,7 +971,6 @@
         <li>User switches and LEDs</li>
         <li>USB connector for power, programming, and USB-UART bridge</li>
         </ul><p/>
-
         <div class="category">Kit Contents:</div><ul>
         <li>CYW989820EVB-01 Evaluation board</li>
         <li>USB Standard-A to Micro-B cable</li>
