@@ -280,11 +280,11 @@
     <category>AIROC&#8482; Bluetooth&#174; BSPs</category>
     <board_uri>https://github.com/Infineon/TARGET_CYW920819M2EVB-01</board_uri>
     <versions>
-      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback spp btsdk_hci_app btsdk_ota_app beacon helloc hellos adc gpio i2c_master lowpower puart pwm" prefix="wiced_btsdk/dev-kit/bsp">
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback spp btsdk_hci_app btsdk_ota_app beacon helloc hellos adc gpio i2c_master puart pwm" prefix="wiced_btsdk/dev-kit/bsp">
         <num>4.1.0 release</num>
         <commit>release-v4.1.0</commit>
       </version>
-      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback spp btsdk_hci_app btsdk_ota_app beacon helloc hellos adc gpio i2c_master lowpower puart pwm" prefix="wiced_btsdk/dev-kit/bsp">
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback spp btsdk_hci_app btsdk_ota_app beacon helloc hellos adc gpio i2c_master puart pwm" prefix="wiced_btsdk/dev-kit/bsp">
         <num>Latest v4.X release</num>
         <commit>latest-v4.X</commit>
       </version>
@@ -879,11 +879,11 @@
     <category>AIROC&#8482; Bluetooth&#174; BSPs</category>
     <board_uri>https://github.com/Infineon/TARGET_CYW920820M2EVB-01</board_uri>
     <versions>
-      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback mapc spp spp_multi_port btsdk_hci_app btsdk_ota_app watch ans anc bats batc beacon env_sens_temp helloc hellos hrc hrs lecoc adc gpio i2c_master lowpower puart pwm uart_raw dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart low_power_led on_off_switch mesh_sensor_temperature mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback mapc spp spp_multi_port btsdk_hci_app btsdk_ota_app watch ans anc bats batc beacon env_sens_temp helloc hellos hrc hrs lecoc adc gpio i2c_master puart pwm uart_raw dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart low_power_led on_off_switch mesh_sensor_temperature mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
         <num>3.3.0 release</num>
         <commit>release-v3.3.0</commit>
       </version>
-      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback mapc spp spp_multi_port btsdk_hci_app btsdk_ota_app watch ans anc bats batc beacon env_sens_temp helloc hellos hrc hrs lecoc adc gpio i2c_master lowpower puart pwm uart_raw dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart low_power_led on_off_switch mesh_sensor_temperature mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback mapc spp spp_multi_port btsdk_hci_app btsdk_ota_app watch ans anc bats batc beacon env_sens_temp helloc hellos hrc hrs lecoc adc gpio i2c_master puart pwm uart_raw dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart low_power_led on_off_switch mesh_sensor_temperature mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
         <num>Latest v3.X release</num>
         <commit>latest-v3.X</commit>
       </version>
