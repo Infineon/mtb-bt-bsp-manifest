@@ -1129,6 +1129,29 @@
     </versions>
   </depender>
   <depender>
+    <id>CYW989820M2EVB-01</id>
+    <versions>
+      <version>
+        <commit>latest-v4.X</commit>
+        <dependees>
+          <dependee>
+            <id>20820A1</id>
+            <commit>latest-v4.X</commit>
+          </dependee>
+        </dependees>
+      </version>
+      <version>
+        <commit>release-v4.1.2</commit>
+        <dependees>
+          <dependee>
+            <id>20820A1</id>
+            <commit>latest-v4.X</commit>
+          </dependee>
+        </dependees>
+      </version>
+    </versions>
+  </depender>
+  <depender>
     <id>CYW9M2BASE-43012BT</id>
     <versions>
       <version>
