@@ -987,6 +987,10 @@
     <board_uri>https://github.com/Infineon/TARGET_CYW989820M2EVB-01</board_uri>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app btsdk_ota_app batc bats beacon helloc hellos gpio puart pwm" prefix="wiced_btsdk/dev-kit/bsp">
+        <num>4.1.2 release</num>
+        <commit>release-v4.1.2</commit>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app btsdk_ota_app batc bats beacon helloc hellos gpio puart pwm" prefix="wiced_btsdk/dev-kit/bsp">
         <num>Latest v4.X release</num>
         <commit>latest-v4.X</commit>
       </version>
