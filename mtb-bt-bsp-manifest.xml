@@ -256,59 +256,6 @@
     <documentation_url>https://www.infineon.com/cms/en/product/wireless-connectivity/airoc-bluetooth-le-bluetooth-multiprotocol/</documentation_url>
   </board>
   <board>
-    <id>CYW920819REF-KB-01</id>
-    <category>AIROC&#8482; Bluetooth&#174; BSPs</category>
-    <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYW920819REF-KB-01</board_uri>
-    <versions>
-      <version tools_max_version="2.1.0" flow_version="1.0" prov_capabilities_per_version="bsp_gen1">
-        <num>2.7.1 release</num>
-        <commit>release-v2.7.1</commit>
-      </version>
-      <version tools_max_version="2.1.0" flow_version="1.0" prov_capabilities_per_version="bsp_gen1">
-        <num>2.7.0 release</num>
-        <commit>release-v2.7.0</commit>
-      </version>
-      <version tools_max_version="2.1.0" flow_version="1.0" prov_capabilities_per_version="bsp_gen1">
-        <num>2.6.0 release</num>
-        <commit>release-v2.6.0</commit>
-      </version>
-      <version tools_max_version="2.1.0" flow_version="1.0" prov_capabilities_per_version="bsp_gen1">
-        <num>2.5.0 release</num>
-        <commit>release-v2.5.0</commit>
-      </version>
-      <version tools_max_version="2.1.0" flow_version="1.0" prov_capabilities_per_version="bsp_gen1">
-        <num>2.4.0 release</num>
-        <commit>release-v2.4.0</commit>
-      </version>
-      <version tools_max_version="2.1.0" flow_version="1.0" prov_capabilities_per_version="bsp_gen1">
-        <num>2.3.0 release</num>
-        <commit>release-v2.3.0</commit>
-      </version>
-      <version tools_max_version="2.1.0" flow_version="1.0" prov_capabilities_per_version="bsp_gen1">
-        <num>2.1.0 release</num>
-        <commit>release-v2.1.0</commit>
-      </version>
-    </versions>
-    <chips>
-      <mcu>CYW20819A1KFB1G</mcu>
-      <radio>CYW20819A1</radio>
-    </chips>
-    <name>CYW920819REF-KB-01</name>
-    <summary>The Infineon CYW920819REF-KB-01 Reference Keyboard enables you to evaluate and develop single-chip Bluetooth&#174; HID keyboard device applications using the CYW9208XXWCD1 module, a 112-pin module utilizing the Infineon CYW20819 silicon, an ultra-low-power dual-mode Bluetooth&#174; 5.2 wireless MCU device. The CYW20819 is a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting LE/BR/EDR. </summary>
-    <prov_capabilities>hid ota btsdk fw2 CYW920819REF_KB_01</prov_capabilities>
-    <description><![CDATA[
-        <div class="category">Kit Features:</div><ul>
-        <li>112-pin CYW20819 module dual-mode (LE/BR/EDR) Bluetooth&#174; 5.2-compliant wireless MCU with internal Power Amplifier (iPA)</li>
-        <li>Keyboard hardware</li>
-        <li>USB connector for power, programming, and USB-UART bridge</li>
-        </ul><p/>
-        </ul>
-        </body>
-        </html>
-    ]]></description>
-    <documentation_url>https://www.infineon.com/cms/en/product/wireless-connectivity/airoc-bluetooth-le-bluetooth-multiprotocol/</documentation_url>
-  </board>
-  <board>
     <id>CYW989820EVB-01</id>
     <category>AIROC&#8482; Bluetooth&#174; BSPs</category>
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYW989820EVB-01</board_uri>

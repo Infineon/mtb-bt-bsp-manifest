@@ -4,6 +4,10 @@
     <category>AIROC&#8482; Bluetooth&#174; BSPs</category>
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYW920706WCDEVAL</board_uri>
     <versions>
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback mapc opps pbc spp spp_multi_port btsdk_hci_app btsdk_ota_app avsink audio_gateway handsfree headset watch ans anc bats batc beacon hellos helloc hrs hrc adc gpio puart pwm lowpower20706 uart_spi dimmer dimmer_self_config embedded_provisioner light_dimmable mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
+        <num>4.1.3 release</num>
+        <commit>release-v4.1.3</commit>
+      </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback mapc opps pbc spp spp_multi_port btsdk_hci_app btsdk_ota_app avsink audio_gateway handsfree headset watch ans anc bats batc beacon hellos helloc hrs hrc adc gpio puart pwm uart_spi dimmer dimmer_self_config embedded_provisioner light_dimmable mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
         <num>3.3.0 release</num>
         <commit>release-v3.3.0</commit>
@@ -27,6 +31,10 @@
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app hci_loopback mapc opps pbc spp spp_multi_port btsdk_ota_app avsink audio_gateway handsfree headset watch ans anc bats batc beacon hellos helloc hrs hrc adc gpio puart pwm uart_spi dimmer dimmer_self_config embedded_provisioner light_dimmable mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback mapc opps pbc spp spp_multi_port btsdk_hci_app btsdk_ota_app avsink audio_gateway handsfree headset watch ans anc bats batc beacon hellos helloc hrs hrc adc gpio puart pwm lowpower20706 uart_spi dimmer dimmer_self_config embedded_provisioner light_dimmable mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
+        <num>Latest v4.X release</num>
+        <commit>latest-v4.X</commit>
       </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback mapc opps pbc spp spp_multi_port btsdk_hci_app btsdk_ota_app avsink audio_gateway handsfree headset watch ans anc bats batc beacon hellos helloc hrs hrc adc gpio puart pwm uart_spi dimmer dimmer_self_config embedded_provisioner light_dimmable mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
         <num>Latest v3.X release</num>
@@ -280,11 +288,15 @@
     <category>AIROC&#8482; Bluetooth&#174; BSPs</category>
     <board_uri>https://github.com/Infineon/TARGET_CYW920819M2EVB-01</board_uri>
     <versions>
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback spp btsdk_hci_app btsdk_ota_app beacon helloc hellos adc gpio i2c_master puart pwm light_dimmable dimmer mesh_snip_onoff_client mesh_snip_onoff_server mesh_snip_prov_client anc ans batc bats hrc hrs lecoc watch mapc spp_multi_port uart_raw" prefix="wiced_btsdk/dev-kit/bsp">
+        <num>4.1.3 release</num>
+        <commit>release-v4.1.3</commit>
+      </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback spp btsdk_hci_app btsdk_ota_app beacon helloc hellos adc gpio i2c_master puart pwm" prefix="wiced_btsdk/dev-kit/bsp">
         <num>4.1.0 release</num>
         <commit>release-v4.1.0</commit>
       </version>
-      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback spp btsdk_hci_app btsdk_ota_app beacon helloc hellos adc gpio i2c_master puart pwm" prefix="wiced_btsdk/dev-kit/bsp">
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback spp btsdk_hci_app btsdk_ota_app beacon helloc hellos adc gpio i2c_master puart pwm light_dimmable dimmer mesh_snip_onoff_client mesh_snip_onoff_server mesh_snip_prov_client anc ans batc bats hrc hrs lecoc watch mapc spp_multi_port uart_raw" prefix="wiced_btsdk/dev-kit/bsp">
         <num>Latest v4.X release</num>
         <commit>latest-v4.X</commit>
       </version>
@@ -308,14 +320,14 @@
         <li>USB connector for power, programming, and USB-UART bridge</li>
         </ul><p/>
         <div class="category">Kit Contents:</div><ul>
-        <li>Base Board - CYW9BTM2BASE1</li>
+        <li>Base Board - CYW9BTM2BASE2</li>
         <li>CYW920819M2IPA1 Bluetooth&#174; Module Evaluation Board (mounted onto baseboard)</li>
         <li>USB Standard-A to Micro-B cable</li>
         </ul>
         </body>
         </html>
     ]]></description>
-    <documentation_url>https://www.infineon.com/cms/en/product/wireless-connectivity/airoc-bluetooth-le-bluetooth-multiprotocol/</documentation_url>
+    <documentation_url>https://www.infineon.com/cms/en/product/evaluation-boards/cyw920819m2evb-01/</documentation_url>
   </board>
   <board>
     <id>CYBT-213043-MESH</id>
@@ -746,63 +758,6 @@
     <documentation_url>https://www.infineon.com/cms/en/product/evaluation-boards/cybt-253059-eval/</documentation_url>
   </board>
   <board>
-    <id>CYW920819REF-KB-01</id>
-    <category>AIROC&#8482; Bluetooth&#174; BSPs</category>
-    <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYW920819REF-KB-01</board_uri>
-    <versions>
-      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app keyboard" prefix="wiced_btsdk/dev-kit/bsp">
-        <num>3.3.0 release</num>
-        <commit>release-v3.3.0</commit>
-      </version>
-      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app keyboard" prefix="wiced_btsdk/dev-kit/bsp">
-        <num>3.2.0 release</num>
-        <commit>release-v3.2.0</commit>
-      </version>
-      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app keyboard" prefix="wiced_btsdk/dev-kit/bsp">
-        <num>3.1.0 release</num>
-        <commit>release-v3.1.0</commit>
-      </version>
-      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app keyboard" prefix="wiced_btsdk/dev-kit/bsp">
-        <num>3.0.0 release</num>
-        <commit>release-v3.0.0</commit>
-      </version>
-      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app keyboard" prefix="wiced_btsdk/dev-kit/bsp">
-        <num>2.9.0 release</num>
-        <commit>release-v2.9.0</commit>
-      </version>
-      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app keyboard" prefix="wiced_btsdk/dev-kit/bsp">
-        <num>2.8.0 release</num>
-        <commit>release-v2.8.0</commit>
-      </version>
-      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app keyboard" prefix="wiced_btsdk/dev-kit/bsp">
-        <num>Latest v3.X release</num>
-        <commit>latest-v3.X</commit>
-      </version>
-      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app keyboard" prefix="wiced_btsdk/dev-kit/bsp">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
-      </version>
-    </versions>
-    <chips>
-      <mcu>CYW20819A1KFB1G</mcu>
-      <radio>CYW20819A1</radio>
-    </chips>
-    <name>CYW920819REF-KB-01</name>
-    <summary>The Infineon CYW920819REF-KB-01 Reference Keyboard enables you to evaluate and develop single-chip Bluetooth&#174; HID keyboard device applications using the CYW9208XXWCD1 module, a 112-pin module utilizing the Infineon CYW20819 silicon, an ultra-low-power dual-mode Bluetooth&#174; 5.2 wireless MCU device. The CYW20819 is a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting LE/BR/EDR. </summary>
-    <prov_capabilities>hid ota btsdk fw2 CYW920819REF_KB_01</prov_capabilities>
-    <description><![CDATA[
-        <div class="category">Kit Features:</div><ul>
-        <li>112-pin CYW20819 module dual-mode (LE/BR/EDR) Bluetooth&#174; 5.2-compliant wireless MCU with internal Power Amplifier (iPA)</li>
-        <li>Keyboard hardware</li>
-        <li>USB connector for power, programming, and USB-UART bridge</li>
-        </ul><p/>
-        </ul>
-        </body>
-        </html>
-    ]]></description>
-    <documentation_url>https://www.infineon.com/cms/en/product/wireless-connectivity/airoc-bluetooth-le-bluetooth-multiprotocol/</documentation_url>
-  </board>
-  <board>
     <id>CYW920820EVB-02</id>
     <category>AIROC&#8482; Bluetooth&#174; BSPs</category>
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYW920820EVB-02</board_uri>
@@ -909,7 +864,7 @@
         </ul><p/>
 
         <div class="category">Kit Contents:</div><ul>
-        <li>Base Board - CYW9BTM2BASE1</li>
+        <li>Base Board - CYW9BTM2BASE2</li>
         <li>CYW920820M2IPA1 Bluetooth&#174; Module Evaluation Board (mounted onto baseboard)</li>
         <li>USB Standard-A to Micro-B cable</li>
         </ul>
@@ -986,11 +941,15 @@
     <category>AIROC&#8482; Bluetooth&#174; BSPs</category>
     <board_uri>https://github.com/Infineon/TARGET_CYW989820M2EVB-01</board_uri>
     <versions>
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app btsdk_ota_app batc bats beacon helloc hellos gpio puart pwm anc ans lecoc spp i2c_master hci_loopback btsdk_hci_app" prefix="wiced_btsdk/dev-kit/bsp">
+        <num>4.1.3 release</num>
+        <commit>release-v4.1.3</commit>
+      </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app btsdk_ota_app batc bats beacon helloc hellos gpio puart pwm" prefix="wiced_btsdk/dev-kit/bsp">
         <num>4.1.2 release</num>
         <commit>release-v4.1.2</commit>
       </version>
-      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app btsdk_ota_app batc bats beacon helloc hellos gpio puart pwm" prefix="wiced_btsdk/dev-kit/bsp">
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app btsdk_ota_app batc bats beacon helloc hellos gpio puart pwm anc ans lecoc spp i2c_master hci_loopback btsdk_hci_app" prefix="wiced_btsdk/dev-kit/bsp">
         <num>Latest v4.X release</num>
         <commit>latest-v4.X</commit>
       </version>
