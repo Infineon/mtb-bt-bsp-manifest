@@ -982,6 +982,24 @@
     <id>CYW920820M2EVB-01</id>
     <versions>
       <version>
+        <commit>latest-v4.X</commit>
+        <dependees>
+          <dependee>
+            <id>20820A1</id>
+            <commit>latest-v4.X</commit>
+          </dependee>
+        </dependees>
+      </version>
+      <version>
+        <commit>release-v4.2.0</commit>
+        <dependees>
+          <dependee>
+            <id>20820A1</id>
+            <commit>latest-v4.X</commit>
+          </dependee>
+        </dependees>
+      </version>
+      <version>
         <commit>latest-v3.X</commit>
         <dependees>
           <dependee>
@@ -1118,7 +1136,7 @@
         <dependees>
           <dependee>
             <id>43012C0</id>
-            <commit>latest-v3.X</commit>
+            <commit>latest-v4.X</commit>
           </dependee>
         </dependees>
       </version>
@@ -1127,7 +1145,7 @@
         <dependees>
           <dependee>
             <id>43012C0</id>
-            <commit>latest-v3.X</commit>
+            <commit>latest-v4.X</commit>
           </dependee>
         </dependees>
       </version>
@@ -1195,7 +1213,7 @@
         <dependees>
           <dependee>
             <id>43012C0</id>
-            <commit>latest-v3.X</commit>
+            <commit>latest-v4.X</commit>
           </dependee>
         </dependees>
       </version>
@@ -1204,7 +1222,7 @@
         <dependees>
           <dependee>
             <id>43012C0</id>
-            <commit>latest-v3.X</commit>
+            <commit>latest-v4.X</commit>
           </dependee>
         </dependees>
       </version>
@@ -2170,7 +2188,7 @@
         <dependees>
           <dependee>
             <id>55572A1</id>
-            <commit>latest-v3.X</commit>
+            <commit>latest-v4.X</commit>
           </dependee>
         </dependees>
       </version>
@@ -2179,7 +2197,7 @@
         <dependees>
           <dependee>
             <id>55572A1</id>
-            <commit>latest-v3.X</commit>
+            <commit>latest-v4.X</commit>
           </dependee>
         </dependees>
       </version>
