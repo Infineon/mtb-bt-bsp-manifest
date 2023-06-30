@@ -1301,6 +1301,29 @@
     </versions>
   </depender>
   <depender>
+    <id>CYW943022BTEVK-01</id>
+    <versions>
+      <version>
+        <commit>latest-v4.X</commit>
+        <dependees>
+          <dependee>
+            <id>43022C1</id>
+            <commit>latest-v4.X</commit>
+          </dependee>
+        </dependees>
+      </version>
+      <version>
+        <commit>release-v4.3.0</commit>
+        <dependees>
+          <dependee>
+            <id>43022C1</id>
+            <commit>latest-v4.X</commit>
+          </dependee>
+        </dependees>
+      </version>
+    </versions>
+  </depender>
+  <depender>
     <id>CYW920719B2Q40EVB-01</id>
     <versions>
       <version>
