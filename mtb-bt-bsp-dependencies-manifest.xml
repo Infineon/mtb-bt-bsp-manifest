@@ -370,6 +370,15 @@
         </dependees>
       </version>
       <version>
+        <commit>release-v4.4.2</commit>
+        <dependees>
+          <dependee>
+            <id>20819A1</id>
+            <commit>latest-v4.X</commit>
+          </dependee>
+        </dependees>
+      </version>
+      <version>
         <commit>release-v4.2.1</commit>
         <dependees>
           <dependee>
@@ -1000,6 +1009,15 @@
         </dependees>
       </version>
       <version>
+        <commit>release-v4.4.2</commit>
+        <dependees>
+          <dependee>
+            <id>20820A1</id>
+            <commit>latest-v4.X</commit>
+          </dependee>
+        </dependees>
+      </version>
+      <version>
         <commit>release-v4.2.1</commit>
         <dependees>
           <dependee>
@@ -1305,6 +1323,15 @@
     <versions>
       <version>
         <commit>latest-v4.X</commit>
+        <dependees>
+          <dependee>
+            <id>43022C1</id>
+            <commit>latest-v4.X</commit>
+          </dependee>
+        </dependees>
+      </version>
+      <version>
+        <commit>release-v4.4.2</commit>
         <dependees>
           <dependee>
             <id>43022C1</id>
@@ -1703,6 +1730,24 @@
     <id>CYW920721M2EVK-02</id>
     <versions>
       <version>
+        <commit>latest-v4.X</commit>
+        <dependees>
+          <dependee>
+            <id>20721B2</id>
+            <commit>latest-v4.X</commit>
+          </dependee>
+        </dependees>
+      </version>
+      <version>
+        <commit>release-v4.4.2</commit>
+        <dependees>
+          <dependee>
+            <id>20721B2</id>
+            <commit>latest-v4.X</commit>
+          </dependee>
+        </dependees>
+      </version>
+      <version>
         <commit>latest-v3.X</commit>
         <dependees>
           <dependee>
@@ -1770,6 +1815,24 @@
   <depender>
     <id>CYW920721M2EVB-03</id>
     <versions>
+      <version>
+        <commit>latest-v4.X</commit>
+        <dependees>
+          <dependee>
+            <id>20721B2</id>
+            <commit>latest-v4.X</commit>
+          </dependee>
+        </dependees>
+      </version>
+      <version>
+        <commit>release-v4.4.2</commit>
+        <dependees>
+          <dependee>
+            <id>20721B2</id>
+            <commit>latest-v4.X</commit>
+          </dependee>
+        </dependees>
+      </version>
       <version>
         <commit>latest-v3.X</commit>
         <dependees>
@@ -2107,6 +2170,24 @@
     <id>CYW920835REF-RCU-01</id>
     <versions>
       <version>
+        <commit>latest-v4.X</commit>
+        <dependees>
+          <dependee>
+            <id>20835B1</id>
+            <commit>latest-v4.X</commit>
+          </dependee>
+        </dependees>
+      </version>
+      <version>
+        <commit>release-v4.4.2</commit>
+        <dependees>
+          <dependee>
+            <id>20835B1</id>
+            <commit>latest-v4.X</commit>
+          </dependee>
+        </dependees>
+      </version>
+      <version>
         <commit>latest-v3.X</commit>
         <dependees>
           <dependee>
@@ -2185,6 +2266,15 @@
     <versions>
       <version>
         <commit>latest-v4.X</commit>
+        <dependees>
+          <dependee>
+            <id>20835B1</id>
+            <commit>latest-v4.X</commit>
+          </dependee>
+        </dependees>
+      </version>
+      <version>
+        <commit>release-v4.4.2</commit>
         <dependees>
           <dependee>
             <id>20835B1</id>
