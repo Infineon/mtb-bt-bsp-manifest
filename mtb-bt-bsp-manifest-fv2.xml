@@ -262,11 +262,11 @@
       <radio>CYW20819A1</radio>
     </chips>
     <name>CYW920819EVB-02</name>
-    <summary>The Infineon CYW920819EVB-02 Evaluation Kit enables you to evaluate and develop single-chip Bluetooth&#174; applications using the CYW20819, an ultra-low-power dual-mode Bluetooth&#174; 5.2 wireless MCU device. The CYW20819 is a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting LE/BR/EDR. Manufactured using advanced CMOS low-power process, the CYW20819 employs high integration to reduce external components, thereby minimizing the device's footprint and cost. This kit helps evaluate device functionality and develop applications quickly for faster time-to-market.</summary>
+    <summary>The Infineon CYW920819EVB-02 Evaluation Kit enables you to evaluate and develop single-chip Bluetooth&#174; applications using the CYW20819, an ultra-low-power dual-mode Bluetooth&#174; 5.4 wireless MCU device. The CYW20819 is a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting LE/BR/EDR. Manufactured using advanced CMOS low-power process, the CYW20819 employs high integration to reduce external components, thereby minimizing the device's footprint and cost. This kit helps evaluate device functionality and develop applications quickly for faster time-to-market.</summary>
     <prov_capabilities>ble br_edr mesh hid audio ota hal btsdk CYW920819EVB_02 fw2 lsm9ds1 ncu15wf104 led2x button CYW208XX CYW208XX_62fbga</prov_capabilities>
     <description><![CDATA[
         <div class="category">Kit Features:</div><ul>
-        <li>62-FBGA CYW20819 dual-mode (LE/BR/EDR) Bluetooth&#174; 5.2-compliant wireless MCU</li>
+        <li>62-FBGA CYW20819 dual-mode (LE/BR/EDR) Bluetooth&#174; 5.4-compliant wireless MCU</li>
         <li>Arduino compatible headers for hardware expansion</li>
         <li>On-board sensors - a lsm9ds1 9-axis motion sensor (3D digital linear acceleration sensor, 3D digital angular rate sensor, and 3D digital magnetic sensor) and a ncu15wf104 thermistor</li>
         <li>User switches and LEDs</li>
@@ -314,8 +314,8 @@
       <radio>CYW20819A1</radio>
     </chips>
     <name>CYW920819M2EVB-01</name>
-    <summary><![CDATA[ The Infineon AIROC&#8482; CYW20819 Bluetooth&#174; and Bluetooth&#174; LE evaluation kit (CYW920819M2EVB-01) enables evaluation, prototyping, and development of a wide array of IoT applications using the AIROC&#8482; CYW20819, an ultra-low-power dual-mode Bluetooth&#174; 5.2 system on chip.
-    <p>The AIROC&#8482; CYW20819 Bluetooth&#174; and Bluetooth&#174; LE system on chip provides reliable Bluetooth&#174; connectivity, core spec compliant to 5.2, along with high performance compute capability integrating an Arm&#174; Cortex&#174;-M4 processor with floating point unit. It is a highly integrated device which delivers up to 11.5 dBm transmit power in LE and BR modes and up to 2.5 dBm in EDR mode.  The AIROC&#8482; CYW20819 is designed to support a wide range of Bluetooth&#174; use cases for home and industrial automation, lighting, and sensor nodes.</p>
+    <summary><![CDATA[ The Infineon AIROC&#8482; CYW20819 Bluetooth&#174; and Bluetooth&#174; LE evaluation kit (CYW920819M2EVB-01) enables evaluation, prototyping, and development of a wide array of IoT applications using the AIROC&#8482; CYW20819, an ultra-low-power dual-mode Bluetooth&#174; 5.4 system on chip.
+    <p>The AIROC&#8482; CYW20819 Bluetooth&#174; and Bluetooth&#174; LE system on chip provides reliable Bluetooth&#174; connectivity, core spec compliant to 5.4, along with high performance compute capability integrating an Arm&#174; Cortex&#174;-M4 processor with floating point unit. It is a highly integrated device which delivers up to 11.5 dBm transmit power in LE and BR modes and up to 2.5 dBm in EDR mode.  The AIROC&#8482; CYW20819 is designed to support a wide range of Bluetooth&#174; use cases for home and industrial automation, lighting, and sensor nodes.</p>
     <p>The AIROC&#8482; CYW20819 Bluetooth&#174; and Bluetooth&#174; LE evaluation kit (CYW920819M2EVB-01) and the AIROC&#8482; Bluetooth&#174; SDK along with ModusToolbox&#8482; software and tools form a powerful but easy to use toolset that helps developers create amazing Bluetooth&#174; enabled IoT solutions.</p>
     ]]></summary>
     <prov_capabilities>ble br_edr mesh hid audio ota hal btsdk fw2 CYW920819M2EVB_01 ncu15wf104 led2x button CYW208XX CYW208XX_62fbga</prov_capabilities>
@@ -384,12 +384,12 @@
     <prov_capabilities>ble br_edr mesh hid ota hal btsdk fw2 CYBT_213043_MESH</prov_capabilities>
     <description><![CDATA[
         <div class="category">Kit Features:</div><ul>
-        <li>CYW20819-based dual-mode (LE/BR/EDR) Bluetooth&#174; 5.0-compliant fully certified module (CYBT-213043-02)</li>
+        <li>CYW20819-based dual-mode (LE/BR/EDR) Bluetooth&#174; 5.4-compliant fully certified module (CYBT-213043-02)</li>
         <li>On-Board Sensor for Mesh Application Development (Thermistor, ALS, PIR Motion Sensor)</li>
         <li>On-Board RGB LED with additional 1MB External Serial Flash</li>
         <li>Bluetooth&#174; Low Energy (LE), Bluetooth&#174; Basic Rate (BR) and Enhanced Data Rate (EDR)</li>
         <li>FCC, ISED, MIC, and CE Certified Module on board (CYBT-213043-02)</li>
-        <li>Bluetooth&#174; 5.0 with SIG MESH Qualified Module (CYBT-213043-02)</li>
+        <li>Bluetooth&#174; 5.4 with SIG MESH Qualified Module (CYBT-213043-02)</li>
         <li>USB connector for power, programming, and USB-UART bridge</li>
         </ul>
 
@@ -448,7 +448,7 @@
     <prov_capabilities>ble br_edr mesh hid ota hal btsdk fw2 CYBT_213043_EVAL</prov_capabilities>
     <description><![CDATA[
         <div class="category">Kit Features:</div><ul>
-        <li>CYW20819-based dual-mode (LE/BR/EDR) Bluetooth&#174; 5.0-compliant fully certified module (CYBT-213043-02)</li>
+        <li>CYW20819-based dual-mode (LE/BR/EDR) Bluetooth&#174; 5.4-compliant fully certified module (CYBT-213043-02)</li>
         <li>Arduino compatible headers for hardware expansion</li>
         <li>User switches and LEDs</li>
         <li>FCC, ISED, MIC, and CE Certified Module on board (CYBT-213043-02)</li>
@@ -508,7 +508,7 @@
     <prov_capabilities>ble br_edr mesh hid ota hal btsdk fw2 CYBT_223058_EVAL</prov_capabilities>
     <description><![CDATA[
         <div class="category">Kit Features:</div><ul>
-        <li>CYW20819-based dual-mode (LE/BR/EDR) Bluetooth&#174; 5.0-compliant fully certified module (CYBT-223058-02)</li>
+        <li>CYW20819-based dual-mode (LE/BR/EDR) Bluetooth&#174; 5.4-compliant fully certified module (CYBT-223058-02)</li>
         <li>Arduino compatible headers for hardware expansion</li>
         <li>User switches and LEDs</li>
         <li>FCC, ISED, MIC, and CE Certified Module on board (CYBT-223058-02)</li>
@@ -568,7 +568,7 @@
     <prov_capabilities>ble br_edr mesh hid ota hal btsdk fw2 CYBT_273063_EVAL</prov_capabilities>
     <description><![CDATA[
         <div class="category">Kit Features:</div><ul>
-        <li>CYW20819-based dual-mode (LE/BR/EDR) Bluetooth&#174; 5.0-compliant fully certified module with external PA/LNA and PCB antenna to achieve extended range (CYBT-273063-02)</li>
+        <li>CYW20819-based dual-mode (LE/BR/EDR) Bluetooth&#174; 5.4-compliant fully certified module with external PA/LNA and PCB antenna to achieve extended range (CYBT-273063-02)</li>
         <li>Arduino compatible headers for hardware expansion</li>
         <li>User switches and LEDs</li>
         <li>FCC, ISED, MIC, and CE Certified Module on board (CYBT-273063-02)</li>
@@ -628,7 +628,7 @@
     <prov_capabilities>ble br_edr mesh hid ota hal btsdk fw2 CYBT_263065_EVAL</prov_capabilities>
     <description><![CDATA[
         <div class="category">Kit Features:</div><ul>
-        <li>CYW20819-based dual-mode (LE/BR/EDR) Bluetooth&#174; 5.0-compliant fully certified module with external PA/LNA and uFL connector for external antenna to achieve extended range(CYBT-263065-02)</li>
+        <li>CYW20819-based dual-mode (LE/BR/EDR) Bluetooth&#174; 5.4-compliant fully certified module with external PA/LNA and uFL connector for external antenna to achieve extended range(CYBT-263065-02)</li>
         <li>Arduino compatible headers for hardware expansion</li>
         <li>User switches and LEDs</li>
         <li>FCC, ISED, MIC, and CE Certified Module on board (CYBT-263065-02)</li>
@@ -688,7 +688,7 @@
     <prov_capabilities>ble br_edr mesh hid ota hal btsdk fw2 CYBT_243053_EVAL</prov_capabilities>
     <description><![CDATA[
         <div class="category">Kit Features:</div><ul>
-        <li>CYW20820-based dual-mode (LE/BR/EDR) Bluetooth&#174; 5.0-compliant fully certified module (CYBT-243053-02)</li>
+        <li>CYW20820-based dual-mode (LE/BR/EDR) Bluetooth&#174; 5.4-compliant fully certified module (CYBT-243053-02)</li>
         <li>Arduino compatible headers for hardware expansion</li>
         <li>User switches and LEDs</li>
         <li>FCC, ISED, MIC, and CE Certified Module on board (CYBT-243053-02)</li>
@@ -711,6 +711,10 @@
     <board_uri>https://github.com/Infineon/TARGET_Vela-IF820-INT-ANT-DVK</board_uri>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback spp btsdk_ota_app anc ans batc bats beacon findme helloc hellos hrc hrs lecoc adc gpio lowpower puart pwm" prefix="wiced_btsdk/dev-kit/bsp">
+        <num>4.6.0 release</num>
+        <commit>release-v4.6.0</commit>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback spp btsdk_ota_app anc ans batc bats beacon findme helloc hellos hrc hrs lecoc adc gpio lowpower puart pwm" prefix="wiced_btsdk/dev-kit/bsp">
         <num>4.5.1 release</num>
         <commit>release-v4.5.1</commit>
       </version>
@@ -724,12 +728,12 @@
       <radio>CYW20820A1</radio>
     </chips>
     <name>Vela-IF820-INT-ANT-DVK</name>
-    <summary>The Vela IF820 includes multiple small form factor PCB modules to suit any host board footprint and targets both hosted and hostless applications. They're accompanied by low cost, easy to use development kits and the addition of a certified, packaged USB Adapter to add Classic Bluetooth&#174; and Bluetooth&#174; LE connectivity to a variety of additional products in your Bluetooth&#174; portfolio. Together, Infineon and Laird Connectivity drive down your total cost of ownership, design complexity and risk, while ensuring you the fastest time to market for your next dual mode Bluetooth&#174; IoT design. See https://www.lairdconnect.com/wireless-modules/bluetooth-modules/bluetooth-5-modules/vela-if820-series-bluetooth-5-2-dual-mode-modules for more information.</summary>
+    <summary>The Vela IF820 includes multiple small form factor PCB modules to suit any host board footprint and targets both hosted and hostless applications. They're accompanied by low cost, easy to use development kits and the addition of a certified, packaged USB Adapter to add Classic Bluetooth&#174; and Bluetooth&#174; LE connectivity to a variety of additional products in your Bluetooth&#174; portfolio. Together, Infineon and Laird Connectivity drive down your total cost of ownership, design complexity and risk, while ensuring you the fastest time to market for your next dual mode Bluetooth&#174; IoT design. See &lt;a href="https://www.lairdconnect.com/wireless-modules/bluetooth-modules/bluetooth-5-modules/vela-if820-series-bluetooth-5-2-dual-mode-modules"&gt;Vela IF820 Series - Bluetooth 5.4 Dual-Mode Modules&lt;/a&gt; for more information.</summary>
     <prov_capabilities>ble br_edr mesh hid ota hal btsdk fw2 Vela_IF820_INT_ANT_DVK</prov_capabilities>
     <description><![CDATA[
         <div class="category">Kit Features:</div><ul>
         <li>Vela IF820 module (Part # 453-00171) using CYW20820-based silicon</li>
-        <li>Dual-mode Bluetooth&#174; (LE/BR/EDR) and Bluetooth&#174; 5.2 certified</li>
+        <li>Dual-mode Bluetooth&#174; (LE/BR/EDR) and Bluetooth&#174; 5.4 certified</li>
         <li>FCC, ISED, CE, UKCA, MIC, RCM and KCC Certified Module on board (Part # 453-00171)</li>
         <li>DVK supports MikroBus and Qwicc connectors for easy sensor board additions</li>
         <li>Simple headers and jumpers for all I/O</li>
@@ -750,6 +754,10 @@
     <board_uri>https://github.com/Infineon/TARGET_Vela-IF820-EXT-ANT-DVK</board_uri>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback spp btsdk_ota_app anc ans batc bats beacon findme helloc hellos hrc hrs lecoc adc gpio lowpower puart pwm" prefix="wiced_btsdk/dev-kit/bsp">
+        <num>4.6.0 release</num>
+        <commit>release-v4.6.0</commit>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback spp btsdk_ota_app anc ans batc bats beacon findme helloc hellos hrc hrs lecoc adc gpio lowpower puart pwm" prefix="wiced_btsdk/dev-kit/bsp">
         <num>4.5.1 release</num>
         <commit>release-v4.5.1</commit>
       </version>
@@ -763,12 +771,12 @@
       <radio>CYW20820A1</radio>
     </chips>
     <name>Vela-IF820-EXT-ANT-DVK</name>
-    <summary>The Vela IF820 includes multiple small form factor PCB modules to suit any host board footprint and targets both hosted and hostless applications. They're accompanied by low cost, easy to use development kits and the addition of a certified, packaged USB Adapter to add Classic Bluetooth&#174; and Bluetooth&#174; LE connectivity to a variety of additional products in your Bluetooth&#174; portfolio. Together, Infineon and Laird Connectivity drive down your total cost of ownership, design complexity and risk, while ensuring you the fastest time to market for your next dual mode Bluetooth&#174; IoT design. See https://www.lairdconnect.com/wireless-modules/bluetooth-modules/bluetooth-5-modules/vela-if820-series-bluetooth-5-2-dual-mode-modules for more information.</summary>
+    <summary>The Vela IF820 includes multiple small form factor PCB modules to suit any host board footprint and targets both hosted and hostless applications. They're accompanied by low cost, easy to use development kits and the addition of a certified, packaged USB Adapter to add Classic Bluetooth&#174; and Bluetooth&#174; LE connectivity to a variety of additional products in your Bluetooth&#174; portfolio. Together, Infineon and Laird Connectivity drive down your total cost of ownership, design complexity and risk, while ensuring you the fastest time to market for your next dual mode Bluetooth&#174; IoT design. See &lt;a href="https://www.lairdconnect.com/wireless-modules/bluetooth-modules/bluetooth-5-modules/vela-if820-series-bluetooth-5-2-dual-mode-modules"&gt;Vela IF820 Series - Bluetooth 5.4 Dual-Mode Modules&lt;/a&gt; for more information.</summary>
     <prov_capabilities>ble br_edr mesh hid ota hal btsdk fw2 Vela_IF820_EXT_ANT_DVK</prov_capabilities>
     <description><![CDATA[
         <div class="category">Kit Features:</div><ul>
         <li>Vela IF820 module (Part # 453-00172) using CYW20820-based silicon</li>
-        <li>Dual-mode Bluetooth&#174; (LE/BR/EDR) and Bluetooth&#174; 5.2 certified</li>
+        <li>Dual-mode Bluetooth&#174; (LE/BR/EDR) and Bluetooth&#174; 5.4 certified</li>
         <li>FCC, ISED, CE, UKCA, MIC, RCM and KCC Certified Module on board (Part # 453-00172)</li>
         <li>DVK supports MikroBus and Qwicc connectors for easy sensor board additions</li>
         <li>Simple headers and jumpers for all I/O</li>
@@ -827,7 +835,7 @@
     <prov_capabilities>ble br_edr mesh hid ota hal btsdk fw2 CYBT_253059_EVAL</prov_capabilities>
     <description><![CDATA[
         <div class="category">Kit Features:</div><ul>
-        <li>CYW20820-based dual-mode (LE/BR/EDR) Bluetooth&#174; 5.0-compliant fully certified module (CYBT-253059-02)</li>
+        <li>CYW20820-based dual-mode (LE/BR/EDR) Bluetooth&#174; 5.4-compliant fully certified module (CYBT-253059-02)</li>
         <li>Arduino compatible headers for hardware expansion</li>
         <li>User switches and LEDs</li>
         <li>FCC, ISED, MIC, and CE Certified Module on board (CYBT-253059-02)</li>
@@ -894,11 +902,11 @@
       <radio>CYW20820A1</radio>
     </chips>
     <name>CYW920820EVB-02</name>
-    <summary>The Infineon CYW920820EVB-02 Evaluation Kit enables you to evaluate and develop single-chip Bluetooth&#174; applications using the CYW20820, an ultra-low-power dual-mode Bluetooth&#174; 5.2 wireless MCU device. The CYW20820 is a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting LE/BR/EDR. The CYW20820 delivers up to 10.5 dBm Tx power in LE and BR modes and up to 4 dBm in EDR mode that extends range in applications like home and industrial automation, wearables, toys, and HID. The CYW20820 employs high integration to reduce external components, thereby minimizing the device's footprint and cost. This kit helps evaluate device functionality and develop applications quickly for faster time-to-market.</summary>
+    <summary>The Infineon CYW920820EVB-02 Evaluation Kit enables you to evaluate and develop single-chip Bluetooth&#174; applications using the CYW20820, an ultra-low-power dual-mode Bluetooth&#174; 5.4 wireless MCU device. The CYW20820 is a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting LE/BR/EDR. The CYW20820 delivers up to 10.5 dBm Tx power in LE and BR modes and up to 4 dBm in EDR mode that extends range in applications like home and industrial automation, wearables, toys, and HID. The CYW20820 employs high integration to reduce external components, thereby minimizing the device's footprint and cost. This kit helps evaluate device functionality and develop applications quickly for faster time-to-market.</summary>
     <prov_capabilities>ble br_edr mesh hid audio ota hal btsdk fw2 CYW920820EVB_02 lsm9ds1 ncu15wf104 led2x button CYW208XX CYW208XX_62fbga</prov_capabilities>
     <description><![CDATA[
         <div class="category">Kit Features:</div><ul>
-        <li>62-FBGA CYW20820 dual-mode (LE/BR/EDR) Bluetooth&#174; 5.2-compliant wireless MCU with internal Power Amplifier (iPA)</li>
+        <li>62-FBGA CYW20820 dual-mode (LE/BR/EDR) Bluetooth&#174; 5.4-compliant wireless MCU with internal Power Amplifier (iPA)</li>
         <li>Arduino compatible headers for hardware expansion</li>
         <li>On-board sensors - a lsm9ds1 9-axis motion sensor (3D digital linear acceleration sensor, 3D digital angular rate sensor, and 3D digital magnetic sensor) and a ncu15wf104 thermistor</li>
         <li>User switches and LEDs</li>
@@ -951,8 +959,8 @@
     </chips>
     <name>CYW920820M2EVB-01</name>
     <summary><![CDATA[
-    The Infineon AIROC&#8482; CYW20820 Bluetooth&#174; and Bluetooth&#174; LE evaluation kit (CYW920820M2EVB-01) enables evaluation, prototyping, and development of a wide array of IoT applications using the AIROC&#8482; CYW20820, an ultra-low-power dual-mode Bluetooth&#174; 5.2 system on chip.
-    <p>The AIROC&#8482; CYW20820 Bluetooth&#174; and Bluetooth&#174; LE system on chip provides reliable Bluetooth&#174; connectivity, core spec compliant to 5.2, along with high performance compute capability integrating an Arm&#174; Cortex&#174;-M4 processor with floating point unit. It is a highly integrated device which delivers up to 11.5 dBm transmit power in LE and BR modes and up to 2.5 dBm in EDR mode.  The AIROC&#8482; CYW20820 is designed to support a wide range of Bluetooth&#174; use cases for home and industrial automation, lighting, and sensor nodes.</p>
+    The Infineon AIROC&#8482; CYW20820 Bluetooth&#174; and Bluetooth&#174; LE evaluation kit (CYW920820M2EVB-01) enables evaluation, prototyping, and development of a wide array of IoT applications using the AIROC&#8482; CYW20820, an ultra-low-power dual-mode Bluetooth&#174; 5.4 system on chip.
+    <p>The AIROC&#8482; CYW20820 Bluetooth&#174; and Bluetooth&#174; LE system on chip provides reliable Bluetooth&#174; connectivity, core spec compliant to 5.4, along with high performance compute capability integrating an Arm&#174; Cortex&#174;-M4 processor with floating point unit. It is a highly integrated device which delivers up to 11.5 dBm transmit power in LE and BR modes and up to 2.5 dBm in EDR mode.  The AIROC&#8482; CYW20820 is designed to support a wide range of Bluetooth&#174; use cases for home and industrial automation, lighting, and sensor nodes.</p>
     <p>The AIROC&#8482; CYW20820 Bluetooth&#174; and Bluetooth&#174; LE evaluation kit (CYW920820M2EVB-01) and the AIROC&#8482; Bluetooth&#174; SDK along with ModusToolbox&#8482; software and tools form a powerful but easy to use toolset that helps developers create amazing Bluetooth&#174; enabled IoT solutions.</p>
     ]]></summary>
     <prov_capabilities>ble br_edr mesh hid audio ota hal btsdk fw2 CYW920820M2EVB_01 ncu15wf104 led2x button CYW208XX CYW208XX_62fbga</prov_capabilities>
@@ -1018,11 +1026,11 @@
       <radio>CYW20820A1</radio>
     </chips>
     <name>CYW989820EVB-01</name>
-    <summary>The Infineon CYW989820EVB-01 Evaluation Kit enables you to evaluate and develop single-chip Bluetooth&#174; applications using the CYW89820, an Automotive qualified dual-mode Bluetooth&#174; 5.2 wireless system on chip device. The CYW89820 is a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting LE/BR/EDR. The CYW89820 delivers up to 10.5 dBm Tx power in LE and BR modes and up to 4 dBm in EDR mode that extends range in applications like Automotive Keyless Entry, Remote Parking, Sensor Control, Wake-up trigger for Telematics units etc. The CYW89820 employs high integration to reduce external components, thereby minimizing the device's footprint and cost. This kit helps evaluate device functionality and develop applications quickly for faster time-to-market.</summary>
+    <summary>The Infineon CYW989820EVB-01 Evaluation Kit enables you to evaluate and develop single-chip Bluetooth&#174; applications using the CYW89820, an Automotive qualified dual-mode Bluetooth&#174; 5.4 wireless system on chip device. The CYW89820 is a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting LE/BR/EDR. The CYW89820 delivers up to 10.5 dBm Tx power in LE and BR modes and up to 4 dBm in EDR mode that extends range in applications like Automotive Keyless Entry, Remote Parking, Sensor Control, Wake-up trigger for Telematics units etc. The CYW89820 employs high integration to reduce external components, thereby minimizing the device's footprint and cost. This kit helps evaluate device functionality and develop applications quickly for faster time-to-market.</summary>
     <prov_capabilities>ble br_edr mesh hid ota peps hal btsdk fw2 CYW989820EVB_01 CYW208XX</prov_capabilities>
     <description><![CDATA[
         <div class="category">Kit Features:</div><ul>
-        <li>48-WQFN CYW89820 dual-mode (LE/BR/EDR) Bluetooth&#174; 5.2-compliant wireless MCU with internal Power Amplifier (iPA)</li>
+        <li>48-WQFN CYW89820 dual-mode (LE/BR/EDR) Bluetooth&#174; 5.4-compliant wireless MCU with internal Power Amplifier (iPA)</li>
         <li>Arduino compatible headers for hardware expansion</li>
         <li>On-board sensors - a 9-axis motion sensor (3D digital linear acceleration sensor, 3D digital angular rate sensor, and 3D digital magnetic sensor) and a thermistor</li>
         <li>User switches and LEDs</li>
@@ -1065,14 +1073,14 @@
       <radio>CYW20820A1</radio>
     </chips>
     <name>CYW989820M2EVB-01</name>
-    <summary><![CDATA[ The Infineon AIROC&#8482; CYW89820 Bluetooth&#174; and Bluetooth&#174; LE evaluation kit (CYW989820M2EVB-01) enables evaluation, prototyping, and development of a wide array of IoT applications using the AIROC&#8482; CYW89820, an ultra-low-power dual-mode Bluetooth&#174; 5.2 system on chip.
-    <p>The AIROC&#8482; CYW89820 Bluetooth&#174; and Bluetooth&#174; LE system on chip provides reliable Bluetooth&#174; connectivity, core spec compliant to 5.2, along with high-performance compute capability integrating an Arm&#174; Cortex&#174;-M4 processor with floating point unit. </p>
+    <summary><![CDATA[ The Infineon AIROC&#8482; CYW89820 Bluetooth&#174; and Bluetooth&#174; LE evaluation kit (CYW989820M2EVB-01) enables evaluation, prototyping, and development of a wide array of IoT applications using the AIROC&#8482; CYW89820, an ultra-low-power dual-mode Bluetooth&#174; 5.4 system on chip.
+    <p>The AIROC&#8482; CYW89820 Bluetooth&#174; and Bluetooth&#174; LE system on chip provides reliable Bluetooth&#174; connectivity, core spec compliant to 5.4, along with high-performance compute capability integrating an Arm&#174; Cortex&#174;-M4 processor with floating point unit. </p>
     <p>It is a highly integrated device which delivers up to 11.5 dBm transmit output power in LE and BR modes and up to 2 dBm in EDR mode. The AIROC&#8482; CYW89820 is designed to support a wide range of Bluetooth&#174; use cases for automotive and industrial applications. This kit helps evaluate device functionality and develop applications quickly for faster time-to-market.</p>
     ]]></summary>
     <prov_capabilities>ble br_edr mesh hid ota peps hal btsdk fw2 CYW989820M2EVB_01 CYW208XX</prov_capabilities>
     <description><![CDATA[
         <div class="category">Kit Features:</div><ul>
-        <li>48-WQFN CYW89820 dual-mode (LE/BR/EDR) Bluetooth&#174; 5.2-compliant wireless MCU with internal Power Amplifier (iPA)</li>
+        <li>48-WQFN CYW89820 dual-mode (LE/BR/EDR) Bluetooth&#174; 5.4-compliant wireless MCU with internal Power Amplifier (iPA)</li>
         <li>Arduino compatible headers for hardware expansion</li>
         <li>User switches and LEDs</li>
         <li>USB connector for power, programming, and USB-UART bridge</li>
