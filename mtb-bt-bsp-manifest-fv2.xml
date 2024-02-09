@@ -711,14 +711,6 @@
     <board_uri>https://github.com/Infineon/TARGET_Vela-IF820-INT-ANT-DVK</board_uri>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback spp btsdk_ota_app anc ans batc bats beacon findme helloc hellos hrc hrs lecoc adc gpio lowpower puart pwm" prefix="wiced_btsdk/dev-kit/bsp">
-        <num>4.6.0 release</num>
-        <commit>release-v4.6.0</commit>
-      </version>
-      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback spp btsdk_ota_app anc ans batc bats beacon findme helloc hellos hrc hrs lecoc adc gpio lowpower puart pwm" prefix="wiced_btsdk/dev-kit/bsp">
-        <num>4.5.1 release</num>
-        <commit>release-v4.5.1</commit>
-      </version>
-      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback spp btsdk_ota_app anc ans batc bats beacon findme helloc hellos hrc hrs lecoc adc gpio lowpower puart pwm" prefix="wiced_btsdk/dev-kit/bsp">
         <num>Latest v4.X release</num>
         <commit>latest-v4.X</commit>
       </version>
@@ -1926,6 +1918,10 @@
     <board_uri>https://github.com/Infineon/TARGET_CYW920736M2EVB-01</board_uri>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 wiced_btsdk_tools hellos20736 helloc20736 ibeacon20736 mybeacon20736 btsdk_ota_app_20736  spimaster20736 spislave20736 pwm20736 rtc20736 glucose20736 heart20736 proximity20736 proximityclient20736" prefix="wiced_btsdk/dev-kit/bsp">
+        <num>4.6.1 release</num>
+        <commit>release-v4.6.1</commit>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 wiced_btsdk_tools hellos20736 helloc20736 ibeacon20736 mybeacon20736 btsdk_ota_app_20736  spimaster20736 spislave20736 pwm20736 rtc20736 glucose20736 heart20736 proximity20736 proximityclient20736" prefix="wiced_btsdk/dev-kit/bsp">
         <num>3.3.0 release</num>
         <commit>release-v3.3.0</commit>
       </version>
@@ -1938,6 +1934,10 @@
         <commit>release-v3.1.0</commit>
       </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 wiced_btsdk_tools hellos20736 helloc20736 ibeacon20736 mybeacon20736 btsdk_ota_app_20736  spimaster20736 spislave20736 pwm20736 rtc20736 glucose20736 heart20736 proximity20736 proximityclient20736" prefix="wiced_btsdk/dev-kit/bsp">
+        <num>Latest v4.X release</num>
+        <commit>latest-v4.X</commit>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 wiced_btsdk_tools hellos20736 helloc20736 ibeacon20736 mybeacon20736 btsdk_ota_app_20736  spimaster20736 spislave20736 pwm20736 rtc20736 glucose20736 heart20736 proximity20736 proximityclient20736" prefix="wiced_btsdk/dev-kit/bsp">
         <num>Latest v3.X release</num>
         <commit>latest-v3.X</commit>
       </version>
@@ -1947,11 +1947,11 @@
       <radio>CYW20736A1</radio>
     </chips>
     <name>CYW920736M2EVB-01</name>
-    <summary>The Infineon CYW920736M2EVB-01 Evaluation kit enables you to evaluate and develop single-chip Bluetooth&#174; Low Energy applications using the AIROC&#8482; CYW20736 Bluetooth&#174; Low Energy system on chip. The CYW20736 is a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting Bluetooth&#174; LE and core spec compliant to 5.2. The CYW20736 employs high integration to reduce external components, thereby minimizing the device's footprint and cost. This kit helps evaluate device functionality and develop remote applications quickly for faster time-to-market.</summary>
+    <summary>The Infineon CYW920736M2EVB-01 Evaluation kit enables you to evaluate and develop single-chip Bluetooth&#174; Low Energy applications using the AIROC&#8482; CYW20736 Bluetooth&#174; Low Energy system on chip. The CYW20736 is a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting Bluetooth&#174; LE and core spec compliant to 5.4. The CYW20736 employs high integration to reduce external components, thereby minimizing the device's footprint and cost. This kit helps evaluate device functionality and develop remote applications quickly for faster time-to-market.</summary>
     <prov_capabilities>ble ota hal btsdk</prov_capabilities>
     <description><![CDATA[
         <div class="category">Kit Features:</div><ul>
-        <li>32-QFN AIROC&#8482; CYW20736 Bluetooth&#174; Low Energy 5.2-compliant system on chip</li>
+        <li>32-QFN AIROC&#8482; CYW20736 Bluetooth&#174; Low Energy 5.4-compliant system on chip</li>
         <li>On-board sensors - an ambient light sensor and thermistor</li>
         <li>User switches and LEDs</li>
         <li>USB connector for power, programming, and USB-UART bridge</li>
@@ -2018,11 +2018,11 @@
       <radio>CYW20835B1</radio>
     </chips>
     <name>CYW920835REF-RCU-01</name>
-    <summary>The Infineon CYW920835REF-RCU-01 Reference remote enables you to evaluate and develop single-chip Bluetooth&#174; Low Energy remote device applications using the CYW20835, an ultra-low-power Bluetooth&#174; Low Energy 5.2 wireless MCU device. The CYW20835 is a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting LE. The CYW20835 employs high integration to reduce external components, thereby minimizing the device's footprint and cost. This kit helps evaluate device functionality and develop remote applications quickly for faster time-to-market.</summary>
+    <summary>The Infineon CYW920835REF-RCU-01 Reference remote enables you to evaluate and develop single-chip Bluetooth&#174; Low Energy remote device applications using the CYW20835, an ultra-low-power Bluetooth&#174; Low Energy 5.4 wireless MCU device. The CYW20835 is a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting LE. The CYW20835 employs high integration to reduce external components, thereby minimizing the device's footprint and cost. This kit helps evaluate device functionality and develop remote applications quickly for faster time-to-market.</summary>
     <prov_capabilities>ble hid audio ota hal btsdk fw2 CYW920835REF_RCU_01</prov_capabilities>
     <description><![CDATA[
         <div class="category">Kit Features:</div><ul>
-        <li>60-QFN CYW20835B1 Bluetooth&#174; Low Energy 5.2-compliant wireless MCU</li>
+        <li>60-QFN CYW20835B1 Bluetooth&#174; Low Energy 5.4-compliant wireless MCU</li>
         <li>Reference remote hardware</li>
         <li>Analog microphone</li>
         <li>16 buttons: Power, Voice, Up, Down, Left, Right, Select, Back, Home, Menu, Rewind, Play/Pause, Fast Forward, VOL+, VOL-, Mute</li>
@@ -2077,11 +2077,11 @@
       <radio>CYW20835B1</radio>
     </chips>
     <name>CYW920835M2EVB-01</name>
-    <summary>The Infineon CYW920835M2EVB-01 Evaluation kit enables you to evaluate and develop single-chip Bluetooth&#174; Low Energy applications using the CYW20835, an ultra-low-power Bluetooth&#174; LE 5.2 wireless MCU device. The CYW20835 is a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting Bluetooth&#174; Low Energy. The CYW20835 employs high integration to reduce external components, thereby minimizing the device's footprint and cost. This kit helps evaluate device functionality and develop applications quickly for faster time-to-market.</summary>
+    <summary>The Infineon CYW920835M2EVB-01 Evaluation kit enables you to evaluate and develop single-chip Bluetooth&#174; Low Energy applications using the CYW20835, an ultra-low-power Bluetooth&#174; LE 5.4 wireless MCU device. The CYW20835 is a stand-alone baseband processor with an integrated 2.4 GHz transceiver supporting Bluetooth&#174; Low Energy. The CYW20835 employs high integration to reduce external components, thereby minimizing the device's footprint and cost. This kit helps evaluate device functionality and develop applications quickly for faster time-to-market.</summary>
     <prov_capabilities>ble mesh hid audio ota hal btsdk fw2 led2x CYW920835M2EVB_01 ncu15wf104 button MAX44009EDT</prov_capabilities>
     <description><![CDATA[
         <div class="category">Kit Features:</div><ul>
-        <li>60-QFN CYW20835B1 Bluetooth&#174; Low Energy 5.2-compliant wireless MCU</li>
+        <li>60-QFN CYW20835B1 Bluetooth&#174; Low Energy 5.4-compliant wireless MCU</li>
         <li>On-board sensors - an ambient light sensor, thermistor, footprint for analog microphone, and footprint for Infineon digital microphone</li>
         <li>User switches and LEDs</li>
         <li>USB connector for power, programming, and USB-UART bridge</li>
@@ -2170,11 +2170,11 @@
       <radio>CYW20835B1</radio>
     </chips>
     <name>CYBLE-343072-EVAL-M2B</name>
-    <summary>The Infineon AIROC&#8482; CYW20835 Bluetooth&#174; LE 5.2 Module Evaluation Kit (CYBLE-343072-EVAL-M2B) enables evaluation, prototyping, and development of a wide array of IoT applications using the AIROC&#8482; CYW20835, an ultra-low-power Bluetooth&#174; LE 5.2 system on chip.</summary>
+    <summary>The Infineon AIROC&#8482; CYW20835 Bluetooth&#174; LE 5.2 Module Evaluation Kit (CYBLE-343072-EVAL-M2B) enables evaluation, prototyping, and development of a wide array of IoT applications using the AIROC&#8482; CYW20835, an ultra-low-power Bluetooth&#174; LE 5.4 system on chip.</summary>
     <prov_capabilities>ble mesh hid audio ota hal btsdk fw2 led2x CYBLE_343072_EVAL_M2B ncu15wf104 button MAX44009EDT</prov_capabilities>
     <description><![CDATA[
     <br>
-            The AIROC&#8482; CYW20835 Bluetooth&#174; LE system on chip provides reliable Bluetooth&#174; LE connectivity, core spec compliant to 5.2, along with high-performance compute capability integrating an Arm&#174; Cortex&#174;-M4 processor with floating point unit. It is a highly integrated device integrating multiple serial interfaces, PWMs, analog and digital microphone interfaces, and more. The AIROC&#8482; CYW20835 is designed to support the entire spectrum of Bluetooth&#174; Low Energy use cases for home automation, lighting, accessory, HID, medical, industrial, and sensor nodes as well as being fully Bluetooth&#174; mesh compliant. This Evaluation Kit (CYBLE-343072-EVAL-M2B) includes an Infineon in-house AIROC&#8482; Bluetooth&#174; module hosting the AIROC&#8482; CYW20835 that is globally certified and has PCB antenna integrated, rapidly reducing time-to-market.
+            The AIROC&#8482; CYW20835 Bluetooth&#174; LE system on chip provides reliable Bluetooth&#174; LE connectivity, core spec compliant to 5.4, along with high-performance compute capability integrating an Arm&#174; Cortex&#174;-M4 processor with floating point unit. It is a highly integrated device integrating multiple serial interfaces, PWMs, analog and digital microphone interfaces, and more. The AIROC&#8482; CYW20835 is designed to support the entire spectrum of Bluetooth&#174; Low Energy use cases for home automation, lighting, accessory, HID, medical, industrial, and sensor nodes as well as being fully Bluetooth&#174; mesh compliant. This Evaluation Kit (CYBLE-343072-EVAL-M2B) includes an Infineon in-house AIROC&#8482; Bluetooth&#174; module hosting the AIROC&#8482; CYW20835 that is globally certified and has PCB antenna integrated, rapidly reducing time-to-market.
     <br>
     <br>
             The AIROC&#8482; CYW20835 Bluetooth&#174; LE 5.2 Module Evaluation Kit (CYBLE-343072-EVAL-M2B) is supported in the AIROC&#8482; Bluetooth&#174; SDK within ModusToolbox&#8482; Software and Tools with copious code examples and documentation enablement for Bluetooth&#174; LE data transfer, HID and Bluetooth&#174; mesh use cases.
@@ -2223,11 +2223,11 @@
       <radio>CYW20835B1</radio>
     </chips>
     <name>CYBLE-333074-EVAL-M2B</name>
-    <summary>The Infineon AIROC&#8482; CYW20835 Bluetooth&#174; LE 5.2 Module Evaluation Kit (CYBLE-333074-EVAL-M2B) enables evaluation, prototyping, and development of a wide array of IoT applications using the AIROC&#8482; CYW20835, an ultra-low-power Bluetooth&#174; LE 5.2 system on chip.</summary>
+    <summary>The Infineon AIROC&#8482; CYW20835 Bluetooth&#174; LE 5.2 Module Evaluation Kit (CYBLE-333074-EVAL-M2B) enables evaluation, prototyping, and development of a wide array of IoT applications using the AIROC&#8482; CYW20835, an ultra-low-power Bluetooth&#174; LE 5.4 system on chip.</summary>
     <prov_capabilities>ble mesh hid audio ota hal btsdk fw2 led2x CYBLE_333074_EVAL_M2B ncu15wf104 button MAX44009EDT</prov_capabilities>
     <description><![CDATA[
     <br>
-            The AIROC&#8482; CYW20835 Bluetooth&#174; LE system on chip provides reliable Bluetooth&#174; LE connectivity, core spec compliant to 5.2, along with high-performance compute capability integrating an Arm&#174; Cortex&#174;-M4 processor with floating point unit. It is a highly integrated device integrating multiple serial interfaces, PWMs, analog and digital microphone interfaces, and more. The AIROC&#8482; CYW20835 is designed to support the entire spectrum of Bluetooth&#174; Low Energy use cases for home automation, lighting, accessory, HID, medical, industrial, and sensor nodes as well as being fully Bluetooth&#174; mesh compliant. This evaluation kit (CYBLE-333074-EVAL-M2B) includes an Infineon in-house AIROC&#8482; Bluetooth&#174; module hosting the AIROC&#8482; CYW20835 that is globally certified and has uFL connector for external antenna, rapidly reducing time-to-market.
+            The AIROC&#8482; CYW20835 Bluetooth&#174; LE system on chip provides reliable Bluetooth&#174; LE connectivity, core spec compliant to 5.4, along with high-performance compute capability integrating an Arm&#174; Cortex&#174;-M4 processor with floating point unit. It is a highly integrated device integrating multiple serial interfaces, PWMs, analog and digital microphone interfaces, and more. The AIROC&#8482; CYW20835 is designed to support the entire spectrum of Bluetooth&#174; Low Energy use cases for home automation, lighting, accessory, HID, medical, industrial, and sensor nodes as well as being fully Bluetooth&#174; mesh compliant. This evaluation kit (CYBLE-333074-EVAL-M2B) includes an Infineon in-house AIROC&#8482; Bluetooth&#174; module hosting the AIROC&#8482; CYW20835 that is globally certified and has uFL connector for external antenna, rapidly reducing time-to-market.
     <br>
     <br>
             The AIROC&#8482; CYW20835 Bluetooth&#174; LE 5.2 Module Evaluation Kit (CYBLE-333074-EVAL-M2B) is supported in the AIROC&#8482; Bluetooth&#174; SDK within ModusToolbox&#8482; Software and Tools with copious code examples and documentation enablement for Bluetooth&#174; LE data transfer, HID and Bluetooth&#174; mesh use cases.
@@ -2272,11 +2272,11 @@
       <radio>CYW20835B1</radio>
     </chips>
     <name>CYBLE-343072-MESH</name>
-    <summary>The Infineon AIROC&#8482; CYW20835 Bluetooth&#174; LE 5.2 mesh evaluation kit (CYBLE-343072-MESH) enables evaluation, prototyping, and development of Bluetooth&#174; mesh applications using the AIROC&#8482; CYW20835, an ultra-low-power Bluetooth&#174; LE 5.2 system on chip.</summary>
+    <summary>The Infineon AIROC&#8482; CYW20835 Bluetooth&#174; LE 5.2 mesh evaluation kit (CYBLE-343072-MESH) enables evaluation, prototyping, and development of Bluetooth&#174; mesh applications using the AIROC&#8482; CYW20835, an ultra-low-power Bluetooth&#174; LE 5.4 system on chip.</summary>
     <prov_capabilities>btstack10 ble mesh hid ota hal btsdk fw2 led2x CYBLE_343072_MESH ncp15xv103 button MAX44009EDT</prov_capabilities>
     <description><![CDATA[
     <br>
-            The AIROC&#8482; CYW20835 Bluetooth&#174; LE system on chip provides reliable Bluetooth&#174; LE connectivity, core spec compliant to 5.2, along with high-performance compute capability integrating an Arm&#174; Cortex&#174;-M4 processor with floating point unit. It is a highly integrated device integrating multiple serial interfaces, PWMs, analog and digital microphone interfaces, and more. This evaluation kit (CYBLE-343072-MESH) includes an Infineon in-house AIROC&#8482; Bluetooth&#174; module hosting the AIROC&#8482; CYW20835 that is globally certified and has PCB antenna integrated, rapidly reducing time-to-market.
+            The AIROC&#8482; CYW20835 Bluetooth&#174; LE system on chip provides reliable Bluetooth&#174; LE connectivity, core spec compliant to 5.4, along with high-performance compute capability integrating an Arm&#174; Cortex&#174;-M4 processor with floating point unit. It is a highly integrated device integrating multiple serial interfaces, PWMs, analog and digital microphone interfaces, and more. This evaluation kit (CYBLE-343072-MESH) includes an Infineon in-house AIROC&#8482; Bluetooth&#174; module hosting the AIROC&#8482; CYW20835 that is globally certified and has PCB antenna integrated, rapidly reducing time-to-market.
     <br>
     <br>
             The AIROC&#8482; CYW20835 Bluetooth&#174; LE 5.2 mesh evaluation kit (CYBLE-343072-MESH) is supported in the AIROC&#8482; Bluetooth&#174; SDK within ModusToolbox&#8482; Software and Tools with copious code examples and documentation enablement for Bluetooth&#174; mesh use cases.

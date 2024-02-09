@@ -2161,6 +2161,24 @@
     <id>CYW920736M2EVB-01</id>
     <versions>
       <version>
+        <commit>latest-v4.X</commit>
+        <dependees>
+          <dependee>
+            <id>20736A1</id>
+            <commit>latest-v4.X</commit>
+          </dependee>
+        </dependees>
+      </version>
+      <version>
+        <commit>release-v4.6.1</commit>
+        <dependees>
+          <dependee>
+            <id>20736A1</id>
+            <commit>latest-v4.X</commit>
+          </dependee>
+        </dependees>
+      </version>
+      <version>
         <commit>latest-v3.X</commit>
         <dependees>
           <dependee>
