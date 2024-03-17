@@ -284,6 +284,24 @@
     <id>CYW920819EVB-02</id>
     <versions>
       <version>
+        <commit>latest-v4.X</commit>
+        <dependees>
+          <dependee>
+            <id>20819A1</id>
+            <commit>latest-v4.X</commit>
+          </dependee>
+        </dependees>
+      </version>
+      <version>
+        <commit>release-v4.6.2</commit>
+        <dependees>
+          <dependee>
+            <id>20819A1</id>
+            <commit>latest-v4.X</commit>
+          </dependee>
+        </dependees>
+      </version>
+      <version>
         <commit>latest-v3.X</commit>
         <dependees>
           <dependee>
@@ -370,6 +388,15 @@
         </dependees>
       </version>
       <version>
+        <commit>release-v4.6.2</commit>
+        <dependees>
+          <dependee>
+            <id>20819A1</id>
+            <commit>latest-v4.X</commit>
+          </dependee>
+        </dependees>
+      </version>
+      <version>
         <commit>release-v4.4.2</commit>
         <dependees>
           <dependee>
@@ -408,85 +435,26 @@
     </versions>
   </depender>
   <depender>
-    <id>CYBT-213043-MESH</id>
-    <versions>
-      <version>
-        <commit>latest-v3.X</commit>
-        <dependees>
-          <dependee>
-            <id>20819A1</id>
-            <commit>latest-v4.X</commit>
-          </dependee>
-        </dependees>
-      </version>
-      <version>
-        <commit>release-v3.3.0</commit>
-        <dependees>
-          <dependee>
-            <id>20819A1</id>
-            <commit>latest-v4.X</commit>
-          </dependee>
-        </dependees>
-      </version>
-      <version>
-        <commit>release-v3.2.0</commit>
-        <dependees>
-          <dependee>
-            <id>20819A1</id>
-            <commit>release-v3.2.0</commit>
-          </dependee>
-        </dependees>
-      </version>
-      <version>
-        <commit>release-v3.1.0</commit>
-        <dependees>
-          <dependee>
-            <id>20819A1</id>
-            <commit>release-v3.1.0</commit>
-          </dependee>
-        </dependees>
-      </version>
-      <version>
-        <commit>release-v3.0.0</commit>
-        <dependees>
-          <dependee>
-            <id>20819A1</id>
-            <commit>release-v3.0.0</commit>
-          </dependee>
-        </dependees>
-      </version>
-      <version>
-        <commit>latest-v2.X</commit>
-        <dependees>
-          <dependee>
-            <id>20819A1</id>
-            <commit>latest-v2.X</commit>
-          </dependee>
-        </dependees>
-      </version>
-      <version>
-        <commit>release-v2.9.0</commit>
-        <dependees>
-          <dependee>
-            <id>20819A1</id>
-            <commit>latest-v2.X</commit>
-          </dependee>
-        </dependees>
-      </version>
-      <version>
-        <commit>release-v2.8.0</commit>
-        <dependees>
-          <dependee>
-            <id>20819A1</id>
-            <commit>release-v2.8.0</commit>
-          </dependee>
-        </dependees>
-      </version>
-    </versions>
-  </depender>
-  <depender>
     <id>CYBT-213043-EVAL</id>
     <versions>
+      <version>
+        <commit>latest-v4.X</commit>
+        <dependees>
+          <dependee>
+            <id>20819A1</id>
+            <commit>latest-v4.X</commit>
+          </dependee>
+        </dependees>
+      </version>
+      <version>
+        <commit>release-v4.6.2</commit>
+        <dependees>
+          <dependee>
+            <id>20819A1</id>
+            <commit>latest-v4.X</commit>
+          </dependee>
+        </dependees>
+      </version>
       <version>
         <commit>latest-v3.X</commit>
         <dependees>
@@ -565,6 +533,24 @@
     <id>CYBT-223058-EVAL</id>
     <versions>
       <version>
+        <commit>latest-v4.X</commit>
+        <dependees>
+          <dependee>
+            <id>20819A1</id>
+            <commit>latest-v4.X</commit>
+          </dependee>
+        </dependees>
+      </version>
+      <version>
+        <commit>release-v4.6.2</commit>
+        <dependees>
+          <dependee>
+            <id>20819A1</id>
+            <commit>latest-v4.X</commit>
+          </dependee>
+        </dependees>
+      </version>
+      <version>
         <commit>latest-v3.X</commit>
         <dependees>
           <dependee>
@@ -632,6 +618,24 @@
   <depender>
     <id>CYBT-273063-EVAL</id>
     <versions>
+      <version>
+        <commit>latest-v4.X</commit>
+        <dependees>
+          <dependee>
+            <id>20819A1</id>
+            <commit>latest-v4.X</commit>
+          </dependee>
+        </dependees>
+      </version>
+      <version>
+        <commit>release-v4.6.2</commit>
+        <dependees>
+          <dependee>
+            <id>20819A1</id>
+            <commit>latest-v4.X</commit>
+          </dependee>
+        </dependees>
+      </version>
       <version>
         <commit>latest-v3.X</commit>
         <dependees>
@@ -701,6 +705,24 @@
     <id>CYBT-263065-EVAL</id>
     <versions>
       <version>
+        <commit>latest-v4.X</commit>
+        <dependees>
+          <dependee>
+            <id>20819A1</id>
+            <commit>latest-v4.X</commit>
+          </dependee>
+        </dependees>
+      </version>
+      <version>
+        <commit>release-v4.6.2</commit>
+        <dependees>
+          <dependee>
+            <id>20819A1</id>
+            <commit>latest-v4.X</commit>
+          </dependee>
+        </dependees>
+      </version>
+      <version>
         <commit>latest-v3.X</commit>
         <dependees>
           <dependee>
@@ -768,6 +790,24 @@
   <depender>
     <id>CYBT-243053-EVAL</id>
     <versions>
+      <version>
+        <commit>latest-v4.X</commit>
+        <dependees>
+          <dependee>
+            <id>20820A1</id>
+            <commit>latest-v4.X</commit>
+          </dependee>
+        </dependees>
+      </version>
+      <version>
+        <commit>release-v4.6.2</commit>
+        <dependees>
+          <dependee>
+            <id>20820A1</id>
+            <commit>latest-v4.X</commit>
+          </dependee>
+        </dependees>
+      </version>
       <version>
         <commit>latest-v3.X</commit>
         <dependees>
@@ -901,6 +941,24 @@
     <id>CYBT-253059-EVAL</id>
     <versions>
       <version>
+        <commit>latest-v4.X</commit>
+        <dependees>
+          <dependee>
+            <id>20820A1</id>
+            <commit>latest-v4.X</commit>
+          </dependee>
+        </dependees>
+      </version>
+      <version>
+        <commit>release-v4.6.2</commit>
+        <dependees>
+          <dependee>
+            <id>20820A1</id>
+            <commit>latest-v4.X</commit>
+          </dependee>
+        </dependees>
+      </version>
+      <version>
         <commit>latest-v3.X</commit>
         <dependees>
           <dependee>
@@ -970,6 +1028,15 @@
     <versions>
       <version>
         <commit>latest-v4.X</commit>
+        <dependees>
+          <dependee>
+            <id>20820A1</id>
+            <commit>latest-v4.X</commit>
+          </dependee>
+        </dependees>
+      </version>
+      <version>
+        <commit>release-v4.6.2</commit>
         <dependees>
           <dependee>
             <id>20820A1</id>
@@ -1073,6 +1140,15 @@
         </dependees>
       </version>
       <version>
+        <commit>release-v4.6.2</commit>
+        <dependees>
+          <dependee>
+            <id>20820A1</id>
+            <commit>latest-v4.X</commit>
+          </dependee>
+        </dependees>
+      </version>
+      <version>
         <commit>release-v4.4.2</commit>
         <dependees>
           <dependee>
@@ -1122,6 +1198,24 @@
   <depender>
     <id>CYW989820EVB-01</id>
     <versions>
+      <version>
+        <commit>latest-v4.X</commit>
+        <dependees>
+          <dependee>
+            <id>20820A1</id>
+            <commit>latest-v4.X</commit>
+          </dependee>
+        </dependees>
+      </version>
+      <version>
+        <commit>release-v4.6.2</commit>
+        <dependees>
+          <dependee>
+            <id>20820A1</id>
+            <commit>latest-v4.X</commit>
+          </dependee>
+        </dependees>
+      </version>
       <version>
         <commit>latest-v3.X</commit>
         <dependees>
@@ -1201,6 +1295,15 @@
     <versions>
       <version>
         <commit>latest-v4.X</commit>
+        <dependees>
+          <dependee>
+            <id>20820A1</id>
+            <commit>latest-v4.X</commit>
+          </dependee>
+        </dependees>
+      </version>
+      <version>
+        <commit>release-v4.6.2</commit>
         <dependees>
           <dependee>
             <id>20820A1</id>
@@ -2261,6 +2364,15 @@
         </dependees>
       </version>
       <version>
+        <commit>release-v4.6.2</commit>
+        <dependees>
+          <dependee>
+            <id>20835B1</id>
+            <commit>latest-v4.X</commit>
+          </dependee>
+        </dependees>
+      </version>
+      <version>
         <commit>release-v4.4.2</commit>
         <dependees>
           <dependee>
@@ -2348,6 +2460,15 @@
     <versions>
       <version>
         <commit>latest-v4.X</commit>
+        <dependees>
+          <dependee>
+            <id>20835B1</id>
+            <commit>latest-v4.X</commit>
+          </dependee>
+        </dependees>
+      </version>
+      <version>
+        <commit>release-v4.6.2</commit>
         <dependees>
           <dependee>
             <id>20835B1</id>
@@ -2456,6 +2577,24 @@
     <id>CYBLE-343072-EVAL-M2B</id>
     <versions>
       <version>
+        <commit>latest-v4.X</commit>
+        <dependees>
+          <dependee>
+            <id>20835B1</id>
+            <commit>latest-v4.X</commit>
+          </dependee>
+        </dependees>
+      </version>
+      <version>
+        <commit>release-v4.6.2</commit>
+        <dependees>
+          <dependee>
+            <id>20835B1</id>
+            <commit>latest-v4.X</commit>
+          </dependee>
+        </dependees>
+      </version>
+      <version>
         <commit>latest-v3.X</commit>
         <dependees>
           <dependee>
@@ -2497,6 +2636,24 @@
     <id>CYBLE-333074-EVAL-M2B</id>
     <versions>
       <version>
+        <commit>latest-v4.X</commit>
+        <dependees>
+          <dependee>
+            <id>20835B1</id>
+            <commit>latest-v4.X</commit>
+          </dependee>
+        </dependees>
+      </version>
+      <version>
+        <commit>release-v4.6.2</commit>
+        <dependees>
+          <dependee>
+            <id>20835B1</id>
+            <commit>latest-v4.X</commit>
+          </dependee>
+        </dependees>
+      </version>
+      <version>
         <commit>latest-v3.X</commit>
         <dependees>
           <dependee>
@@ -2537,6 +2694,24 @@
   <depender>
     <id>CYBLE-343072-MESH</id>
     <versions>
+      <version>
+        <commit>latest-v4.X</commit>
+        <dependees>
+          <dependee>
+            <id>20835B1</id>
+            <commit>latest-v4.X</commit>
+          </dependee>
+        </dependees>
+      </version>
+      <version>
+        <commit>release-v4.6.2</commit>
+        <dependees>
+          <dependee>
+            <id>20835B1</id>
+            <commit>latest-v4.X</commit>
+          </dependee>
+        </dependees>
+      </version>
       <version>
         <commit>latest-v3.X</commit>
         <dependees>
