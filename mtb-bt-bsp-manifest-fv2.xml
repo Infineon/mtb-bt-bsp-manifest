@@ -36,7 +36,7 @@
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
       </version>
-      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback mapc opps pbc spp spp_multi_port btsdk_hci_app btsdk_ota_app avsink audio_gateway handsfree headset watch ans anc bats batc beacon hellos helloc hrs hrc adc gpio puart pwm lowpower20706 uart_spi" prefix="wiced_btsdk/dev-kit/bsp">
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback mapc opps pbc spp spp_multi_port btsdk_hci_app btsdk_ota_app avsink audio_gateway handsfree headset watch ans anc bats batc beacon hellos helloc hrs hrc adc gpio puart pwm lowpower20706 uart_spi hs_sa" prefix="wiced_btsdk/dev-kit/bsp">
         <num>Latest v4.X release</num>
         <commit>latest-v4.X</commit>
       </version>
@@ -71,6 +71,10 @@
     <category>AIROC&#8482; Bluetooth&#174; BSPs</category>
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYBT-353027-EVAL</board_uri>
     <versions>
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback opps pbc spp btsdk_hci_app btsdk_ota_app anc ans batc bats beacon hellos helloc hrc hrs hs_sa" prefix="wiced_btsdk/dev-kit/bsp">
+        <num>4.7.0 release</num>
+        <commit>release-v4.7.0</commit>
+      </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback opps pbc spp btsdk_hci_app btsdk_ota_app anc ans batc bats beacon hellos hrc hrs" prefix="wiced_btsdk/dev-kit/bsp">
         <num>3.3.0 release</num>
         <commit>release-v3.3.0</commit>
@@ -94,6 +98,10 @@
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app hci_loopback opps pbc spp btsdk_ota_app anc ans batc bats beacon hellos hrc hrs" prefix="wiced_btsdk/dev-kit/bsp">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback opps pbc spp btsdk_hci_app btsdk_ota_app anc ans batc bats beacon hellos helloc hrc hrs hs_sa" prefix="wiced_btsdk/dev-kit/bsp">
+        <num>Latest v4.X release</num>
+        <commit>latest-v4.X</commit>
       </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback opps pbc spp btsdk_hci_app btsdk_ota_app anc ans batc bats beacon hellos hrc hrs" prefix="wiced_btsdk/dev-kit/bsp">
         <num>Latest v3.X release</num>
@@ -126,6 +134,10 @@
     <category>AIROC&#8482; Bluetooth&#174; BSPs</category>
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYBT-343026-EVAL</board_uri>
     <versions>
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback opps pbc spp btsdk_hci_app btsdk_ota_app anc ans batc bats beacon hellos helloc hrc hrs adc gpio puart pwm hs_sa" prefix="wiced_btsdk/dev-kit/bsp">
+        <num>4.7.0 release</num>
+        <commit>release-v4.7.0</commit>
+      </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback opps pbc spp btsdk_hci_app btsdk_ota_app anc ans batc bats beacon hellos hrc hrs adc gpio puart pwm" prefix="wiced_btsdk/dev-kit/bsp">
         <num>4.6.3 release</num>
         <commit>release-v4.6.3</commit>
@@ -154,7 +166,7 @@
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
       </version>
-      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback opps pbc spp btsdk_hci_app btsdk_ota_app anc ans batc bats beacon hellos hrc hrs adc gpio puart pwm" prefix="wiced_btsdk/dev-kit/bsp">
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback opps pbc spp btsdk_hci_app btsdk_ota_app anc ans batc bats beacon hellos helloc hrc hrs adc gpio puart pwm hs_sa" prefix="wiced_btsdk/dev-kit/bsp">
         <num>Latest v4.X release</num>
         <commit>latest-v4.X</commit>
       </version>
@@ -711,6 +723,10 @@
     <board_uri>https://github.com/Infineon/TARGET_Vela-IF820-INT-ANT-DVK</board_uri>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback spp btsdk_ota_app anc ans batc bats beacon findme helloc hellos hrc hrs lecoc adc gpio lowpower puart pwm" prefix="wiced_btsdk/dev-kit/bsp">
+        <num>4.7.0 release</num>
+        <commit>release-v4.7.0</commit>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback spp btsdk_ota_app anc ans batc bats beacon findme helloc hellos hrc hrs lecoc adc gpio lowpower puart pwm" prefix="wiced_btsdk/dev-kit/bsp">
         <num>4.6.0 release</num>
         <commit>release-v4.6.0</commit>
       </version>
@@ -728,7 +744,7 @@
       <radio>CYW20820A1</radio>
     </chips>
     <name>Vela-IF820-INT-ANT-DVK</name>
-    <summary>The Vela IF820 includes multiple small form factor PCB modules to suit any host board footprint and targets both hosted and hostless applications. They're accompanied by low cost, easy to use development kits and the addition of a certified, packaged USB Adapter to add Classic Bluetooth&#174; and Bluetooth&#174; LE connectivity to a variety of additional products in your Bluetooth&#174; portfolio. Together, Infineon and Laird Connectivity drive down your total cost of ownership, design complexity and risk, while ensuring you the fastest time to market for your next dual mode Bluetooth&#174; IoT design. See &lt;a href="https://www.lairdconnect.com/wireless-modules/bluetooth-modules/bluetooth-5-modules/vela-if820-series-bluetooth-5-2-dual-mode-modules"&gt;Vela IF820 Series - Bluetooth 5.4 Dual-Mode Modules&lt;/a&gt; for more information.</summary>
+    <summary>The Vela IF820 includes multiple small form factor PCB modules to suit any host board footprint and targets both hosted and hostless applications. They're accompanied by low cost, easy to use development kits and the addition of a certified, packaged USB Adapter to add Classic Bluetooth&#174; and Bluetooth&#174; LE connectivity to a variety of additional products in your Bluetooth&#174; portfolio. Together, Infineon and Ezurio drive down your total cost of ownership, design complexity and risk, while ensuring you the fastest time to market for your next dual mode Bluetooth&#174; IoT design. See &lt;a href="https://www.ezurio.com/wireless-modules/bluetooth-modules/bluetooth-5-modules/vela-if820-series-bluetooth-5-2-dual-mode-modules"&gt;Vela IF820 Series - Bluetooth 5.4 Dual-Mode Modules&lt;/a&gt; for more information.</summary>
     <prov_capabilities>ble br_edr hid ota hal btsdk fw2 Vela_IF820_INT_ANT_DVK</prov_capabilities>
     <description><![CDATA[
         <div class="category">Kit Features:</div><ul>
@@ -746,13 +762,17 @@
         </body>
         </html>
     ]]></description>
-    <documentation_url>https://www.infineon.com/cms/en/partners/design-partners/laird-connectivity</documentation_url>
+    <documentation_url>https://www.infineon.com/cms/en/partners/design-partners/ezurio/</documentation_url>
   </board>
   <board>
     <id>Vela-IF820-EXT-ANT-DVK</id>
     <category>AIROC&#8482; Bluetooth&#174; BSPs</category>
     <board_uri>https://github.com/Infineon/TARGET_Vela-IF820-EXT-ANT-DVK</board_uri>
     <versions>
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback spp btsdk_ota_app anc ans batc bats beacon findme helloc hellos hrc hrs lecoc adc gpio lowpower puart pwm" prefix="wiced_btsdk/dev-kit/bsp">
+        <num>4.7.0 release</num>
+        <commit>release-v4.7.0</commit>
+      </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback spp btsdk_ota_app anc ans batc bats beacon findme helloc hellos hrc hrs lecoc adc gpio lowpower puart pwm" prefix="wiced_btsdk/dev-kit/bsp">
         <num>4.6.0 release</num>
         <commit>release-v4.6.0</commit>
@@ -771,7 +791,7 @@
       <radio>CYW20820A1</radio>
     </chips>
     <name>Vela-IF820-EXT-ANT-DVK</name>
-    <summary>The Vela IF820 includes multiple small form factor PCB modules to suit any host board footprint and targets both hosted and hostless applications. They're accompanied by low cost, easy to use development kits and the addition of a certified, packaged USB Adapter to add Classic Bluetooth&#174; and Bluetooth&#174; LE connectivity to a variety of additional products in your Bluetooth&#174; portfolio. Together, Infineon and Laird Connectivity drive down your total cost of ownership, design complexity and risk, while ensuring you the fastest time to market for your next dual mode Bluetooth&#174; IoT design. See &lt;a href="https://www.lairdconnect.com/wireless-modules/bluetooth-modules/bluetooth-5-modules/vela-if820-series-bluetooth-5-2-dual-mode-modules"&gt;Vela IF820 Series - Bluetooth 5.4 Dual-Mode Modules&lt;/a&gt; for more information.</summary>
+    <summary>The Vela IF820 includes multiple small form factor PCB modules to suit any host board footprint and targets both hosted and hostless applications. They're accompanied by low cost, easy to use development kits and the addition of a certified, packaged USB Adapter to add Classic Bluetooth&#174; and Bluetooth&#174; LE connectivity to a variety of additional products in your Bluetooth&#174; portfolio. Together, Infineon and Ezurio drive down your total cost of ownership, design complexity and risk, while ensuring you the fastest time to market for your next dual mode Bluetooth&#174; IoT design. See &lt;a href="https://www.ezurio.com/wireless-modules/bluetooth-modules/bluetooth-5-modules/vela-if820-series-bluetooth-5-2-dual-mode-modules"&gt;Vela IF820 Series - Bluetooth 5.4 Dual-Mode Modules&lt;/a&gt; for more information.</summary>
     <prov_capabilities>ble br_edr hid ota hal btsdk fw2 Vela_IF820_EXT_ANT_DVK</prov_capabilities>
     <description><![CDATA[
         <div class="category">Kit Features:</div><ul>
@@ -790,7 +810,7 @@
         </body>
         </html>
     ]]></description>
-    <documentation_url>https://www.infineon.com/cms/en/partners/design-partners/laird-connectivity</documentation_url>
+    <documentation_url>https://www.infineon.com/cms/en/partners/design-partners/ezurio/</documentation_url>
   </board>
   <board>
     <id>CYBT-253059-EVAL</id>
@@ -1299,6 +1319,10 @@
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYW920719B2Q40EVB-01</board_uri>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback mapc opps pbc spp spp_multi_port btsdk_hci_app btsdk_ota_app audio_gateway watch ans anc batc bats beacon env_sens_temp helloc hellos hrc hrs lecoc adc gpio i2c_master puart uart_raw" prefix="wiced_btsdk/dev-kit/bsp">
+        <num>4.7.0 release</num>
+        <commit>release-v4.7.0</commit>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback mapc opps pbc spp spp_multi_port btsdk_hci_app btsdk_ota_app audio_gateway watch ans anc batc bats beacon env_sens_temp helloc hellos hrc hrs lecoc adc gpio i2c_master puart uart_raw" prefix="wiced_btsdk/dev-kit/bsp">
         <num>3.3.0 release</num>
         <commit>release-v3.3.0</commit>
       </version>
@@ -1321,6 +1345,10 @@
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app hci_loopback mapc opps pbc spp spp_multi_port btsdk_ota_app audio_gateway watch ans anc batc bats beacon env_sens_temp helloc hellos hrc hrs lecoc adc gpio i2c_master puart uart_raw" prefix="wiced_btsdk/dev-kit/bsp">
         <num>2.8.0 release</num>
         <commit>release-v2.8.0</commit>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback mapc opps pbc spp spp_multi_port btsdk_hci_app btsdk_ota_app audio_gateway watch ans anc batc bats beacon env_sens_temp helloc hellos hrc hrs lecoc adc gpio i2c_master puart uart_raw" prefix="wiced_btsdk/dev-kit/bsp">
+        <num>Latest v4.X release</num>
+        <commit>latest-v4.X</commit>
       </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback mapc opps pbc spp spp_multi_port btsdk_hci_app btsdk_ota_app audio_gateway watch ans anc batc bats beacon env_sens_temp helloc hellos hrc hrs lecoc adc gpio i2c_master puart uart_raw" prefix="wiced_btsdk/dev-kit/bsp">
         <num>Latest v3.X release</num>
@@ -1548,6 +1576,10 @@
     <category>AIROC&#8482; Bluetooth&#174; BSPs</category>
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYW920721M2EVK-01</board_uri>
     <versions>
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback mapc opps pbc spp spp_multi_port btsdk_hci_app btsdk_ota_app avsink audio_gateway audio_record handsfree hs_speaker watch anc ans batc bats beacon lecoc adc uart_raw hs_speaker_ama hs_sa hs_wass_aac hs_wass_ama watch_ama watch_dual_a2dp" prefix="wiced_btsdk/dev-kit/bsp">
+        <num>4.7.0 release</num>
+        <commit>release-v4.7.0</commit>
+      </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback mapc opps pbc spp spp_multi_port btsdk_hci_app btsdk_ota_app avsink audio_gateway audio_record handsfree hs_speaker watch anc ans batc bats beacon lecoc adc uart_raw" prefix="wiced_btsdk/dev-kit/bsp">
         <num>3.3.0 release</num>
         <commit>release-v3.3.0</commit>
@@ -1567,6 +1599,10 @@
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app hci_loopback mapc opps pbc spp spp_multi_port btsdk_hci_app btsdk_ota_app avsink audio_gateway audio_record handsfree hs_speaker watch anc ans batc bats beacon lecoc adc uart_raw" prefix="wiced_btsdk/dev-kit/bsp">
         <num>2.9.0 release</num>
         <commit>release-v2.9.0</commit>
+      </version>
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback mapc opps pbc spp spp_multi_port btsdk_hci_app btsdk_ota_app avsink audio_gateway audio_record handsfree hs_speaker watch anc ans batc bats beacon lecoc adc uart_raw hs_speaker_ama hs_sa hs_wass_aac hs_wass_ama watch_ama watch_dual_a2dp" prefix="wiced_btsdk/dev-kit/bsp">
+        <num>Latest v4.X release</num>
+        <commit>latest-v4.X</commit>
       </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback mapc opps pbc spp spp_multi_port btsdk_hci_app btsdk_ota_app avsink audio_gateway audio_record handsfree hs_speaker watch anc ans batc bats beacon lecoc adc uart_raw" prefix="wiced_btsdk/dev-kit/bsp">
         <num>Latest v3.X release</num>
@@ -1610,6 +1646,10 @@
     <category>AIROC&#8482; Bluetooth&#174; BSPs</category>
     <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYW920721M2EVK-02</board_uri>
     <versions>
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback mapc opps pbc spp spp_multi_port btsdk_hci_app btsdk_ota_app avsink audio_gateway audio_record handsfree hs_speaker watch anc ans batc bats beacon helloc hellos hrc hrs lecoc adc gpio uart_raw ifxvh hs_speaker_ama hs_sa hs_wass_aac hs_wass_ama watch_ama watch_dual_a2dp" prefix="wiced_btsdk/dev-kit/bsp">
+        <num>4.7.0 release</num>
+        <commit>release-v4.7.0</commit>
+      </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback mapc opps pbc spp spp_multi_port btsdk_hci_app btsdk_ota_app avsink audio_gateway audio_record handsfree hs_speaker watch anc ans batc bats beacon helloc hellos hrc hrs lecoc adc gpio uart_raw ifxvh" prefix="wiced_btsdk/dev-kit/bsp">
         <num>4.4.2 release</num>
         <commit>release-v4.4.2</commit>
@@ -1634,7 +1674,7 @@
         <num>2.9.0 release</num>
         <commit>release-v2.9.0</commit>
       </version>
-      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback mapc opps pbc spp spp_multi_port btsdk_hci_app btsdk_ota_app avsink audio_gateway audio_record handsfree hs_speaker watch anc ans batc bats beacon helloc hellos hrc hrs lecoc adc gpio uart_raw ifxvh" prefix="wiced_btsdk/dev-kit/bsp">
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback mapc opps pbc spp spp_multi_port btsdk_hci_app btsdk_ota_app avsink audio_gateway audio_record handsfree hs_speaker watch anc ans batc bats beacon helloc hellos hrc hrs lecoc adc gpio uart_raw ifxvh hs_speaker_ama hs_sa hs_wass_aac hs_wass_ama watch_ama watch_dual_a2dp" prefix="wiced_btsdk/dev-kit/bsp">
         <num>Latest v4.X release</num>
         <commit>latest-v4.X</commit>
       </version>
@@ -1680,6 +1720,10 @@
     <category>AIROC&#8482; Bluetooth&#174; BSPs</category>
     <board_uri>https://github.com/Infineon/TARGET_CYW920721M2EVB-03</board_uri>
     <versions>
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback mapc opps pbc spp spp_multi_port btsdk_hci_app btsdk_ota_app avsink audio_gateway audio_record handsfree hs_speaker watch anc ans batc bats beacon findme helloc hellos hrc hrs lecoc adc gpio i2c_master uart_raw ifxvh hs_speaker_ama hs_sa hs_wass_aac hs_wass_ama watch_ama watch_dual_a2dp" prefix="wiced_btsdk/dev-kit/bsp">
+        <num>4.7.0 release</num>
+        <commit>release-v4.7.0</commit>
+      </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback mapc opps pbc spp spp_multi_port btsdk_hci_app btsdk_ota_app avsink audio_gateway audio_record handsfree hs_speaker watch anc ans batc bats beacon findme helloc hellos hrc hrs lecoc adc gpio i2c_master uart_raw ifxvh" prefix="wiced_btsdk/dev-kit/bsp">
         <num>4.4.2 release</num>
         <commit>release-v4.4.2</commit>
@@ -1692,7 +1736,7 @@
         <num>3.2.0 release</num>
         <commit>release-v3.2.0</commit>
       </version>
-      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback mapc opps pbc spp spp_multi_port btsdk_hci_app btsdk_ota_app avsink audio_gateway audio_record handsfree hs_speaker watch anc ans batc bats beacon findme helloc hellos hrc hrs lecoc adc gpio i2c_master uart_raw ifxvh" prefix="wiced_btsdk/dev-kit/bsp">
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback mapc opps pbc spp spp_multi_port btsdk_hci_app btsdk_ota_app avsink audio_gateway audio_record handsfree hs_speaker watch anc ans batc bats beacon findme helloc hellos hrc hrs lecoc adc gpio i2c_master uart_raw ifxvh hs_speaker_ama hs_sa hs_wass_aac hs_wass_ama watch_ama watch_dual_a2dp" prefix="wiced_btsdk/dev-kit/bsp">
         <num>Latest v4.X release</num>
         <commit>latest-v4.X</commit>
       </version>
