@@ -12,6 +12,15 @@
         </dependees>
       </version>
       <version>
+        <commit>release-v4.8.0</commit>
+        <dependees>
+          <dependee>
+            <id>20706A2</id>
+            <commit>latest-v4.X</commit>
+          </dependee>
+        </dependees>
+      </version>
+      <version>
         <commit>release-v4.6.3</commit>
         <dependees>
           <dependee>
