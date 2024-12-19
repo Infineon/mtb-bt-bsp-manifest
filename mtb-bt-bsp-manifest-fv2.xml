@@ -1277,6 +1277,10 @@
     <category>AIROC&#8482; Bluetooth&#174; BSPs</category>
     <board_uri>https://github.com/Infineon/TARGET_CYW943022BTEVK-01</board_uri>
     <versions>
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hellos helloc beacon bats batc watch" prefix="wiced_btsdk/dev-kit/bsp">
+        <num>4.9.1 release</num>
+        <commit>release-v4.9.1</commit>
+      </version>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hellos helloc beacon bats batc" prefix="wiced_btsdk/dev-kit/bsp">
         <num>4.4.2 release</num>
         <commit>release-v4.4.2</commit>
