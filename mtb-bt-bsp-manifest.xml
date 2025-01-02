@@ -2,7 +2,7 @@
   <board>
     <id>CYBT-213043-MESH</id>
     <category>AIROC&#8482; Bluetooth&#174; BSPs</category>
-    <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYBT-213043-MESH</board_uri>
+    <board_uri>https://github.com/Infineon/TARGET_CYBT-213043-MESH</board_uri>
     <versions>
       <version tools_max_version="2.1.0" flow_version="1.0" prov_capabilities_per_version="bsp_gen1">
         <num>2.7.1 release</num>
